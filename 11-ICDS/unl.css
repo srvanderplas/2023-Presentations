@@ -1,0 +1,99 @@
+h1, h2, h3, h4 {
+    font-weight: 500;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+
+h1 { 
+	color: #d00000;
+  font-size: 3.5em;
+  font-family: 'Roboto', sans-serif; 
+  /*background: rgba(.9961, .9922, .9804, .3);*/
+  padding:20px;
+}
+h2 { 
+	color: #001226;
+  font-size: 2.5em;
+  font-family: 'Roboto', sans-serif; 
+}
+h3 { 
+	color: #249ab5;
+  font-size: 1.5em;
+  font-family: 'Montserrat', sans-serif; 
+}
+h4 { 
+  font-size: 1.25em; 
+  font-family: 'Montserrat', sans-serif; 
+}
+
+body{
+  font-size: 1em;
+  font-weight:400;
+  font-family: 'Montserrat', sans-serif; 
+}
+
+.title-slide.inverse {
+	background-color: #fefdfa;
+	border-bottom: 0;
+}
+
+.title-slide.inverse h1 {
+	color: #d00000 !important;
+	margin-top: -130px;
+}
+
+.title-slide.inverse h2{
+	color: #001226 !important; 
+  margin-bottom:50px;
+}
+
+.title-slide.inverse h3{
+  font-family: 'Handlee', cursive; 
+	color: #249ab5 !important; 
+}
+
+.inverse {
+  background-color: #001226;
+  border-bottom: 0;
+  color: #fefdfa;
+}
+
+.inverse h2 {
+	color: #fefdfa;
+}
+
+.inverse h3 {
+	color: #d00000;
+}
+
+/* Other font formatting stuff */
+.emph { font-family: 'Handlee', cursive; }
+.red { color: #d00000 !important;}
+.orange {color: #f58a1f !important;}
+.yellow {color: #ffd74f !important;}
+.green {color: #1B8500 !important;}
+.cerulean { color: #249ab5 !important; }
+.blue {color: #005d84 !important;}
+.purple {color: #a5228d!important;}
+.grey {color: #c7c8ca!important;}
+
+/* other handy classes */
+.large {font-size: 130%}
+.largish{font-size:110%;}
+.reg{font-size:100%;}
+.slightly-small {font-size: 80%}
+.smaller {font-size: 75%}
+.small {font-size: 70%}
+.tiny {font-size: 50%}
+
+.underline {
+  border-bottom:1px solid black;display:inline-block;
+}
+
+.hidden{
+  visibility:hidden;
+}
+
+figure>p {
+  margin:2px;
+}

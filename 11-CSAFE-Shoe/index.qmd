@@ -1,0 +1,307 @@
+---
+title: "FWIII: Characteristics in Local Populations"
+author: "Susan Vanderplas & Muxin Hua"
+date: 2023-11-06
+format: 
+  revealjs:
+    embed-resources: true
+---
+
+## General Overview
+
+1.  Create a scanner which can collect local population data outdoors ✅ and indoors 🚧
+
+    -   Get people to walk across the scanner 😬
+
+    -   Collect large amounts of shoe pictures w/ time, date, location data 🥿👠👞
+
+2.  Create an algorithm which can identify human-recognizable characteristics from scanner images
+
+3.  Generate a local database of common footwear features
+
+4.  Use local database to characterize frequency of similar shoes in local population
+
+::: notes
+This is the overall approach we'd planned to use for this project. I'm going to use today to conduct a post-mortem of previous modeling approaches (so I'm focusing on step 2) and explain how we're going to be approaching this problem from now on.
+:::
+
+## Tasks
+
+[![In the 60s, Marvin Minsky assigned a couple of undergrads to spend the summer programming a computer to use a camera to identify objects in a scene. He figured they'd have the problem solved by the end of the summer. Half a century later, we're still working on it.](https://imgs.xkcd.com/comics/tasks_2x.png){fig-align="center"}](https://xkcd.com/1425/)
+
+## Our Assumption in 2018
+
+::: columns
+::: column
+::: {layout-ncol="2"}
+[![African Elephant](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/African_Elephant_%28Loxodonta_africana%29_bull_%2831100819046%29.jpg/1024px-African_Elephant_%28Loxodonta_africana%29_bull_%2831100819046%29.jpg){fig-alt="Picture of an African Elephant" fig-align="center" width="50%"}](https://commons.wikimedia.org/wiki/File:African_Elephant_%28Loxodonta_africana%29_bull_%2831100819046%29.jpg)
+
+[![Asian Elephant](https://upload.wikimedia.org/wikipedia/commons/9/98/Elephas_maximus_%28Bandipur%29.jpg){fig-alt="A picture of an Asian elephant" fig-align="center" width="50%"}](https://commons.wikimedia.org/wiki/File:Elephas_maximus_(Bandipur).jpg)
+:::
+
+If models can differentiate between types of elephants, they can identify shapes... right?
+:::
+
+::: column
+
+::: {layout-ncol="3"}
+![Circles](images/circle_examples.png)
+
+![Quads](images/quad_examples.png)
+
+![???](images/dc_circle_quad.png)
+:::
+:::
+:::
+
+::: notes
+Neural networks can differentiate between African and Asian elephants. I can't even do that... They'll be able to differentiate between a circle and a square easily.
+:::
+
+## Types of Computer Vision Tasks
+
+We can reasonably pose this problem in 3 different ways:
+
+::: {layout-ncol="3"}
+![Classification: same-size regions labeled with one or more classes](images/classification-shoe-example.png)
+
+![Object Detection: Propose a bounding box and label for each object in an image](images/obj-detection-shoe-example.png)
+
+![Image segmentation: find regions of the image and label each region](images/segmentation-shoe-example.png)
+:::
+
+Each method requires a different type of labeling schema, data format, etc.
+
+Some are more tedious to generate than others
+
+## Initial Approach (\~2019) {.r-fit-text}
+
+-   Use VGG16 to classify 256x256 px chunks of images
+
+-   Goal is to label the entire chunk with one or more classes
+
+![VGG16 Shoe Example approach](images/vgg16-shoe-example.png){alt="VGG16 Shoe Example approach" fig-align="center" width="75%"}
+
+-   Hard to integrate predictions from each chunk back into the main image reliably
+
+## Next Approach (2021-2023)
+
+-   Try to use object detection
+
+    -   Started with FastAI, but had terrible ongoing support
+
+    -   Moved to PyTorch, which is a lower level framework\
+        (Side note: Muxin is amazing at Python)
+
+-   New developments:
+
+    -   Structured model so that the underlying network was replacable: can swap VGG16 for Resnet50
+
+    -   Implementing better metrics, e.g. Intersection over Union for assessing predictions vs. ground truth
+
+## Fundamental Problem
+
+-   Neural networks are trained on millions of human-annotated real-world photos
+
+-   Even shoe soles are artificial relative to a natural scene
+
+-   Networks weren't trained on the artificial patterns or layouts that are used to generate shoes
+
+Pretrained NNs can still generate useful information that is computer-friendly (e.g. Charless's method)
+
+To work with artificial patterns and get human-like labels, we have to do something different.
+
+## Solution?  {.r-fit-text}
+
+1.  Systematically generate a large library of synthetic data
+
+    -   pre-labeled
+
+    -   complex characteristics
+
+    -   will require several iterations to get right
+
+    -   Use to train preliminary model
+
+2.  Run 2D patterns through Charless's network to generate more realistic 3D images
+
+    -   Use to train a second-gen model
+    
+    
+## Solution?  {.r-fit-text}
+
+2.  Run 2D patterns through Charless's network to generate more realistic 3D images
+
+    -   Use to train a second-gen model
+3.  Train on Zappos pictures labeled by humans
+
+    -   Update 2nd gen model weights (transfer learning)
+
+4.  Train on Scanner Photos
+
+    -   Update 3rd gen model weights (messy data)
+
+## Solution? {.r-fit-text}
+
+Measure performance/accuracy changes over time on a consistent set of stimuli manually derived from real shoes
+
+
+
+## Synthetic Pattern Generation
+
+- Use [SoleMate style labeling](SoleMate.pdf) for examiner familiarity
+
+::: {layout-ncol=4}
+![](images/SoleMate1.png)
+
+![](images/SoleMate2.png)
+
+![](images/SoleMate3.png)
+
+![](images/SoleMate4.png)
+:::
+
+## Synthetic Data Generation
+
+### Region Layout
+
+::: {layout-ncol=4}
+![](images/Regions_Athletic.svg)
+
+![](images/Regions_Athletic_2.svg)
+
+![](images/Regions_Flat.svg)
+
+![](images/Regions_Flat_2.svg)
+
+![](images/Regions_Flat_3.svg)
+
+![](images/Regions_Heel_2.svg)
+
+![](images/Regions_Work_2.svg)
+
+![](images/Regions_Work.svg)
+:::
+
+::: notes
+
+The basic idea I have is to use real shoes to generate rough "layouts" that are common across different shoe types.
+:::
+
+## Synthetic Data Generation
+
+### Patterns
+
+::: {layout-ncol=4}
+![Snowflake](images/Pattern_Snowflake.svg)
+
+![Hexagon Open Circle](images/Pattern_Open_Circle_Hexagon_Tile.svg) 
+
+![Stud](images/Pattern_Stud_1.svg) 
+
+![Target Solid Circle](images/Pattern_Target_Solid_2.svg)
+
+![Circle Bar Across](images/Pattern_Circle_Bar_Across.svg)
+
+![Solid Circle Array](images/Pattern_Solid_Circle_Array.svg) 
+
+![Targets with Arcs](images/Pattern_Target_Arc.svg) 
+
+![6-pointed star](images/Pattern_Star_6.svg)
+:::
+
+::: notes
+ Then, for each layout region, we can choose a pattern and intersect the pattern with that region to produce a layout that covers the whole area. We can of course apply transforms (skew, stretch, rotate, etc.) to this to provide more options as necessary.
+:::
+
+## Synthetic Data Generation
+
+### Outlines
+
+::: {layout-ncol=4}
+![](images/Outline_Athletic.svg)
+
+![](images/Outline_Athletic_2.svg)
+
+![](images/Outline_Work.svg)
+
+![](images/Outline_Work_2.svg)
+
+![](images/Outline_Heel.svg)
+
+![](images/Outline_Heel_2.svg)
+
+![](images/Outline_Flat.svg)
+
+![](images/Outline_Flat_2.svg)
+
+![](images/Outline_Flat_3.svg)
+:::
+
+::: notes
+Then, at the end, we can crop to the outline of the shoe; these are traced from real shoes and simplified. 
+
+This should give us a very large library of training data that we can then manipulate. 
+:::
+
+## Synthetic Data Generation 
+
+::: {layout-ncol=2}
+![](images/Ex_1_Athletic_Bars.svg)
+
+![](images/Ex_2_Athletic_Complex.svg)
+
+![](images/Ex_3_Heel_Lines.svg)
+
+![](images/Ex4_Work_Arc.svg)
+
+:::
+
+## Synthetic Data Generation {.smaller}
+
+::: columns
+
+::: {.column width="45%"}
+
+### Advantages
+
+- SVGs can include metadata
+
+- Easy scaling
+
+- SVG intersection will allow marking partial objects
+
+- Region segmentation + image labels
+
+:::
+::: {.column width="10%"}
+:::
+::: {.column width="45%"}
+### Disadvantages
+
+- Manual SVG creation (8h $\approx$ 52 images)
+
+- New R/python library to generate data
+
+- 3D rendering after 2D stage: 
+    - digital via OpenSCAD + SVG?
+    - Can apply different surface colors
+
+- Lots of work required before we start in on photos
+
+:::
+
+:::
+
+::: notes
+
+And as each one of these layers is an SVG, we will have pre-labeled data (because we can label the SVG objects as we create them) and we'll be able to figure out if the object is occluded, partially included, or fully included. So we'll have pre-existing region segmentation and object labels... and hopefully we'll have less variability in these object labels than we would get having an undergrad manually label data. 
+
+Examiners told us in the 2021 IAI workshop that they tended to use multiple labels to describe a feature that was ambiguous... that is hard to train a network on, so we have decided to approach this from a bottom-up rather than top-down approach.
+
+:::
+
+
+## Questions? {.center}
+
+

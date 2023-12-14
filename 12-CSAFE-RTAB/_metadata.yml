@@ -1,0 +1,10 @@
+from: markdown+emoji
+abstract: |
+  Research Technology Advisory Board Meeting
+location: Online
+date: 2023-12-8
+talk-type: ['web', 'other']
+# One or more of seminar, web, invited, contributed, other
+
+image: ../11-CSAFE-Shoe/images/Ex_3_Heel_Lines.svg
+keywords: ['forensics']

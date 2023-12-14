@@ -1,0 +1,13 @@
+title: "CAREER Award Chalk Talk"
+author: "Susan Vanderplas"
+date: "March 8, 2023"
+from: markdown+emoji
+abstract: |
+  Brainstorming ideas for my CAREER award proposal on user testing in graphics and visualization
+location: Online
+talk-type: ['other']
+# One or more of seminar, web, invited, contributed, other
+
+image: ./images/chalk-talk-inkscape.png
+
+keywords: ['graphics', 'cognition', 'user-experiments']

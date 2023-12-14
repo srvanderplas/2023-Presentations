@@ -1,0 +1,280 @@
+---
+title: "Firearms Studies and Error Rates"
+subtitle: "The Good, The Bad, and the Ugly"
+author: Susan Vanderplas
+date: October 27, 2023
+format: revealjs
+editor: visual
+---
+
+## Evidence Standards {.smaller}
+
+> [Rule 702. Testimony by Expert Witnesses](https://www.law.cornell.edu/rules/fre/rule_702)
+
+> A witness who is qualified as an expert by knowledge, skill, experience, training, or education may testify in the form of an opinion or otherwise if:\
+> (a) the expert's scientific, technical, or other specialized knowledge will help the trier of fact to understand the evidence or to determine a fact in issue;\
+> (b) the testimony is based on sufficient facts or data;\
+> (c) the testimony is the product of reliable principles and methods; and\
+> (d) the expert has reliably applied the principles and methods to the facts of the case.
+
+(Pub. L. 93??"595, §1, Jan. 2, 1975, 88 Stat. 1937; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 26, 2011, eff. Dec. 1, 2011.)
+
+::: notes
+One of the primary debates right now is whether pattern evidence can be admitted into court, and what degree of certainty the examiner is allowed to convey to the jury. Part of this issue comes from the legal standards for admissibility - because pattern evidence has a shaky scientific foundation, it is sometimes judged to be inadmissible in court.
+
+Here, I talk about the Daubert standard, which is used in federal court and some state courts. An older standard used by some states is the Frye standard, which basically asks whether the opinion is "generally accepted as reliable" in the scientific community. However, even this standard has been more recently interpreted to require acceptance of validity from experts outside of forensic science, such as statisticians.
+:::
+
+## Evidence Standards {.smaller}
+
+**Daubert standard**
+
+-   Relevance - the method is relevant to the evidence
+-   Reliability - the method rests on a reliable foundation
+-   Scientific (or technical, or specialized) knowledge
+
+*Scientific* knowledge must be based in **scientific methodology**.
+
+## Evidence Standards {.smaller}
+
+Important factors for scientific methodology:
+
+::: smaller
+-   general acceptance by the community
+-   method has been through peer review and publication
+-   method can be tested
+-   the known or potential error rate is acceptable
+-   the research was conducted by unbiased individuals (e.g. the testing wasn't just for the specific court case)
+:::
+
+::: notes
+Another factor is the known error rate for a technique. It's important to note here that common law courts work on precedent, so it is very hard for them to change course and say "this isn't scientifically valid, so you can't use it" when there is precedent. So change is very, very slow, but it is starting to happen.
+
+So lets take a look at these error rate studies that are used to justify admission of forensic examinations of firearms into evidence.
+:::
+
+<!-- ## Error Rate Estimates -->
+
+<!-- Ideal study characteristics: -->
+
+<!-- -   Sufficient comparisons and number of examiners to generalize well to the entire field -->
+
+<!-- -   Varying numbers of same-source and different-source comparisons .small\[to prevent examiners from guessing or getting information from colleagues about test set composition\] -->
+
+<!-- -   Tests should have single pairs of evidence from one known source, with only one unknown source for comparison -->
+
+<!--     -   Ensures no additional information is available to examiners -->
+
+<!--     -   Similar to most common casework scenario -->
+
+<!-- -   Examiners should use the same criteria for evaluating the evidence -->
+
+<!-- -   Examiners should not know they're being tested -->
+
+<!-- ::: notes -->
+
+<!-- The PCAST report (and addendum) summarized the problems with existing error rate studies; there are possibly as many as 2 well-known studies in the entire field of firearms and toolmark analysis that meet half of the experiment design guidelines listed here. Firearm and toolmark analysis includes analysis of ejector marks, firing pin impressions, and breech face impressions on cartridges, and land engraved areas on bullets, as well as chisel marks, screwdrivers, tin snips, and any other variety of tool you might come across. So the lack of well-designed studies is pretty damning. -->
+
+<!-- These guidelines are pretty basic experimental design/experimental control principles. Unfortunately, they're also contradictory, since examiners who are forced to use different criteria than normal are going to know it is for test purposes. -->
+
+<!-- I'm sure this will shock you all, but it's also important to do tests that are broad - it isn't enough to just test the 8 examiners in the FBI laboratory and generalize that to all examiners in the US. Also, unlike the definition in more than one study... blind studies are studies where the examiner doesn't know it is a test; they are not studies where the examiner doesn't know the answers. -->
+
+<!-- ::: -->
+
+## The Good: Keisler (2018) {.smaller}
+
+Keisler et al. (2018) Isolated Pairs Research Study, AFTE Journal
+
+-   4 Glocks, 4 Smith & Wesson, 1 HK
+-   20 pairs of one known and one unknown cartridge
+    -   12 same-source, 8 different-source
+-   126 participants
+
+|                  |                |              |             |
+|------------------|----------------|--------------|-------------|
+|                  | Identification | Inconclusive | Elimination |
+| Same Source      | 1508           | 4            | 0           |
+| Different Source | 0              | 203          | 805         |
+
+::: notes
+This study was one of two with a halfway decent experimental design. Participants evaluated 20 pairs of cartridge cases, where one was from a known source, and one was from an unknown source. In each set of 20 pairs, 12 were from the same source, 8 were from a different source.
+
+The nice thing about this study design is that we can say for sure that there were 20 comparisons done - the design doesn't allow for any logical reasoning to cut down on comparisons.
+:::
+
+## The Good: Keisler (2018) {.smaller}
+
+::: aside
+Keisler et al. (2018) Isolated Pairs Research Study, AFTE Journal
+:::
+
+|                  |                |              |             |
+|------------------|----------------|--------------|-------------|
+|                  | Identification | Inconclusive | Elimination |
+| Same Source      | 1508           | 4            | 0           |
+| Different Source | 0              | 203          | 805         |
+
+-   Not blind
+-   Fixed proportion of same-source comparisons
+-   Examiners used lab rules for classification (more variability)
+
+::: notes
+The problems are pretty minor - examiners used lab rules for classification, so some examiners could not make eliminations at all. The study wasn't blind, and there was no variation in the proportion of same and different source comparisons, so examiners could talk to each other (or just assume that the split was a nice, round number).
+:::
+
+## The Good: Baldwin (2014) {.smaller}
+
+::: aside
+[Baldwin et al. (2014) A Study of False-Positive and False-Negative Error Rates in Cartridge Case Comparisons. Ames Laboratory report](https://www.ojp.gov/pdffiles1/nij/249874.pdf)
+:::
+
+-   25 Ruger SR9s
+-   Each participant evaluated 15 comparison sets of 3 knowns and 1 unknown
+    -   5 same-source, 10 different-source
+-   218 participants
+
+|                  |                |              |             |
+|------------------|----------------|--------------|-------------|
+|                  | Identification | Inconclusive | Elimination |
+| Same Source      | 1075           | 11           | 4           |
+| Different Source | 22             | 735+2\*      | 1421        |
+
+::: notes
+This study used a more convoluted design, but is essentially the same as the Keisler study. There are a couple of changes - they included 3 cartridges for each "known" source to allow examiners to evaluate how well the gun "marks" - so examiners got more information. Also, they managed to design this so that you couldn't get any information by comparing across sets.
+
+The other big plus of this study is that they included more different-source comparisons than same-source comparisons, which mimics case work and allows them to more precisely pin down the probability of false positive errors.
+:::
+
+## The Good: Baldwin (2014) {.smaller}
+
+::: aside
+[Baldwin et al. (2014) A Study of False-Positive and False-Negative Error Rates in Cartridge Case Comparisons. Ames Laboratory report](https://www.ojp.gov/pdffiles1/nij/249874.pdf)
+:::
+
+|                  |                |              |             |
+|------------------|----------------|--------------|-------------|
+|                  | Identification | Inconclusive | Elimination |
+| Same Source      | 1075           | 11           | 4           |
+| Different Source | 22             | 735+2\*      | 1421        |
+
+-   Not blind
+-   Fixed proportion of same-source comparisons
+-   Lab rules used *contrary to the test instructions*
+-   Not peer reviewed
+
+::: notes
+The downsides of this study are the same as in Keisler. You may be wondering why examiners are allowed to use lab rules, and the answer is that they have to follow the lab procedure for everything they do. Also, the number of examiners isn't *huge* and they won't participate in studies that force the use of a specific evaluation criteria. Examiners deal with huge case backlogs, and while they recognize that proficiency tests and error rate studies are important, they are able to be selective about which ones they do.
+:::
+
+## The Bad: Brundage-Hamby {.smaller}
+
+::: aside
+Hamby et al. (2019) A Worldwide Study of Bullets Fired From 10 Consecutively Rifled 9MM RUGER Pistol Barrels. Journal of Forensic Sciences. (and other similar studies published starting in 1998)
+:::
+
+-   10 consecutively manufactured Ruger P95 barrels
+-   Closed set study: 2 x 10 knowns, 15 unknowns
+-   697 participants
+
+|                  |                |              |             |
+|------------------|----------------|--------------|-------------|
+|                  | Identification | Inconclusive | Elimination |
+| Same Source      | 10447          | 8            | 0           |
+| Different Source | 0\*            | ???          | ???         |
+
+::: notes
+Ok, so the first thing to know is that this study has been going on for about 40 years at this point. It predates any of the major critiques of forensics by a lot. And that's probably the last nice thing I can say about it.
+
+The Hamby studies include 2 known samples from each of 10 barrels, with 15 unknowns that are also from those 10 barrels. The barrels are consecutively manufactured, so as similar as possible. The study is what's known as a "closed set" - you know ahead of time that each of the unknowns matches a known.
+:::
+
+## The Bad: Brundage-Hamby {.smaller}
+
+::: aside
+Hamby et al. (2019) A Worldwide Study of Bullets Fired From 10 Consecutively Rifled 9MM RUGER Pistol Barrels. Journal of Forensic Sciences. (and other similar studies published starting in 1998)
+:::
+
+|                  |                |              |             |
+|------------------|----------------|--------------|-------------|
+|                  | Identification | Inconclusive | Elimination |
+| Same Source      | 10447          | 8            | 0           |
+| Different Source | 0\*            | ???          | ???         |
+
+-   Not blind
+-   Closed set study (logic puzzle + examination)
+-   Focus is only on identification, not elimination
+-   Indeterminate number of different source comparisons
+
+::: notes
+As a result, there's no way to estimate how many comparisons were done. Unlike in Keisler or Baldwin, you could have up to n choose 2 unique pairwise comparisons (treating the duplicate knowns as if they were a single unit), but as soon as one of those comparisons results in a match, you know the unknown bullet isn't going to match anything else. As a result, you can only estimate the distribution of the number of comparisons.
+
+In addition, there's no way to estimate the number of correct different-source comparisons, nor the number of inconclusive different source comparisons. The study design is systematically biased to only estimate the false positive rate. When they report errors, they only look at the false positive rate -- which means they aren't reporting something that would be helpful to the defense in any way. It's a systematic bias that's pervasive enough that the study design itself reinforces it.
+
+This design is one of the most common designs emulated when examiners do their own studies. Thus, examiners generally know what's coming and what the study structure is going to be ahead of time.
+:::
+
+## Error Rate Estimates: (The Ugly)
+
+::: aside
+Lyons (2009) The Identification of Consecutively Manufactured Extractors, AFTE Journal.
+:::
+
+![Paper screenshot from Lyons (2009) indicating that some examiners got a do-over](images/lyons.png)
+
+::: notes
+Finally, there are some studies out there that are just completely useless. Lyons has the same structure as Hamby, but looks at extractor marks on cartridges. This study is the study that is used to establish extractor marks as a valid comparison... and one of the most glaring methodological issues is that they actually gave someone who misunderstood the instructions a second pass. There are a couple of other issues with this study, but when you read something like that in a published paper that has been cited in court, you just have to stop reading to protect your own sanity.
+
+So did anyone spot the other issue? What did you see?
+:::
+
+## A Different Strategy: EU/UK studies {.smaller}
+
+-   EU and UK labs have a different take on proficiency testing - much harder tests, everyone not expected to pass (overall lab pass rate)
+
+-   Examiner training is different
+
+-   Testimony is different - may use likelihood ratios instead of AFTE-like categorical system (this carries over into the experimental design)
+
+-   In one study (Mattijssen 2020), comparisons were evaluated by an algorithm as well as examiners -- this provides an objective measure of difficulty
+
+## HFSC Blind QC Program {.smaller}
+
+::: aside
+Neuman, M. et al. (2022). Blind testing in firearms: Preliminary results from a blind quality control program. Journal of Forensic Sciences, 67(3), 964--974. https://doi.org/10.1111/1556-4029.15031
+:::
+
+-   Houston Forensic Science Center has implemented the first blind testing program for firearms
+
+-   Fake cases submitted to evidence management system with comparisons
+
+-   Examiners don't know they're being tested (in theory)
+
+-   Preliminary study:
+
+    -   51 cases with varying numbers of comparisons and evidence quality
+
+    -   570 comparisons reported with no "hard errors"
+
+-   Not generalizable to other labs, but has a wider range of types of conditions
+
+    -   external vs. internal validity tradeoff
+
+## Summary
+
+-   Attention on the issue of bad study design is **slowly** improving error rate studies\
+    (most error rates are now estimable)
+
+## Summary
+
+-   All US error rate studies have issues with
+    -   self-selected participants
+    -   not blind (at least by statistical definitions)
+    -   reporting of response rates and selection biases
+
+## Summary
+
+-   Fundamental problem: fragmentation in the system
+    -   federal, state, & city labs with overlapping jurisdictions
+    -   no centralized certification authority for examiners
+    -   no centralized registry of people who do firearms evidence evaluation
+-   Issues with database searches used to "screen" results for human evaluation

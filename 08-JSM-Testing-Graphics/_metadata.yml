@@ -1,0 +1,13 @@
+title: "Testing Statistical Graphics"
+author: "Susan Vanderplas"
+date: "August 8, 2023"
+from: markdown+emoji
+abstract: |
+  A discussion of how we test graphics and what that tells us about how to design good graphics.
+location: 2023 Joint Statistical Meetings, Toronto, Canada
+talk-type: ['invited', 'discussion']
+# One or more of seminar, web, invited, contributed, other
+
+image: ./index_files/figure-revealjs/HR-diagram-1.png
+
+keywords: ['graphics', 'cognition', 'user-experiments']

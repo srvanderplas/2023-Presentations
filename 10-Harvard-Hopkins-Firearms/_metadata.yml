@@ -1,0 +1,10 @@
+from: markdown+emoji
+abstract: |
+  A discussion of studies in firearms and toolmark analysis
+location: Harvard and Johns Hopkins joint seminar on causal inference
+talk-type: ['web', 'seminar']
+# One or more of seminar, web, invited, contributed, other
+
+image: ./images/errors-1.png
+
+keywords: ['forensics', 'firearms']

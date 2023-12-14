@@ -1,0 +1,20 @@
+---
+format:
+  revealjs:
+    chalkboard: true
+    theme: dark
+---
+
+::: r-stack
+![](images/chalk-talk-0.png)
+
+![](images/chalk-talk-1.png){.fragment}
+
+![](images/chalk-talk-2.png){.fragment}
+
+![](images/chalk-talk-3.png){.fragment}
+
+![](images/chalk-talk-4.png){.fragment}
+
+![](images/chalk-talk-5.png){.fragment}
+:::

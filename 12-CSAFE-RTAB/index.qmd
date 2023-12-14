@@ -1,0 +1,74 @@
+---
+title: "FWIII: Characteristics in Local Populations"
+author: "Susan Vanderplas & Muxin Hua"
+format: 
+  revealjs:
+    embed-resources: true
+    logo: ../libs/unl/N.svg
+    theme: ../libs/unl/inverse.scss
+    includes:
+      in_header: ../libs/unl/header.html
+---
+
+## General Overview {.smaller}
+
+1.  Create a scanner which can collect local population data outdoors and indoors
+
+    -   [Indoor scanner work still ongoing]{.emph .green}
+    -   [IRB project closed - will reopen at UNL this Spring]{.emph .green}
+
+2.  Create an algorithm to identify familiar class characteristics
+
+    -   [New approach with synthetic data]{.emph .cerulean}
+
+3.  Generate a local database of common footwear features
+
+4.  Use local database to characterize frequency of similar shoes in local population
+
+## Synthetic Pattern Generation {.smaller}
+
+-   Use [SoleMate style labeling](SoleMate.pdf) for examiner familiarity
+
+-   Generate data in multiple formats: [maximum model flexibility]{.emph .purple}
+
+::: columns
+::: {.column width="30%"}
+**Patterns**
+
+::: {layout-ncol="2"}
+![](../12-IASCARS/images/Pattern_Target_Arc.svg){style="margin:3px"}
+
+![](../12-IASCARS/images/Pattern_Snowflake.svg){style="margin:3px"}
+
+![](../12-IASCARS/images/Pattern_Stud_1.svg){style="margin:3px"}
+
+![](../12-IASCARS/images/Pattern_Target_Solid_2.svg){style="margin:3px"}
+
+![](../12-IASCARS/images/Pattern_Circle_Bar_Across.svg){style="margin:3px"}
+
+![](../12-IASCARS/images/Pattern_Open_Circle_Hexagon_Tile.svg){style="margin:3px"}
+
+![](../12-IASCARS/images/Pattern_Star_6.svg){style="margin:3px"}
+
+![](../12-IASCARS/images/Pattern_Text_Horiz.svg){style="margin:3px"}
+:::
+:::
+
+::: {.column width="20%"}
+**Regions**
+
+![](../12-IASCARS/images/Regions_Athletic_2.svg) ![](../12-IASCARS/images/Regions_Flat_2.svg) ![](../12-IASCARS/images/Regions_Work_2.svg)
+:::
+
+::: {.column width="20%"}
+**Outlines**
+
+![](../12-IASCARS/images/Outline_Athletic.svg) ![](../12-IASCARS/images/Outline_Flat_2.svg) ![](../12-IASCARS/images/Outline_Work_2.svg)
+:::
+
+::: {.column width="20%"}
+**Result**
+
+![](../12-IASCARS/images/Ex_1_Athletic_Bars.svg) ![](../12-IASCARS/images/Ex_2_Athletic_Complex.svg) ![](../12-IASCARS/images/Ex4_Work_Arc.svg)
+:::
+:::

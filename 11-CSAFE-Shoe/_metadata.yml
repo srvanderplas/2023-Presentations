@@ -1,0 +1,10 @@
+from: markdown+emoji
+abstract: |
+  Presentation of progress and new approaches for the footwear forensics class characteristics project at CSAFE
+location: Online CSAFE shoe research seminar
+talk-type: ['web', 'seminar']
+# One or more of seminar, web, invited, contributed, other
+
+image: ./images/Ex_1_Athletic_Bars.svg
+
+keywords: ['forensics', 'shoes']

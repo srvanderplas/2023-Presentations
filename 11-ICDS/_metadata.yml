@@ -1,0 +1,10 @@
+from: markdown+emoji
+abstract: |
+  For at least the last 100 years, researchers have been testing statistical graphics and arguing about which chart designs are better. Many of these studies produce conflicting recommendations: should we use pie charts to display data about the relative proportions of a whole, or are stacked bar charts better? Much of the time, user testing statistical graphics takes a back seat to aesthetic preferences and gut feelings, but even when we test graphics, we often only use one methodology that is focused on a specific use case. For instance, visual inference is often used to determine whether someone can detect an effect, but it does not allow us to easily examine whether users can extrapolate from the data shown, or can draw logical conclusions from a chart. In this presentation, I'll discuss ongoing research examining chart design choices using multiple testing methods. Each of these methods has been designed to measure the usability of charts for a specific task: perception, estimation, and forecasting. We'll consider the benefits and drawbacks to this type of user testing and discuss the nuances of design decisions on chart usability.
+location: International Conference on Data Science, Universidad Diego Portales, Chile
+talk-type: ['web', 'invited']
+# One or more of seminar, web, invited, contributed, other
+
+image: ./fig/03-01-log-sketch.png
+
+keywords: ['graphics', 'user-studies']

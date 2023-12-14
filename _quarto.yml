@@ -1,0 +1,17 @@
+project:
+  type: website
+  # post-render: 
+  #   - code/webshot_img.R
+
+website:
+  title: "2023 Presentations"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
