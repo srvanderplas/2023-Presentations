@@ -1,0 +1,1374 @@
+[
+  {
+    "objectID": "12-ASC/index.html#lineups",
+    "href": "12-ASC/index.html#lineups",
+    "title": "Multimodal Graphical Testing",
+    "section": "Lineups",
+    "text": "Lineups\n\n\n\n\n\nQuestion: Can participants identify different growth rates on a linear scale?\n\n\n\nA “Visual Hypothesis Test”\n\nEmbed the question in array of charts\nCan people identify the different plot?\nNull model can be tricky to create\nTest statistic is the visual evaluation\n\n\nBuja et al. (2009)\nLoy and Hofmann (2013)\nMajumder, Hofmann, and Cook (2013)\nVanderplas and Hofmann (2017)\nVanderPlas et al. (2021)"
+  },
+  {
+    "objectID": "12-ASC/index.html#numerical-estimation",
+    "href": "12-ASC/index.html#numerical-estimation",
+    "title": "Multimodal Graphical Testing",
+    "section": "Numerical Estimation",
+    "text": "Numerical Estimation\n\n\n\n\n\nEells (1926)\n\n\n\n\n\nvon Huhn (1927)\n\n\n\n\n\nSize of region?\nEells (1926); Croxton and Stryker (1927); VanderPlas, Goluch, and Hofmann (2019)\nWith scales?\nvon Huhn (1927)\nSize of relationship compared to another region\nCroxton and Stein (1932)\nVery sensitive to question phrasing"
+  },
+  {
+    "objectID": "12-ASC/index.html#forced-choice",
+    "href": "12-ASC/index.html#forced-choice",
+    "title": "Multimodal Graphical Testing",
+    "section": "Forced Choice",
+    "text": "Forced Choice\n\n\n\n\n\nWhich bar is larger? Hughes (2001)\n\n\n\n\n\nHegarty, Smallman, and Stull (2012)\n\n\n\n\n\nForce participants to answer a specific question\nMay be a size judgment (which is larger?)\n\ncommon in psychophysics experiments\n\nMay be a more complex decision incorporating other information\n\nHughes (2001)\nXiong et al. (2020)\nLu et al. (2022)"
+  },
+  {
+    "objectID": "12-ASC/index.html#eye-tracking",
+    "href": "12-ASC/index.html#eye-tracking",
+    "title": "Multimodal Graphical Testing",
+    "section": "Eye Tracking",
+    "text": "Eye Tracking\n\n\n\nInfer cognitive processes from directed (conscious) attention\nMay be accompanied by direct estimation or other protocols\n\n\n\nGegenfurtner, Lehtinen, and Säljö (2011)\nJ. Goldberg and Helfman (2011)\nZhao et al. (2013)\nNetzel et al. (2017)\nLiu, Liu, and Tan (2023)\n\n\n\n\n\nJ. H. Goldberg and Helfman (2010)\n\n\n\n\n\nWoller-Carter et al. (2012)"
+  },
+  {
+    "objectID": "12-ASC/index.html#think-aloud-and-free-response",
+    "href": "12-ASC/index.html#think-aloud-and-free-response",
+    "title": "Multimodal Graphical Testing",
+    "section": "Think Aloud and Free Response",
+    "text": "Think Aloud and Free Response\n\nStream of consciousness narration Guan et al. (2006; Cooke 2010){.smaller}\nReasoning to justify a decision\n\n\nWhy did you choose this panel? Vanderplas and Hofmann (2017)"
+  },
+  {
+    "objectID": "12-ASC/index.html#direct-annotation",
+    "href": "12-ASC/index.html#direct-annotation",
+    "title": "Multimodal Graphical Testing",
+    "section": "Direct Annotation",
+    "text": "Direct Annotation\n\n\n\n\n\nMosteller et al. (1981)\n\n\n\n\nHave participants visually fit statistics\n\nUsually directly annotating the chart with e.g. a regression line\n\nCompare visual statistics to numerical calculations\nDifferences tell us about our implicit perception of data\ne.g. visual regression is more robust to outliers\nAlso useful as a teaching tool\n\n\nBajgier, Atkinson, and Prybutok (1989)\nRobinson, Howard, and Vanderplas (2022)\nRobinson, Howard, and Vanderplas (2023b)"
+  },
+  {
+    "objectID": "12-ASC/index.html#how-do-we-test-graphics",
+    "href": "12-ASC/index.html#how-do-we-test-graphics",
+    "title": "Multimodal Graphical Testing",
+    "section": "How Do We Test Graphics?",
+    "text": "How Do We Test Graphics?\n\n\nTesting method needs to be matched to level of engagement\nNeed to examine graphical choices across levels of engagement"
+  },
+  {
+    "objectID": "12-ASC/index.html#perception-exp.-growth-log-scales",
+    "href": "12-ASC/index.html#perception-exp.-growth-log-scales",
+    "title": "Multimodal Graphical Testing",
+    "section": "Perception: Exp. Growth & Log Scales",
+    "text": "Perception: Exp. Growth & Log Scales\n\n3 different ways of engaging with the data\n\nCan we\n\nQ1: perceive differences in     … Perceptual\nQ2: forecast trends from     … Tactile\nQ3: estimate and use     … Numerical\n\ngraphs of exponential growth with log and linear scales?\n300 participants completed all 3 experiments\n\nI’m a huge fan of lineups, but one of the issues I had with the COVID graphs I was seeing was that I wasn’t convinced people were interpreting the data correctly.\nI started thinking about why lineups wouldn’t test things at the level I was hoping for, and eventually came up with this hierarchy - first, you have to be able to recognize that there is a difference between two things. Then, you have to be able to predict and forecast to map “data from the past” onto the future. Finally, you have to actually be able to read data off of the graph and act on it - doing numerical calculations and the like.\nThese are distinct psychological tasks, and they require different ways of interacting with a chart. So I’m going to describe 3 experiments that we’ve conducted relating to log scales.\nThese experiments were inspired by COVID, but we worked hard to not go anywhere near COVID data because while we were designing these experiments, it was a bit emotionally loaded. Even now that pandemic measures have ended, it’s still too politically sensitive to touch, so we’ll continue using non-covid data on follow-up studies."
+  },
+  {
+    "objectID": "12-ASC/index.html#q1-perception-of-differences",
+    "href": "12-ASC/index.html#q1-perception-of-differences",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q1: Perception of Differences",
+    "text": "Q1: Perception of Differences"
+  },
+  {
+    "objectID": "12-ASC/index.html#q1-perception-of-differences-1",
+    "href": "12-ASC/index.html#q1-perception-of-differences-1",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q1: Perception of Differences",
+    "text": "Q1: Perception of Differences\n\n\n\n\n\n\nLog Scale\n\n\n\n\n\n\n\nLinear Scale\n\n\n\n\n\n\nOur first level of engagement is basic perception - can we actually distinguish different growth rates/levels of curvature on a linear and log scale. This is the most basic thing – if we can’t do this, then we probably won’t be able to predict things well or read information off the graph well (though, that last point is arguable).\n\nFactorial Experiment:\n\nLog/linear scale (2 levels)\nLineup composition: (6 levels)\n\nTarget plot - high, medium, low curvature\nNull plots - high, medium, low curvature\nExclude combinations where target/null are the same\n\nLow/High variability (2 levels)\n\nIncluded 6 Rorschach plots (3 curvature levels x log or linear scale)\n\n12 lineups + 1 Rorshcach plots = 13 evaluations per person\nHere are a couple of example lineups from this experiment - the first is on a linear scale, the 2nd is on a log scale. While I generally tried throughout these experiments to make it clear that we were on a log scale, it is a very subtle difference in these lineups, and fixing that wasn’t necessarily relevant to the question at hand – since all sub-panels have the same axis breaks, we’re actually testing whether we can distinguish the data, not the scales."
+  },
+  {
+    "objectID": "12-ASC/index.html#q1-perception-of-differences-2",
+    "href": "12-ASC/index.html#q1-perception-of-differences-2",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q1: Perception of Differences",
+    "text": "Q1: Perception of Differences\n\nConclusion: It’s easier to spot a curve among lines than it is to spot a line among curves\nRobinson, Howard, and Vanderplas (2023a ){.smaller}[Under review]\n\nWe used a generalized linear mixed effects model to assess the probability of a correct target identification given factors like target and null plot type, participant skill level, and random effects due to the data generating process. The plot shown here is the resulting log odds ratio for log vs. linear scales, and we see that it is easier to detect curvature among a field of null lines than it is to detect linearity among a field of curved lines. In addition, we see that when there is a lot of contrast between the null and the target plot, that is, when the nulls are very curved and the target is very straight, there isn’t much difference between the two graphs. However, if there is less contrast, the log scale allows us to perceive the differences better than the linear scale.\n\nLog scales make us more sensitive to slight changes in curvature:\n\nLow Curvature Null vs. Medium Curvature Target on log scale is curve vs. line\n(it’s hard to see the straight-line target vs. the curved nulls)\nWith Medium or High curvature Null plots, it’s easier to spot the target on the log scale than on the linear scale"
+  },
+  {
+    "objectID": "12-ASC/index.html#q2-forecasting-exponential-trends",
+    "href": "12-ASC/index.html#q2-forecasting-exponential-trends",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q2: Forecasting Exponential Trends",
+    "text": "Q2: Forecasting Exponential Trends\n\nThe next question we had was whether we can accurately predict/forecast exponential trends. This study is quite different from the last one - users were asked to draw lines on graphs interactively."
+  },
+  {
+    "objectID": "12-ASC/index.html#q2-inspiration",
+    "href": "12-ASC/index.html#q2-inspiration",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q2: Inspiration",
+    "text": "Q2: Inspiration\n\n\n\nD. J. Finney (1951) Subjective Judgment in Statistical Analysis: An Experimental Study. Journal of the Royal Statistical Society\nFrederick Mosteller et al. (1981) Eye Fitting Straight Lines. The American Statistician\nNew York Times’ ‘You Draw It’ features:\n\nFamily Income affects college chances\nJust How Bad Is the Drug Overdose Epidemic?\nWhat Got Better or Worse During Obama’s Presidency\n\n\n\n\n\n\n\nThere have been a number of statistical experiments with “eye fitting” regression models. The first was driven by the desire to reduce computation time; the second is much more psychological in nature. That study had students line up a transparency with a straight line on it to fit a regression line to some data. They found that students tended to fit the slope of the first PC rather than the least squares line.\nMore recently, The New York Times has used a really cool setup to have people predict data before showing them the actual trend. They use javascript and have people draw directly on the plot. The line can be curved, jagged, etc. - it’s not restricted to a strictly linear set-up. We decided to adopt this approach because we didn’t want to impose a specific functional form, because it’s not totally clear that people are thinking exponentially or are actually good at drawing exponential curves.\nThe methods changed a bit, but the basic concept is the same."
+  },
+  {
+    "objectID": "12-ASC/index.html#q2-forecasting-you-draw-it-goals",
+    "href": "12-ASC/index.html#q2-forecasting-you-draw-it-goals",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q2: Forecasting (You-Draw-It) Goals",
+    "text": "Q2: Forecasting (You-Draw-It) Goals\n\nReplicate Eye Fitting Straight Lines using the you-draw-it tool (4 charts) Robinson, Howard, and Vanderplas (2022)\nExplore exponential growth predictions on log and linear scale (8 charts)\n\nPoints end 50% or 75% of the way across x-axis\nRate of growth of \\(\\beta\\) = 0.1, 0.23\nLog or Linear scale\n\n\n12 total graphs to complete\n\nFirst, we wanted to validate the “Eye fitting straight lines” method using You Draw it, by using datasets from the 1981 study, on the original linear scale. This would serve as a validation of the method and also help us test out our analysis method on data that was a bit more straightforward.\nThen, the (main) goal is to see how terrible we are at predicting exponential growth when using a log scale and a linear scale.\nWe set things up with varying amounts of data – so you have data to base your regression line up to either halfway or 3/4 of the way through the graph, and you have to then extend beyond the data by 25% or 50%.\nWe used two different rates of growth, and then either had a graph with a log or linear scale.\nIf you’re keeping track, then there are 4 straight lines, and 8 sets of exponential data (generated on the fly from basic parameters). We saved both the data shown on the plot and the drawn smooth lines."
+  },
+  {
+    "objectID": "12-ASC/index.html#q2-forecasting-you-draw-it",
+    "href": "12-ASC/index.html#q2-forecasting-you-draw-it",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q2: Forecasting (You-Draw-It)",
+    "text": "Q2: Forecasting (You-Draw-It)\n\n\n\n\n\n\nData from Mosteller et al. (1981)\n\n\n\n\n\n\n\nExp data, linear scale, 50% complete"
+  },
+  {
+    "objectID": "12-ASC/index.html#q2-forecasting-you-draw-it-1",
+    "href": "12-ASC/index.html#q2-forecasting-you-draw-it-1",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q2: Forecasting (You-Draw-It)",
+    "text": "Q2: Forecasting (You-Draw-It)\n\n\nHere, I’m showing you the actual drawn lines for each of the exponential conditions, and you can see that there are a few interesting features:\n\nNot everyone drew very smooth lines – we probably need to do some data cleaning based on the number of sharp “jumps” in the data – possibly excluding those cases or smoothing over them.\nThe amount of deviation in the final prediction value is (surprisingly) not much larger when there is less data – this was really shocking for me\nLinear scale predictions seem to be lower than log scale predictions, in particular when beta is higher – it’s not that noticeable when beta is low. So the under-prediction bias is stronger for linear scales than it is for log scales. That doesn’t necessarily mean that everyone underpredicts, but you do see way more orange lines on top in the lower right panel."
+  },
+  {
+    "objectID": "12-ASC/index.html#q2-forecasting-you-draw-it-2",
+    "href": "12-ASC/index.html#q2-forecasting-you-draw-it-2",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q2: Forecasting (You-Draw-It)",
+    "text": "Q2: Forecasting (You-Draw-It)\n\n\nIf we look at the residuals instead, we see that there is still some under-prediction even with the log scale when beta is high, but our basic conclusions from the original plots still hold."
+  },
+  {
+    "objectID": "12-ASC/index.html#q2-forecasting-you-draw-it-3",
+    "href": "12-ASC/index.html#q2-forecasting-you-draw-it-3",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q2: Forecasting (You-Draw-It)",
+    "text": "Q2: Forecasting (You-Draw-It)\n\n\nWe can make this even clearer by modeling the residuals using a generalized additive model, which has a flexible form and doesn’t require too many assumptions about model structure."
+  },
+  {
+    "objectID": "12-ASC/index.html#q3-numerical-estimation",
+    "href": "12-ASC/index.html#q3-numerical-estimation",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation"
+  },
+  {
+    "objectID": "12-ASC/index.html#q3-numerical-estimation-1",
+    "href": "12-ASC/index.html#q3-numerical-estimation-1",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation\n\nNext level of engagement is estimating quantities from a graph\nThis is a much harder experiment to set up\n\nPhrasing matters a lot!\nData matters a lot!\n\n\nHow to make it generalizable?\n\nOne of my favorite parts of graphical inference is that it totally sidesteps this question of phrasing by encoding all of what would have been verbal questions into the graph itself.\nThis really is a huge improvement over past graphical methods – there were studies showing that pie charts sucked from the early 1900s, but they were hampered by the generalizability of the questions - if you asked for someone to estimate the percentage of a pie slice, you got different conclusions than if you asked someone to make a judgement between two pieces of the pie."
+  },
+  {
+    "objectID": "12-ASC/index.html#q3-numerical-estimation-2",
+    "href": "12-ASC/index.html#q3-numerical-estimation-2",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation\n\nUse Ewoks and Tribbles - creatures that might multiply exponentially\nOne set on the linear scale, one set on log scale\nUnderlying trend is the same (within transformed x axis)\nDifferent variability around the line\n\n\nEwoks and Tribbles (with apologies to Allison Horst)"
+  },
+  {
+    "objectID": "12-ASC/index.html#q3-numerical-estimation-3",
+    "href": "12-ASC/index.html#q3-numerical-estimation-3",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation\nFree response: Between \\(t_1\\) and \\(t_2\\), how does the population of \\(X\\) change?\n\n\n\n \n\n\n\n\n\nLinear Scale\n\n\n\n\n \n\n\n\n\n\nLog Scale"
+  },
+  {
+    "objectID": "12-ASC/index.html#q3-numerical-estimation-4",
+    "href": "12-ASC/index.html#q3-numerical-estimation-4",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation\nEstimating Population given a year\nProcess Sketch\n\n\n\n\n\n\nLinear scale\n\n\n\n\n\n\n\nLog scale"
+  },
+  {
+    "objectID": "12-ASC/index.html#q3-numerical-estimation-5",
+    "href": "12-ASC/index.html#q3-numerical-estimation-5",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation\nEstimating Population given a year\n\nDeviation from Closest Point\n\nMore variability in estimation on linear scale (which makes sense due to the fact that it’s compressed into a small area of the plot)\nParticipants anchor estimates to specific points, not to an overall fitted trend"
+  },
+  {
+    "objectID": "12-ASC/index.html#q3-numerical-estimation-6",
+    "href": "12-ASC/index.html#q3-numerical-estimation-6",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation\nFrom Year1 to Year2, the population increases by ____ individuals\nProcess Sketch\n\n\n\n\n\n\nLinear scale\n\n\n\n\n\n\n\nLog scale"
+  },
+  {
+    "objectID": "12-ASC/index.html#q3-numerical-estimation-7",
+    "href": "12-ASC/index.html#q3-numerical-estimation-7",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation\nFrom Year1 to Year2, the population increases by ____ individuals\n\n\n\nin dataset 1, both points were close to the underlying value, and the estimates bear that out.\nin dataset 2, one point was a bit of an outlier, and so we can see different estimation strategies appear: some participants answered using an overall trend/visual regression, while others answered using actual points."
+  },
+  {
+    "objectID": "12-ASC/index.html#q3-numerical-estimation-8",
+    "href": "12-ASC/index.html#q3-numerical-estimation-8",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation\nHow many times more creatures are there in Year2 than Year1?\nProcess Sketch\n\n\n\n\n\n\nLinear scale\n\n\n\n\n\n\n\nLog scale"
+  },
+  {
+    "objectID": "12-ASC/index.html#q3-numerical-estimation-9",
+    "href": "12-ASC/index.html#q3-numerical-estimation-9",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation\nHow many times more creatures are there in Year2 than Year1?\n\n\n\nthe results show a fundamental lack of understanding on the part of many participants"
+  },
+  {
+    "objectID": "12-ASC/index.html#q3-numerical-estimation-10",
+    "href": "12-ASC/index.html#q3-numerical-estimation-10",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation\nHow many times more creatures are there in Year2 than Year1?\n\n\n\nWhen we look only at people who answered in a reasonable range given the question (e.g. didn’t assume we meant additive estimation), we see a lot of variability and a few more things to look into here - such as why there’s a peak in dataset 1 that is around 15, even though the closest point and the true value are both near 10."
+  },
+  {
+    "objectID": "12-ASC/index.html#q3-numerical-estimation-11",
+    "href": "12-ASC/index.html#q3-numerical-estimation-11",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation\nHow many times more creatures are there in Year2 than Year1?\n\n\n\nAs the questions get more mathematically complex, we also see that participants start using model-based strategies for estimation - they don’t have the mental bandwidth to hold all of the estimates for specific points, arithmatic, etc. in their heads, so they take shortcuts like working off of a mental trendline.\nHere, for the first time, the true deviation (deviation from the underling model) is a better match to participant estimates than the closest point deviation."
+  },
+  {
+    "objectID": "12-ASC/index.html#q3-numerical-estimation-12",
+    "href": "12-ASC/index.html#q3-numerical-estimation-12",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation\nHow long does it take for the population in Year 1 to double?\nProcess Sketch\n\n\n\n\n\n\nLinear scale\n\n\n\n\n\n\n\nLog scale"
+  },
+  {
+    "objectID": "12-ASC/index.html#q3-numerical-estimation-13",
+    "href": "12-ASC/index.html#q3-numerical-estimation-13",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation\nHow long does it take for the population in Year 1 to double?\n\n\n\nstrong anchoring effect at multiples of 5\nSome conflict between true and closest point value in dataset 1 (mediated by rounding tendencies); dataset 2 was clear enough that participants could estimate 6\na lot more variability on the linear scale than the log scale in both cases"
+  },
+  {
+    "objectID": "12-ASC/index.html#challenges-benefits",
+    "href": "12-ASC/index.html#challenges-benefits",
+    "title": "Multimodal Graphical Testing",
+    "section": "Challenges & Benefits",
+    "text": "Challenges & Benefits\n\n\nConflicting results can be hard to reconcile\nConducting multiple studies is multiple times the work\n(multiple times the payoff?)\nGreater insight into the tradeoffs of design decisions"
+  },
+  {
+    "objectID": "12-ASC/index.html#challenges-benefits-1",
+    "href": "12-ASC/index.html#challenges-benefits-1",
+    "title": "Multimodal Graphical Testing",
+    "section": "Challenges & Benefits",
+    "text": "Challenges & Benefits\n\n\nTesting method needs to be matched to level of engagement\nNeed to examine graphical choices across levels of engagement"
+  },
+  {
+    "objectID": "12-ASC/index.html#packages",
+    "href": "12-ASC/index.html#packages",
+    "title": "Multimodal Graphical Testing",
+    "section": "Packages",
+    "text": "Packages"
+  },
+  {
+    "objectID": "12-ASC/index.html#references",
+    "href": "12-ASC/index.html#references",
+    "title": "Multimodal Graphical Testing",
+    "section": "References",
+    "text": "References\n\n\nBajgier, Steve M., Maryanne Atkinson, and Victor R. Prybutok. 1989. “Visual Fits in the Teaching of Regression Concepts.” The American Statistician 43 (4): 229–34. https://doi.org/10.1080/00031305.1989.10475664.\n\n\nBuja, Andreas, Dianne Cook, Heike Hofmann, Michael Lawrence, Eun-Kyung Lee, Deborah F Swayne, and Hadley Wickham. 2009. “Statistical Inference for Exploratory Data Analysis and Model Diagnostics.” Philosophical Transactions of the Royal Society of London A: Mathematical, Physical and Engineering Sciences 367 (1906): 4361–83. https://doi.org/10.1098/rsta.2009.0120.\n\n\nCooke, L. 2010. “Assessing Concurrent Think-Aloud Protocol as a Usability Test Method: A Technical Communication Approach.” IEEE Transactions on Professional Communication 53 (3): 202–15. https://doi.org/10.1109/TPC.2010.2052859.\n\n\nCroxton, F. E., and H. Stein. 1932. “Graphic Comparisons by Bars, Squares, Circles, and Cubes.” Journal of the American Statistical Association 27 (177): 54–60. https://doi.org/10.1080/01621459.1932.10503227.\n\n\nCroxton, F. E., and R. E. Stryker. 1927. “Bar Charts Versus Circle Diagrams.” Journal of the American Statistical Association 22 (160): 473–82. https://doi.org/10.2307/2276829.\n\n\nEells, W. C. 1926. “The Relative Merits of Circles and Bars for Representing Component Parts.” Journal of the American Statistical Association 21 (154): 119–32. https://doi.org/10.1080/01621459.1926.10502165.\n\n\nGegenfurtner, Andreas, Erno Lehtinen, and Roger Säljö. 2011. “Expertise Differences in the Comprehension of Visualizations: A Meta-Analysis of Eye-Tracking Research in Professional Domains.” Educational Psychology Review 23 (4): 523–52. https://doi.org/10.1007/s10648-011-9174-7.\n\n\nGoldberg, Joseph H., and Jonathan I. Helfman. 2010. “Comparing Information Graphics: A Critical Look at Eye Tracking.” In Proceedings of the 3rd BELIV’10 Workshop on BEyond Time and Errors: Novel evaLuation Methods for Information Visualization - BELIV ’10, 71–78. Atlanta, Georgia: ACM Press. https://doi.org/10.1145/2110192.2110203.\n\n\nGoldberg, Joseph, and Jonathan Helfman. 2011. “Eye Tracking for Visualization Evaluation: Reading Values on Linear Versus Radial Graphs.” Information Visualization 10 (3): 182–95. https://doi.org/10.1177/1473871611406623.\n\n\nGuan, Zhiwei, Shirley Lee, Elisabeth Cuddihy, and Judith Ramey. 2006. “The Validity of the Stimulated Retrospective Think-Aloud Method as Measured by Eye Tracking.” In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems - CHI ’06, 1253. Montr&#233;al, Qu&#233;bec, Canada: ACM Press. https://doi.org/10.1145/1124772.1124961.\n\n\nHegarty, Mary, Harvey S. Smallman, and Andrew T. Stull. 2012. “Choosing and Using Geospatial Displays: Effects of Design on Performance and Metacognition.” Journal of Experimental Psychology: Applied 18 (1): 1–17. https://doi.org/10.1037/a0026625.supp.\n\n\nHughes, B. M. 2001. “Just Noticeable Differences in 2d and 3d Bar Charts: A Psychophysical Analysis of Chart Readability.” Perceptual and Motor Skills 92 (2): 495–503.\n\n\nLiu, Chan, Hao Liu, and Zhanglu Tan. 2023. “Choosing Optimal Means of Knowledge Visualization Based on Eye Tracking for Online Education.” Education and Information Technologies, May. https://doi.org/10.1007/s10639-023-11815-4.\n\n\nLoy, Adam, and Heike Hofmann. 2013. “Diagnostic Tools for Hierarchical Linear Models.” Wiley Interdisciplinary Reviews: Computational Statistics 5 (1): 48–61. https://doi.org/10.1002/wics.1238.\n\n\nLu, Min, Joel Lanir, Chufeng Wang, Yucong Yao, Wen Zhang, Oliver Deussen, and Hui Huang. 2022. “Modeling Just Noticeable Differences in Charts.” IEEE Transactions on Visualization and Computer Graphics 28 (1): 718–26. https://doi.org/10.1109/TVCG.2021.3114874.\n\n\nMajumder, Mahbubul, Heike Hofmann, and Dianne Cook. 2013. “Validation of Visual Statistical Inference, Applied to Linear Models.” Journal of the American Statistical Association 108 (503): 942–56. https://doi.org/10.1080/01621459.2013.808157.\n\n\nMosteller, Frederick, Andrew F. Siegel, Edward Trapido, and Cleo Youtz. 1981. “Eye Fitting Straight Lines.” The American Statistician 35 (3): 150–52. https://doi.org/10.1080/00031305.1981.10479335.\n\n\nNetzel, Rudolf, Jenny Vuong, Ulrich Engelke, Seán O’Donoghue, Daniel Weiskopf, and Julian Heinrich. 2017. “Comparative Eye-Tracking Evaluation of Scatterplots and Parallel Coordinates.” Visual Informatics 1 (2): 118–31. https://doi.org/10.1016/j.visinf.2017.11.001.\n\n\nRobinson, Emily A., Reka Howard, and Susan Vanderplas. 2022. “Eye Fitting Straight Lines in the Modern Era.” Journal of Computational and Graphical Statistics 0 (0): 1–8. https://doi.org/10.1080/10618600.2022.2140668.\n\n\n———. 2023a. “Perception and Cognitive Implications of Logarithmic Scales for Exponentially Increasing Data: Perceptual Sensitivity Tested with Statistical Lineups.” Journal of Computational and Graphical Statistics Under Review. https://earobinson95.github.io/logarithmic-lineups/logarithmic-lineups-revisions.pdf.\n\n\n———. 2023b. “‘You Draw It’: Implementation of Visually Fitted Trends with R2d3.” Journal of Data Science 21 (2): 281–94. https://doi.org/10.6339/22-JDS1083.\n\n\nVanderPlas, S, R C Goluch, and H Hofmann. 2019. “Framed! Reproducing and Revisiting 150-Year-Old Charts.” Journal of Computational and Graphical Statistics 28 (3): 620–34. https://doi.org/10.1080/10618600.2018.1562937.\n\n\nVanderplas, S, and H Hofmann. 2017. “Clusters Beat Trend⁉ Testing Feature Hierarchy in Statistical Graphics.” Journal of Computational and Graphical Statistics 26 (2): 231–42. https://doi.org/10.1080/10618600.2016.1209116.\n\n\nVanderPlas, S, C Röttger, D Cook, and H Hofmann. 2021. “Statistical Significance Calculations for Scenarios in Visual Inference.” Stat 10 (1). https://doi.org/10.1002/sta4.337.\n\n\nvon Huhn, R. 1927. “Further Studies in the Graphic Use of Circles and Bars.” Journal of the American Statistical Association 22 (157): 31–36. https://doi.org/10.1080/01621459.1927.10502938.\n\n\nWoller-Carter, Margo M., Yasmina Okan, Edward T. Cokely, and Rocio Garcia-Retamero. 2012. “Communicating and Distorting Risks with Graphs: An Eye-Tracking Study.” Proceedings of the Human Factors and Ergonomics Society Annual Meeting 56 (1): 1723–27. https://doi.org/10.1177/1071181312561345.\n\n\nXiong, Cindy, Cristina R. Ceja, Casimir J. H. Ludwig, and Steven Franconeri. 2020. “Biased Average Position Estimates in Line and Bar Graphs: Underestimation, Overestimation, and Perceptual Pull.” IEEE Transactions on Visualization and Computer Graphics 26 (1): 301–10. https://doi.org/10.1109/TVCG.2019.2934400.\n\n\nZhao, Yifan, Dianne Cook, Heike Hofmann, Mahbubul Majumder, and Niladri Roy Chowdhury. 2013. “Mind Reading: Using an Eye-Tracker to See How People Are Looking at Lineups.” International Journal of Intelligent Technologies & Applied Statistics 6 (4): 393–413. https://doi.org/10.6148/IJITAS.2013.0604.05."
+  },
+  {
+    "objectID": "12-ASC/index.html#questions",
+    "href": "12-ASC/index.html#questions",
+    "title": "Multimodal Graphical Testing",
+    "section": "Questions?",
+    "text": "Questions?"
+  },
+  {
+    "objectID": "12-ASC/abstract.html",
+    "href": "12-ASC/abstract.html",
+    "title": "Abstract",
+    "section": "",
+    "text": "Multimodal User Testing: Producing comprehensive, task-focused guidelines for chart design\nFor at least the last 100 years, researchers have been testing statistical graphics and arguing about which chart designs are better. Many of these studies produce conflicting recommendations: should we use pie charts to display data about the relative proportions of a whole, or are stacked bar charts better? Much of the time, user testing statistical graphics takes a back seat to aesthetic preferences and gut feelings, but even when we test graphics, we often only use one methodology that is focused on a specific use case. For instance, visual inference is often used to determine whether someone can detect an effect, but it does not allow us to easily examine whether users can extrapolate from the data shown, or can draw logical conclusions from a chart. In this presentation, I’ll discuss ongoing research examining chart design choices using multiple testing methods. Each of these methods has been designed to measure the usability of charts for a specific task: perception, estimation, and forecasting. We’ll consider the benefits and drawbacks to this type of user testing and discuss the nuances of design decisions on chart usability."
+  },
+  {
+    "objectID": "11-ICDS/abstract.html",
+    "href": "11-ICDS/abstract.html",
+    "title": "Multimodal User Testing: Producing comprehensive, task-focused guidelines for chart design",
+    "section": "",
+    "text": "Multimodal User Testing: Producing comprehensive, task-focused guidelines for chart design\nFor at least the last 100 years, researchers have been testing statistical graphics and arguing about which chart designs are better. Many of these studies produce conflicting recommendations: should we use pie charts to display data about the relative proportions of a whole, or are stacked bar charts better? Much of the time, user testing statistical graphics takes a back seat to aesthetic preferences and gut feelings, but even when we test graphics, we often only use one methodology that is focused on a specific use case. For instance, visual inference is often used to determine whether someone can detect an effect, but it does not allow us to easily examine whether users can extrapolate from the data shown, or can draw logical conclusions from a chart. In this presentation, I’ll discuss ongoing research examining chart design choices using multiple testing methods. Each of these methods has been designed to measure the usability of charts for a specific task: perception, estimation, and forecasting. We’ll consider the benefits and drawbacks to this type of user testing and discuss the nuances of design decisions on chart usability."
+  },
+  {
+    "objectID": "11-ICDS/index.html#lineups",
+    "href": "11-ICDS/index.html#lineups",
+    "title": "Multimodal Graphical Testing",
+    "section": "Lineups",
+    "text": "Lineups\n\n\n\n\n\nQuestion: Can participants identify different growth rates on a linear scale?\n\n\n\nA “Visual Hypothesis Test”\n\nEmbed the question in array of charts\nCan people identify the different plot?\nNull model can be tricky to create\nTest statistic is the visual evaluation\n\n\nBuja et al. (2009)\nLoy and Hofmann (2013)\nMajumder, Hofmann, and Cook (2013)\nVanderplas and Hofmann (2017)\nVanderPlas et al. (2021)"
+  },
+  {
+    "objectID": "11-ICDS/index.html#numerical-estimation",
+    "href": "11-ICDS/index.html#numerical-estimation",
+    "title": "Multimodal Graphical Testing",
+    "section": "Numerical Estimation",
+    "text": "Numerical Estimation\n\n\n\n\n\nEells (1926)\n\n\n\n\n\nvon Huhn (1927)\n\n\n\n\n\nSize of region?\nEells (1926); Croxton and Stryker (1927); VanderPlas, Goluch, and Hofmann (2019)\nWith scales?\nvon Huhn (1927)\nSize of relationship compared to another region\nCroxton and Stein (1932)\nVery sensitive to question phrasing"
+  },
+  {
+    "objectID": "11-ICDS/index.html#forced-choice",
+    "href": "11-ICDS/index.html#forced-choice",
+    "title": "Multimodal Graphical Testing",
+    "section": "Forced Choice",
+    "text": "Forced Choice\n\n\n\n\n\nWhich bar is larger? Hughes (2001)\n\n\n\n\n\nHegarty, Smallman, and Stull (2012)\n\n\n\n\n\nForce participants to answer a specific question\nMay be a size judgment (which is larger?)\n\ncommon in psychophysics experiments\n\nMay be a more complex decision incorporating other information\n\nHughes (2001)\nXiong et al. (2020)\nLu et al. (2022)"
+  },
+  {
+    "objectID": "11-ICDS/index.html#eye-tracking",
+    "href": "11-ICDS/index.html#eye-tracking",
+    "title": "Multimodal Graphical Testing",
+    "section": "Eye Tracking",
+    "text": "Eye Tracking\n\n\n\nInfer cognitive processes from directed (conscious) attention\nMay be accompanied by direct estimation or other protocols\n\n\n\nGegenfurtner, Lehtinen, and Säljö (2011)\nJ. Goldberg and Helfman (2011)\nZhao et al. (2013)\nNetzel et al. (2017)\nLiu, Liu, and Tan (2023)\n\n\n\n\n\nJ. H. Goldberg and Helfman (2010)\n\n\n\n\n\nWoller-Carter et al. (2012)"
+  },
+  {
+    "objectID": "11-ICDS/index.html#think-aloud-and-free-response",
+    "href": "11-ICDS/index.html#think-aloud-and-free-response",
+    "title": "Multimodal Graphical Testing",
+    "section": "Think Aloud and Free Response",
+    "text": "Think Aloud and Free Response\n\nStream of consciousness narration Guan et al. (2006; Cooke 2010){.smaller}\nReasoning to justify a decision\n\n\nWhy did you choose this panel? Vanderplas and Hofmann (2017)"
+  },
+  {
+    "objectID": "11-ICDS/index.html#direct-annotation",
+    "href": "11-ICDS/index.html#direct-annotation",
+    "title": "Multimodal Graphical Testing",
+    "section": "Direct Annotation",
+    "text": "Direct Annotation\n\n\n\n\n\nMosteller et al. (1981)\n\n\n\n\nHave participants visually fit statistics\n\nUsually directly annotating the chart with e.g. a regression line\n\nCompare visual statistics to numerical calculations\nDifferences tell us about our implicit perception of data\ne.g. visual regression is more robust to outliers\nAlso useful as a teaching tool\n\n\nBajgier, Atkinson, and Prybutok (1989)\nRobinson, Howard, and Vanderplas (2022)\nRobinson, Howard, and Vanderplas (2023b)"
+  },
+  {
+    "objectID": "11-ICDS/index.html#how-do-we-test-graphics",
+    "href": "11-ICDS/index.html#how-do-we-test-graphics",
+    "title": "Multimodal Graphical Testing",
+    "section": "How Do We Test Graphics?",
+    "text": "How Do We Test Graphics?\n\n\nTesting method needs to be matched to level of engagement\nNeed to examine graphical choices across levels of engagement"
+  },
+  {
+    "objectID": "11-ICDS/index.html#perception-exp.-growth-log-scales",
+    "href": "11-ICDS/index.html#perception-exp.-growth-log-scales",
+    "title": "Multimodal Graphical Testing",
+    "section": "Perception: Exp. Growth & Log Scales",
+    "text": "Perception: Exp. Growth & Log Scales\n\n3 different ways of engaging with the data\n\nCan we\n\nQ1: perceive differences in     … Perceptual\nQ2: forecast trends from     … Tactile\nQ3: estimate and use     … Numerical\n\ngraphs of exponential growth with log and linear scales?\n300 participants completed all 3 experiments\n\nI’m a huge fan of lineups, but one of the issues I had with the COVID graphs I was seeing was that I wasn’t convinced people were interpreting the data correctly.\nI started thinking about why lineups wouldn’t test things at the level I was hoping for, and eventually came up with this hierarchy - first, you have to be able to recognize that there is a difference between two things. Then, you have to be able to predict and forecast to map “data from the past” onto the future. Finally, you have to actually be able to read data off of the graph and act on it - doing numerical calculations and the like.\nThese are distinct psychological tasks, and they require different ways of interacting with a chart. So I’m going to describe 3 experiments that we’ve conducted relating to log scales.\nThese experiments were inspired by COVID, but we worked hard to not go anywhere near COVID data because while we were designing these experiments, it was a bit emotionally loaded. Even now that pandemic measures have ended, it’s still too politically sensitive to touch, so we’ll continue using non-covid data on follow-up studies."
+  },
+  {
+    "objectID": "11-ICDS/index.html#q1-perception-of-differences",
+    "href": "11-ICDS/index.html#q1-perception-of-differences",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q1: Perception of Differences",
+    "text": "Q1: Perception of Differences"
+  },
+  {
+    "objectID": "11-ICDS/index.html#q1-perception-of-differences-1",
+    "href": "11-ICDS/index.html#q1-perception-of-differences-1",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q1: Perception of Differences",
+    "text": "Q1: Perception of Differences\n\n\n\n\n\n\nLog Scale\n\n\n\n\n\n\n\nLinear Scale\n\n\n\n\n\n\nOur first level of engagement is basic perception - can we actually distinguish different growth rates/levels of curvature on a linear and log scale. This is the most basic thing – if we can’t do this, then we probably won’t be able to predict things well or read information off the graph well (though, that last point is arguable).\n\nFactorial Experiment:\n\nLog/linear scale (2 levels)\nLineup composition: (6 levels)\n\nTarget plot - high, medium, low curvature\nNull plots - high, medium, low curvature\nExclude combinations where target/null are the same\n\nLow/High variability (2 levels)\n\nIncluded 6 Rorschach plots (3 curvature levels x log or linear scale)\n\n12 lineups + 1 Rorshcach plots = 13 evaluations per person\nHere are a couple of example lineups from this experiment - the first is on a linear scale, the 2nd is on a log scale. While I generally tried throughout these experiments to make it clear that we were on a log scale, it is a very subtle difference in these lineups, and fixing that wasn’t necessarily relevant to the question at hand – since all sub-panels have the same axis breaks, we’re actually testing whether we can distinguish the data, not the scales."
+  },
+  {
+    "objectID": "11-ICDS/index.html#q1-perception-of-differences-2",
+    "href": "11-ICDS/index.html#q1-perception-of-differences-2",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q1: Perception of Differences",
+    "text": "Q1: Perception of Differences\n\nConclusion: It’s easier to spot a curve among lines than it is to spot a line among curves\nRobinson, Howard, and Vanderplas (2023a ){.smaller}[Under review]\n\nWe used a generalized linear mixed effects model to assess the probability of a correct target identification given factors like target and null plot type, participant skill level, and random effects due to the data generating process. The plot shown here is the resulting log odds ratio for log vs. linear scales, and we see that it is easier to detect curvature among a field of null lines than it is to detect linearity among a field of curved lines. In addition, we see that when there is a lot of contrast between the null and the target plot, that is, when the nulls are very curved and the target is very straight, there isn’t much difference between the two graphs. However, if there is less contrast, the log scale allows us to perceive the differences better than the linear scale.\n\nLog scales make us more sensitive to slight changes in curvature:\n\nLow Curvature Null vs. Medium Curvature Target on log scale is curve vs. line\n(it’s hard to see the straight-line target vs. the curved nulls)\nWith Medium or High curvature Null plots, it’s easier to spot the target on the log scale than on the linear scale"
+  },
+  {
+    "objectID": "11-ICDS/index.html#q2-forecasting-exponential-trends",
+    "href": "11-ICDS/index.html#q2-forecasting-exponential-trends",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q2: Forecasting Exponential Trends",
+    "text": "Q2: Forecasting Exponential Trends\n\nThe next question we had was whether we can accurately predict/forecast exponential trends. This study is quite different from the last one - users were asked to draw lines on graphs interactively."
+  },
+  {
+    "objectID": "11-ICDS/index.html#q2-inspiration",
+    "href": "11-ICDS/index.html#q2-inspiration",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q2: Inspiration",
+    "text": "Q2: Inspiration\n\n\n\nD. J. Finney (1951) Subjective Judgment in Statistical Analysis: An Experimental Study. Journal of the Royal Statistical Society\nFrederick Mosteller et al. (1981) Eye Fitting Straight Lines. The American Statistician\nNew York Times’ ‘You Draw It’ features:\n\nFamily Income affects college chances\nJust How Bad Is the Drug Overdose Epidemic?\nWhat Got Better or Worse During Obama’s Presidency\n\n\n\n\n\n\n\nThere have been a number of statistical experiments with “eye fitting” regression models. The first was driven by the desire to reduce computation time; the second is much more psychological in nature. That study had students line up a transparency with a straight line on it to fit a regression line to some data. They found that students tended to fit the slope of the first PC rather than the least squares line.\nMore recently, The New York Times has used a really cool setup to have people predict data before showing them the actual trend. They use javascript and have people draw directly on the plot. The line can be curved, jagged, etc. - it’s not restricted to a strictly linear set-up. We decided to adopt this approach because we didn’t want to impose a specific functional form, because it’s not totally clear that people are thinking exponentially or are actually good at drawing exponential curves.\nThe methods changed a bit, but the basic concept is the same."
+  },
+  {
+    "objectID": "11-ICDS/index.html#q2-forecasting-you-draw-it-goals",
+    "href": "11-ICDS/index.html#q2-forecasting-you-draw-it-goals",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q2: Forecasting (You-Draw-It) Goals",
+    "text": "Q2: Forecasting (You-Draw-It) Goals\n\nReplicate Eye Fitting Straight Lines using the you-draw-it tool (4 charts) Robinson, Howard, and Vanderplas (2022)\nExplore exponential growth predictions on log and linear scale (8 charts)\n\nPoints end 50% or 75% of the way across x-axis\nRate of growth of \\(\\beta\\) = 0.1, 0.23\nLog or Linear scale\n\n\n12 total graphs to complete\n\nFirst, we wanted to validate the “Eye fitting straight lines” method using You Draw it, by using datasets from the 1981 study, on the original linear scale. This would serve as a validation of the method and also help us test out our analysis method on data that was a bit more straightforward.\nThen, the (main) goal is to see how terrible we are at predicting exponential growth when using a log scale and a linear scale.\nWe set things up with varying amounts of data – so you have data to base your regression line up to either halfway or 3/4 of the way through the graph, and you have to then extend beyond the data by 25% or 50%.\nWe used two different rates of growth, and then either had a graph with a log or linear scale.\nIf you’re keeping track, then there are 4 straight lines, and 8 sets of exponential data (generated on the fly from basic parameters). We saved both the data shown on the plot and the drawn smooth lines."
+  },
+  {
+    "objectID": "11-ICDS/index.html#q2-forecasting-you-draw-it",
+    "href": "11-ICDS/index.html#q2-forecasting-you-draw-it",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q2: Forecasting (You-Draw-It)",
+    "text": "Q2: Forecasting (You-Draw-It)\n\n\n\n\n\n\nData from Mosteller et al. (1981)\n\n\n\n\n\n\n\nExp data, linear scale, 50% complete"
+  },
+  {
+    "objectID": "11-ICDS/index.html#q2-forecasting-you-draw-it-1",
+    "href": "11-ICDS/index.html#q2-forecasting-you-draw-it-1",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q2: Forecasting (You-Draw-It)",
+    "text": "Q2: Forecasting (You-Draw-It)\n\n\nHere, I’m showing you the actual drawn lines for each of the exponential conditions, and you can see that there are a few interesting features:\n\nNot everyone drew very smooth lines – we probably need to do some data cleaning based on the number of sharp “jumps” in the data – possibly excluding those cases or smoothing over them.\nThe amount of deviation in the final prediction value is (surprisingly) not much larger when there is less data – this was really shocking for me\nLinear scale predictions seem to be lower than log scale predictions, in particular when beta is higher – it’s not that noticeable when beta is low. So the under-prediction bias is stronger for linear scales than it is for log scales. That doesn’t necessarily mean that everyone underpredicts, but you do see way more orange lines on top in the lower right panel."
+  },
+  {
+    "objectID": "11-ICDS/index.html#q2-forecasting-you-draw-it-2",
+    "href": "11-ICDS/index.html#q2-forecasting-you-draw-it-2",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q2: Forecasting (You-Draw-It)",
+    "text": "Q2: Forecasting (You-Draw-It)\n\n\nIf we look at the residuals instead, we see that there is still some under-prediction even with the log scale when beta is high, but our basic conclusions from the original plots still hold."
+  },
+  {
+    "objectID": "11-ICDS/index.html#q2-forecasting-you-draw-it-3",
+    "href": "11-ICDS/index.html#q2-forecasting-you-draw-it-3",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q2: Forecasting (You-Draw-It)",
+    "text": "Q2: Forecasting (You-Draw-It)\n\n\nWe can make this even clearer by modeling the residuals using a generalized additive model, which has a flexible form and doesn’t require too many assumptions about model structure."
+  },
+  {
+    "objectID": "11-ICDS/index.html#q3-numerical-estimation",
+    "href": "11-ICDS/index.html#q3-numerical-estimation",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation"
+  },
+  {
+    "objectID": "11-ICDS/index.html#q3-numerical-estimation-1",
+    "href": "11-ICDS/index.html#q3-numerical-estimation-1",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation\n\nNext level of engagement is estimating quantities from a graph\nThis is a much harder experiment to set up\n\nPhrasing matters a lot!\nData matters a lot!\n\n\nHow to make it generalizable?\n\nOne of my favorite parts of graphical inference is that it totally sidesteps this question of phrasing by encoding all of what would have been verbal questions into the graph itself.\nThis really is a huge improvement over past graphical methods – there were studies showing that pie charts sucked from the early 1900s, but they were hampered by the generalizability of the questions - if you asked for someone to estimate the percentage of a pie slice, you got different conclusions than if you asked someone to make a judgement between two pieces of the pie."
+  },
+  {
+    "objectID": "11-ICDS/index.html#q3-numerical-estimation-2",
+    "href": "11-ICDS/index.html#q3-numerical-estimation-2",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation\n\nUse Ewoks and Tribbles - creatures that might multiply exponentially\nOne set on the linear scale, one set on log scale\nUnderlying trend is the same (within transformed x axis)\nDifferent variability around the line\n\n\nEwoks and Tribbles (with apologies to Allison Horst)"
+  },
+  {
+    "objectID": "11-ICDS/index.html#q3-numerical-estimation-3",
+    "href": "11-ICDS/index.html#q3-numerical-estimation-3",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation\nFree response: Between \\(t_1\\) and \\(t_2\\), how does the population of \\(X\\) change?\n\n\n\n \n\n\n\n\n\nLinear Scale\n\n\n\n\n \n\n\n\n\n\nLog Scale"
+  },
+  {
+    "objectID": "11-ICDS/index.html#q3-numerical-estimation-4",
+    "href": "11-ICDS/index.html#q3-numerical-estimation-4",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation\nEstimating Population given a year\nProcess Sketch\n\n\n\n\n\n\nLinear scale\n\n\n\n\n\n\n\nLog scale"
+  },
+  {
+    "objectID": "11-ICDS/index.html#q3-numerical-estimation-5",
+    "href": "11-ICDS/index.html#q3-numerical-estimation-5",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation\nEstimating Population given a year\n\nDeviation from Closest Point\n\nMore variability in estimation on linear scale (which makes sense due to the fact that it’s compressed into a small area of the plot)\nParticipants anchor estimates to specific points, not to an overall fitted trend"
+  },
+  {
+    "objectID": "11-ICDS/index.html#q3-numerical-estimation-6",
+    "href": "11-ICDS/index.html#q3-numerical-estimation-6",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation\nFrom Year1 to Year2, the population increases by ____ individuals\nProcess Sketch\n\n\n\n\n\n\nLinear scale\n\n\n\n\n\n\n\nLog scale"
+  },
+  {
+    "objectID": "11-ICDS/index.html#q3-numerical-estimation-7",
+    "href": "11-ICDS/index.html#q3-numerical-estimation-7",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation\nFrom Year1 to Year2, the population increases by ____ individuals\n\n\n\nin dataset 1, both points were close to the underlying value, and the estimates bear that out.\nin dataset 2, one point was a bit of an outlier, and so we can see different estimation strategies appear: some participants answered using an overall trend/visual regression, while others answered using actual points."
+  },
+  {
+    "objectID": "11-ICDS/index.html#q3-numerical-estimation-8",
+    "href": "11-ICDS/index.html#q3-numerical-estimation-8",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation\nHow many times more creatures are there in Year2 than Year1?\nProcess Sketch\n\n\n\n\n\n\nLinear scale\n\n\n\n\n\n\n\nLog scale"
+  },
+  {
+    "objectID": "11-ICDS/index.html#q3-numerical-estimation-9",
+    "href": "11-ICDS/index.html#q3-numerical-estimation-9",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation\nHow many times more creatures are there in Year2 than Year1?\n\n\n\nthe results show a fundamental lack of understanding on the part of many participants"
+  },
+  {
+    "objectID": "11-ICDS/index.html#q3-numerical-estimation-10",
+    "href": "11-ICDS/index.html#q3-numerical-estimation-10",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation\nHow many times more creatures are there in Year2 than Year1?\n\n\n\nWhen we look only at people who answered in a reasonable range given the question (e.g. didn’t assume we meant additive estimation), we see a lot of variability and a few more things to look into here - such as why there’s a peak in dataset 1 that is around 15, even though the closest point and the true value are both near 10."
+  },
+  {
+    "objectID": "11-ICDS/index.html#q3-numerical-estimation-11",
+    "href": "11-ICDS/index.html#q3-numerical-estimation-11",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation\nHow many times more creatures are there in Year2 than Year1?\n\n\n\nAs the questions get more mathematically complex, we also see that participants start using model-based strategies for estimation - they don’t have the mental bandwidth to hold all of the estimates for specific points, arithmatic, etc. in their heads, so they take shortcuts like working off of a mental trendline.\nHere, for the first time, the true deviation (deviation from the underling model) is a better match to participant estimates than the closest point deviation."
+  },
+  {
+    "objectID": "11-ICDS/index.html#q3-numerical-estimation-12",
+    "href": "11-ICDS/index.html#q3-numerical-estimation-12",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation\nHow long does it take for the population in Year 1 to double?\nProcess Sketch\n\n\n\n\n\n\nLinear scale\n\n\n\n\n\n\n\nLog scale"
+  },
+  {
+    "objectID": "11-ICDS/index.html#q3-numerical-estimation-13",
+    "href": "11-ICDS/index.html#q3-numerical-estimation-13",
+    "title": "Multimodal Graphical Testing",
+    "section": "Q3: Numerical Estimation",
+    "text": "Q3: Numerical Estimation\nHow long does it take for the population in Year 1 to double?\n\n\n\nstrong anchoring effect at multiples of 5\nSome conflict between true and closest point value in dataset 1 (mediated by rounding tendencies); dataset 2 was clear enough that participants could estimate 6\na lot more variability on the linear scale than the log scale in both cases"
+  },
+  {
+    "objectID": "11-ICDS/index.html#challenges-benefits",
+    "href": "11-ICDS/index.html#challenges-benefits",
+    "title": "Multimodal Graphical Testing",
+    "section": "Challenges & Benefits",
+    "text": "Challenges & Benefits\n\n\nConflicting results can be hard to reconcile\nConducting multiple studies is multiple times the work\n(multiple times the payoff?)\nGreater insight into the tradeoffs of design decisions"
+  },
+  {
+    "objectID": "11-ICDS/index.html#challenges-benefits-1",
+    "href": "11-ICDS/index.html#challenges-benefits-1",
+    "title": "Multimodal Graphical Testing",
+    "section": "Challenges & Benefits",
+    "text": "Challenges & Benefits\n\n\nTesting method needs to be matched to level of engagement\nNeed to examine graphical choices across levels of engagement"
+  },
+  {
+    "objectID": "11-ICDS/index.html#packages",
+    "href": "11-ICDS/index.html#packages",
+    "title": "Multimodal Graphical Testing",
+    "section": "Packages",
+    "text": "Packages"
+  },
+  {
+    "objectID": "11-ICDS/index.html#references",
+    "href": "11-ICDS/index.html#references",
+    "title": "Multimodal Graphical Testing",
+    "section": "References",
+    "text": "References\n\n\nBajgier, Steve M., Maryanne Atkinson, and Victor R. Prybutok. 1989. “Visual Fits in the Teaching of Regression Concepts.” The American Statistician 43 (4): 229–34. https://doi.org/10.1080/00031305.1989.10475664.\n\n\nBuja, Andreas, Dianne Cook, Heike Hofmann, Michael Lawrence, Eun-Kyung Lee, Deborah F Swayne, and Hadley Wickham. 2009. “Statistical Inference for Exploratory Data Analysis and Model Diagnostics.” Philosophical Transactions of the Royal Society of London A: Mathematical, Physical and Engineering Sciences 367 (1906): 4361–83. https://doi.org/10.1098/rsta.2009.0120.\n\n\nCooke, L. 2010. “Assessing Concurrent Think-Aloud Protocol as a Usability Test Method: A Technical Communication Approach.” IEEE Transactions on Professional Communication 53 (3): 202–15. https://doi.org/10.1109/TPC.2010.2052859.\n\n\nCroxton, F. E., and H. Stein. 1932. “Graphic Comparisons by Bars, Squares, Circles, and Cubes.” Journal of the American Statistical Association 27 (177): 54–60. https://doi.org/10.1080/01621459.1932.10503227.\n\n\nCroxton, F. E., and R. E. Stryker. 1927. “Bar Charts Versus Circle Diagrams.” Journal of the American Statistical Association 22 (160): 473–82. https://doi.org/10.2307/2276829.\n\n\nEells, W. C. 1926. “The Relative Merits of Circles and Bars for Representing Component Parts.” Journal of the American Statistical Association 21 (154): 119–32. https://doi.org/10.1080/01621459.1926.10502165.\n\n\nGegenfurtner, Andreas, Erno Lehtinen, and Roger Säljö. 2011. “Expertise Differences in the Comprehension of Visualizations: A Meta-Analysis of Eye-Tracking Research in Professional Domains.” Educational Psychology Review 23 (4): 523–52. https://doi.org/10.1007/s10648-011-9174-7.\n\n\nGoldberg, Joseph H., and Jonathan I. Helfman. 2010. “Comparing Information Graphics: A Critical Look at Eye Tracking.” In Proceedings of the 3rd BELIV’10 Workshop on BEyond Time and Errors: Novel evaLuation Methods for Information Visualization - BELIV ’10, 71–78. Atlanta, Georgia: ACM Press. https://doi.org/10.1145/2110192.2110203.\n\n\nGoldberg, Joseph, and Jonathan Helfman. 2011. “Eye Tracking for Visualization Evaluation: Reading Values on Linear Versus Radial Graphs.” Information Visualization 10 (3): 182–95. https://doi.org/10.1177/1473871611406623.\n\n\nGuan, Zhiwei, Shirley Lee, Elisabeth Cuddihy, and Judith Ramey. 2006. “The Validity of the Stimulated Retrospective Think-Aloud Method as Measured by Eye Tracking.” In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems - CHI ’06, 1253. Montr&#233;al, Qu&#233;bec, Canada: ACM Press. https://doi.org/10.1145/1124772.1124961.\n\n\nHegarty, Mary, Harvey S. Smallman, and Andrew T. Stull. 2012. “Choosing and Using Geospatial Displays: Effects of Design on Performance and Metacognition.” Journal of Experimental Psychology: Applied 18 (1): 1–17. https://doi.org/10.1037/a0026625.supp.\n\n\nHughes, B. M. 2001. “Just Noticeable Differences in 2d and 3d Bar Charts: A Psychophysical Analysis of Chart Readability.” Perceptual and Motor Skills 92 (2): 495–503.\n\n\nLiu, Chan, Hao Liu, and Zhanglu Tan. 2023. “Choosing Optimal Means of Knowledge Visualization Based on Eye Tracking for Online Education.” Education and Information Technologies, May. https://doi.org/10.1007/s10639-023-11815-4.\n\n\nLoy, Adam, and Heike Hofmann. 2013. “Diagnostic Tools for Hierarchical Linear Models.” Wiley Interdisciplinary Reviews: Computational Statistics 5 (1): 48–61. https://doi.org/10.1002/wics.1238.\n\n\nLu, Min, Joel Lanir, Chufeng Wang, Yucong Yao, Wen Zhang, Oliver Deussen, and Hui Huang. 2022. “Modeling Just Noticeable Differences in Charts.” IEEE Transactions on Visualization and Computer Graphics 28 (1): 718–26. https://doi.org/10.1109/TVCG.2021.3114874.\n\n\nMajumder, Mahbubul, Heike Hofmann, and Dianne Cook. 2013. “Validation of Visual Statistical Inference, Applied to Linear Models.” Journal of the American Statistical Association 108 (503): 942–56. https://doi.org/10.1080/01621459.2013.808157.\n\n\nMosteller, Frederick, Andrew F. Siegel, Edward Trapido, and Cleo Youtz. 1981. “Eye Fitting Straight Lines.” The American Statistician 35 (3): 150–52. https://doi.org/10.1080/00031305.1981.10479335.\n\n\nNetzel, Rudolf, Jenny Vuong, Ulrich Engelke, Seán O’Donoghue, Daniel Weiskopf, and Julian Heinrich. 2017. “Comparative Eye-Tracking Evaluation of Scatterplots and Parallel Coordinates.” Visual Informatics 1 (2): 118–31. https://doi.org/10.1016/j.visinf.2017.11.001.\n\n\nRobinson, Emily A., Reka Howard, and Susan Vanderplas. 2022. “Eye Fitting Straight Lines in the Modern Era.” Journal of Computational and Graphical Statistics 0 (0): 1–8. https://doi.org/10.1080/10618600.2022.2140668.\n\n\n———. 2023a. “Perception and Cognitive Implications of Logarithmic Scales for Exponentially Increasing Data: Perceptual Sensitivity Tested with Statistical Lineups.” Journal of Computational and Graphical Statistics Under Review. https://earobinson95.github.io/logarithmic-lineups/logarithmic-lineups-revisions.pdf.\n\n\n———. 2023b. “‘You Draw It’: Implementation of Visually Fitted Trends with R2d3.” Journal of Data Science 21 (2): 281–94. https://doi.org/10.6339/22-JDS1083.\n\n\nVanderPlas, S, R C Goluch, and H Hofmann. 2019. “Framed! Reproducing and Revisiting 150-Year-Old Charts.” Journal of Computational and Graphical Statistics 28 (3): 620–34. https://doi.org/10.1080/10618600.2018.1562937.\n\n\nVanderplas, S, and H Hofmann. 2017. “Clusters Beat Trend⁉ Testing Feature Hierarchy in Statistical Graphics.” Journal of Computational and Graphical Statistics 26 (2): 231–42. https://doi.org/10.1080/10618600.2016.1209116.\n\n\nVanderPlas, S, C Röttger, D Cook, and H Hofmann. 2021. “Statistical Significance Calculations for Scenarios in Visual Inference.” Stat 10 (1). https://doi.org/10.1002/sta4.337.\n\n\nvon Huhn, R. 1927. “Further Studies in the Graphic Use of Circles and Bars.” Journal of the American Statistical Association 22 (157): 31–36. https://doi.org/10.1080/01621459.1927.10502938.\n\n\nWoller-Carter, Margo M., Yasmina Okan, Edward T. Cokely, and Rocio Garcia-Retamero. 2012. “Communicating and Distorting Risks with Graphs: An Eye-Tracking Study.” Proceedings of the Human Factors and Ergonomics Society Annual Meeting 56 (1): 1723–27. https://doi.org/10.1177/1071181312561345.\n\n\nXiong, Cindy, Cristina R. Ceja, Casimir J. H. Ludwig, and Steven Franconeri. 2020. “Biased Average Position Estimates in Line and Bar Graphs: Underestimation, Overestimation, and Perceptual Pull.” IEEE Transactions on Visualization and Computer Graphics 26 (1): 301–10. https://doi.org/10.1109/TVCG.2019.2934400.\n\n\nZhao, Yifan, Dianne Cook, Heike Hofmann, Mahbubul Majumder, and Niladri Roy Chowdhury. 2013. “Mind Reading: Using an Eye-Tracker to See How People Are Looking at Lineups.” International Journal of Intelligent Technologies & Applied Statistics 6 (4): 393–413. https://doi.org/10.6148/IJITAS.2013.0604.05."
+  },
+  {
+    "objectID": "11-ICDS/index.html#questions",
+    "href": "11-ICDS/index.html#questions",
+    "title": "Multimodal Graphical Testing",
+    "section": "Questions?",
+    "text": "Questions?"
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#general-overview",
+    "href": "11-CSAFE-Shoe/index.html#general-overview",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "General Overview",
+    "text": "General Overview\n\nCreate a scanner which can collect local population data outdoors ✅ and indoors 🚧\n\nGet people to walk across the scanner 😬\nCollect large amounts of shoe pictures w/ time, date, location data 🥿👠👞\n\nCreate an algorithm which can identify human-recognizable characteristics from scanner images\nGenerate a local database of common footwear features\nUse local database to characterize frequency of similar shoes in local population\n\n\nThis is the overall approach we’d planned to use for this project. I’m going to use today to conduct a post-mortem of previous modeling approaches (so I’m focusing on step 2) and explain how we’re going to be approaching this problem from now on."
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#tasks",
+    "href": "11-CSAFE-Shoe/index.html#tasks",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Tasks",
+    "text": "Tasks\n\nIn the 60s, Marvin Minsky assigned a couple of undergrads to spend the summer programming a computer to use a camera to identify objects in a scene. He figured they’d have the problem solved by the end of the summer. Half a century later, we’re still working on it."
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#our-assumption-in-2018",
+    "href": "11-CSAFE-Shoe/index.html#our-assumption-in-2018",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Our Assumption in 2018",
+    "text": "Our Assumption in 2018\n\n\n\n\n\n\n\nAfrican Elephant\n\n\n\n\n\nAsian Elephant\n\n\n\n\nIf models can differentiate between types of elephants, they can identify shapes… right?\n\n\n\n\n\n\n\nCircles\n\n\n\n\n\n\n\nQuads\n\n\n\n\n\n\n\n???\n\n\n\n\n\n\n\n\nNeural networks can differentiate between African and Asian elephants. I can’t even do that… They’ll be able to differentiate between a circle and a square easily."
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#types-of-computer-vision-tasks",
+    "href": "11-CSAFE-Shoe/index.html#types-of-computer-vision-tasks",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Types of Computer Vision Tasks",
+    "text": "Types of Computer Vision Tasks\nWe can reasonably pose this problem in 3 different ways:\n\n\n\n\n\n\nClassification: same-size regions labeled with one or more classes\n\n\n\n\n\n\n\nObject Detection: Propose a bounding box and label for each object in an image\n\n\n\n\n\n\n\nImage segmentation: find regions of the image and label each region\n\n\n\n\n\nEach method requires a different type of labeling schema, data format, etc.\nSome are more tedious to generate than others"
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#initial-approach-2019",
+    "href": "11-CSAFE-Shoe/index.html#initial-approach-2019",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Initial Approach (~2019)",
+    "text": "Initial Approach (~2019)\n\nUse VGG16 to classify 256x256 px chunks of images\nGoal is to label the entire chunk with one or more classes\n\n\nVGG16 Shoe Example approach\nHard to integrate predictions from each chunk back into the main image reliably"
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#next-approach-2021-2023",
+    "href": "11-CSAFE-Shoe/index.html#next-approach-2021-2023",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Next Approach (2021-2023)",
+    "text": "Next Approach (2021-2023)\n\nTry to use object detection\n\nStarted with FastAI, but had terrible ongoing support\nMoved to PyTorch, which is a lower level framework\n(Side note: Muxin is amazing at Python)\n\nNew developments:\n\nStructured model so that the underlying network was replacable: can swap VGG16 for Resnet50\nImplementing better metrics, e.g. Intersection over Union for assessing predictions vs. ground truth"
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#fundamental-problem",
+    "href": "11-CSAFE-Shoe/index.html#fundamental-problem",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Fundamental Problem",
+    "text": "Fundamental Problem\n\nNeural networks are trained on millions of human-annotated real-world photos\nEven shoe soles are artificial relative to a natural scene\nNetworks weren’t trained on the artificial patterns or layouts that are used to generate shoes\n\nPretrained NNs can still generate useful information that is computer-friendly (e.g. Charless’s method)\nTo work with artificial patterns and get human-like labels, we have to do something different."
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#solution",
+    "href": "11-CSAFE-Shoe/index.html#solution",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Solution?",
+    "text": "Solution?\n\nSystematically generate a large library of synthetic data\n\npre-labeled\ncomplex characteristics\nwill require several iterations to get right\nUse to train preliminary model\n\nRun 2D patterns through Charless’s network to generate more realistic 3D images\n\nUse to train a second-gen model"
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#solution-1",
+    "href": "11-CSAFE-Shoe/index.html#solution-1",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Solution?",
+    "text": "Solution?\n\nRun 2D patterns through Charless’s network to generate more realistic 3D images\n\nUse to train a second-gen model\n\nTrain on Zappos pictures labeled by humans\n\nUpdate 2nd gen model weights (transfer learning)\n\nTrain on Scanner Photos\n\nUpdate 3rd gen model weights (messy data)"
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#solution-2",
+    "href": "11-CSAFE-Shoe/index.html#solution-2",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Solution?",
+    "text": "Solution?\nMeasure performance/accuracy changes over time on a consistent set of stimuli manually derived from real shoes"
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#synthetic-pattern-generation",
+    "href": "11-CSAFE-Shoe/index.html#synthetic-pattern-generation",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Synthetic Pattern Generation",
+    "text": "Synthetic Pattern Generation\n\nUse SoleMate style labeling for examiner familiarity"
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#synthetic-data-generation",
+    "href": "11-CSAFE-Shoe/index.html#synthetic-data-generation",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Synthetic Data Generation",
+    "text": "Synthetic Data Generation\nRegion Layout\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe basic idea I have is to use real shoes to generate rough “layouts” that are common across different shoe types."
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#synthetic-data-generation-1",
+    "href": "11-CSAFE-Shoe/index.html#synthetic-data-generation-1",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Synthetic Data Generation",
+    "text": "Synthetic Data Generation\nPatterns\n\n\n\n\n\n\nSnowflake\n\n\n\n\n\n\n\nHexagon Open Circle\n\n\n\n\n\n\n\nStud\n\n\n\n\n\n\n\nTarget Solid Circle\n\n\n\n\n\n\n\n\n\nCircle Bar Across\n\n\n\n\n\n\n\nSolid Circle Array\n\n\n\n\n\n\n\nTargets with Arcs\n\n\n\n\n\n\n\n6-pointed star\n\n\n\n\n\n\nThen, for each layout region, we can choose a pattern and intersect the pattern with that region to produce a layout that covers the whole area. We can of course apply transforms (skew, stretch, rotate, etc.) to this to provide more options as necessary."
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#synthetic-data-generation-2",
+    "href": "11-CSAFE-Shoe/index.html#synthetic-data-generation-2",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Synthetic Data Generation",
+    "text": "Synthetic Data Generation\nOutlines\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThen, at the end, we can crop to the outline of the shoe; these are traced from real shoes and simplified.\nThis should give us a very large library of training data that we can then manipulate."
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#synthetic-data-generation-3",
+    "href": "11-CSAFE-Shoe/index.html#synthetic-data-generation-3",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Synthetic Data Generation",
+    "text": "Synthetic Data Generation"
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#synthetic-data-generation-4",
+    "href": "11-CSAFE-Shoe/index.html#synthetic-data-generation-4",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Synthetic Data Generation",
+    "text": "Synthetic Data Generation\n\n\nAdvantages\n\nSVGs can include metadata\nEasy scaling\nSVG intersection will allow marking partial objects\nRegion segmentation + image labels\n\n\n\n\nDisadvantages\n\nManual SVG creation (8h \\(\\approx\\) 52 images)\nNew R/python library to generate data\n3D rendering after 2D stage:\n\ndigital via OpenSCAD + SVG?\nCan apply different surface colors\n\nLots of work required before we start in on photos\n\n\n\n\nAnd as each one of these layers is an SVG, we will have pre-labeled data (because we can label the SVG objects as we create them) and we’ll be able to figure out if the object is occluded, partially included, or fully included. So we’ll have pre-existing region segmentation and object labels… and hopefully we’ll have less variability in these object labels than we would get having an undergrad manually label data.\nExaminers told us in the 2021 IAI workshop that they tended to use multiple labels to describe a feature that was ambiguous… that is hard to train a network on, so we have decided to approach this from a bottom-up rather than top-down approach."
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#questions",
+    "href": "11-CSAFE-Shoe/index.html#questions",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Questions?",
+    "text": "Questions?"
+  },
+  {
+    "objectID": "08-JSM-Testing-Graphics/index.html#why-test-graphics",
+    "href": "08-JSM-Testing-Graphics/index.html#why-test-graphics",
+    "title": "Testing Statistical Graphics",
+    "section": "Why Test Graphics?",
+    "text": "Why Test Graphics?"
+  },
+  {
+    "objectID": "08-JSM-Testing-Graphics/index.html#testing-graphics-to-communicate-well",
+    "href": "08-JSM-Testing-Graphics/index.html#testing-graphics-to-communicate-well",
+    "title": "Testing Statistical Graphics",
+    "section": "Testing Graphics to Communicate Well",
+    "text": "Testing Graphics to Communicate Well\n\nSome graphics “just work” - why do you need to test them?\n\nDo they work for everyone?\nWhat insights do people gain from the chart? How much variability is there?\nWhat background knowledge is required?\nWhat areas of the chart contribute to its’ function?"
+  },
+  {
+    "objectID": "08-JSM-Testing-Graphics/index.html#testing-graphics-to-understand-data",
+    "href": "08-JSM-Testing-Graphics/index.html#testing-graphics-to-understand-data",
+    "title": "Testing Statistical Graphics",
+    "section": "Testing Graphics to Understand Data",
+    "text": "Testing Graphics to Understand Data\n\nTesting graphics provides insight into the interaction between humans and data\n\nGraphical hypothesis testing with lineups\nVisual Statistics\nEffective Science Communication:\n\nRisk (public health, hurricanes, climate)\nLegal Evidence weight\nInformation dissemination"
+  },
+  {
+    "objectID": "08-JSM-Testing-Graphics/index.html#testing-graphics-to-understand-statistics",
+    "href": "08-JSM-Testing-Graphics/index.html#testing-graphics-to-understand-statistics",
+    "title": "Testing Statistical Graphics",
+    "section": "Testing Graphics to Understand Statistics",
+    "text": "Testing Graphics to Understand Statistics\n\nTesting graphics can lead to improved methods\n\nvisualizations for method diagnostics\nfeed back into numerical diagnostics\ndesigning algorithms that mimic human perception\nexamining how people understand statistics\nexplain new methods in better ways"
+  },
+  {
+    "objectID": "08-JSM-Testing-Graphics/index.html#why-not-test-graphics",
+    "href": "08-JSM-Testing-Graphics/index.html#why-not-test-graphics",
+    "title": "Testing Statistical Graphics",
+    "section": "Why Not Test Graphics?",
+    "text": "Why Not Test Graphics?\n\n\nPeople are a PITA (💥➡️🍑)\nData collection takes time/energy/money\nAnalyzing (usually very messy) human data is hard\n\nAll of these are true, but it’s still worth doing."
+  },
+  {
+    "objectID": "08-JSM-Testing-Graphics/index.html#biggest-challenges-in-testing-graphics",
+    "href": "08-JSM-Testing-Graphics/index.html#biggest-challenges-in-testing-graphics",
+    "title": "Testing Statistical Graphics",
+    "section": "Biggest Challenges In Testing Graphics",
+    "text": "Biggest Challenges In Testing Graphics"
+  },
+  {
+    "objectID": "08-JSM-Testing-Graphics/index.html#most-interesting-unexpected-findings",
+    "href": "08-JSM-Testing-Graphics/index.html#most-interesting-unexpected-findings",
+    "title": "Testing Statistical Graphics",
+    "section": "Most Interesting (Unexpected) Findings",
+    "text": "Most Interesting (Unexpected) Findings"
+  },
+  {
+    "objectID": "08-JSM-Testing-Graphics/index.html#things-you-wish-you-knew-when-you-started",
+    "href": "08-JSM-Testing-Graphics/index.html#things-you-wish-you-knew-when-you-started",
+    "title": "Testing Statistical Graphics",
+    "section": "Things You Wish You Knew When You Started",
+    "text": "Things You Wish You Knew When You Started"
+  },
+  {
+    "objectID": "08-JSM-Testing-Graphics/index.html#favorite-tools-for-graphics-experiments",
+    "href": "08-JSM-Testing-Graphics/index.html#favorite-tools-for-graphics-experiments",
+    "title": "Testing Statistical Graphics",
+    "section": "Favorite Tools for Graphics Experiments",
+    "text": "Favorite Tools for Graphics Experiments"
+  },
+  {
+    "objectID": "08-JSM-Testing-Graphics/index.html#things-you-want-to-test-next",
+    "href": "08-JSM-Testing-Graphics/index.html#things-you-want-to-test-next",
+    "title": "Testing Statistical Graphics",
+    "section": "Things You Want To Test Next?",
+    "text": "Things You Want To Test Next?"
+  },
+  {
+    "objectID": "12-CSAFE-RTAB/index.html#general-overview",
+    "href": "12-CSAFE-RTAB/index.html#general-overview",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "General Overview",
+    "text": "General Overview\n\nCreate a scanner which can collect local population data outdoors and indoors\n\nIndoor scanner work still ongoing\nIRB project closed - will reopen at UNL this Spring\n\nCreate an algorithm to identify familiar class characteristics\n\nNew approach with synthetic data\n\nGenerate a local database of common footwear features\nUse local database to characterize frequency of similar shoes in local population"
+  },
+  {
+    "objectID": "12-CSAFE-RTAB/index.html#synthetic-pattern-generation",
+    "href": "12-CSAFE-RTAB/index.html#synthetic-pattern-generation",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Synthetic Pattern Generation",
+    "text": "Synthetic Pattern Generation\n\nUse SoleMate style labeling for examiner familiarity\nGenerate data in multiple formats: maximum model flexibility\n\n\n\nPatterns\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRegions\n  \n\nOutlines\n  \n\nResult"
+  },
+  {
+    "objectID": "10-Harvard-Hopkins-Firearms/index.html#evidence-standards",
+    "href": "10-Harvard-Hopkins-Firearms/index.html#evidence-standards",
+    "title": "Firearms Studies and Error Rates",
+    "section": "Evidence Standards",
+    "text": "Evidence Standards\n\nRule 702. Testimony by Expert Witnesses\n\n\nA witness who is qualified as an expert by knowledge, skill, experience, training, or education may testify in the form of an opinion or otherwise if:\n(a) the expert’s scientific, technical, or other specialized knowledge will help the trier of fact to understand the evidence or to determine a fact in issue;\n(b) the testimony is based on sufficient facts or data;\n(c) the testimony is the product of reliable principles and methods; and\n(d) the expert has reliably applied the principles and methods to the facts of the case.\n\n(Pub. L. 93??“595, §1, Jan. 2, 1975, 88 Stat. 1937; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 26, 2011, eff. Dec. 1, 2011.)\n\nOne of the primary debates right now is whether pattern evidence can be admitted into court, and what degree of certainty the examiner is allowed to convey to the jury. Part of this issue comes from the legal standards for admissibility - because pattern evidence has a shaky scientific foundation, it is sometimes judged to be inadmissible in court.\nHere, I talk about the Daubert standard, which is used in federal court and some state courts. An older standard used by some states is the Frye standard, which basically asks whether the opinion is “generally accepted as reliable” in the scientific community. However, even this standard has been more recently interpreted to require acceptance of validity from experts outside of forensic science, such as statisticians."
+  },
+  {
+    "objectID": "10-Harvard-Hopkins-Firearms/index.html#evidence-standards-1",
+    "href": "10-Harvard-Hopkins-Firearms/index.html#evidence-standards-1",
+    "title": "Firearms Studies and Error Rates",
+    "section": "Evidence Standards",
+    "text": "Evidence Standards\nDaubert standard\n\nRelevance - the method is relevant to the evidence\nReliability - the method rests on a reliable foundation\nScientific (or technical, or specialized) knowledge\n\nScientific knowledge must be based in scientific methodology."
+  },
+  {
+    "objectID": "10-Harvard-Hopkins-Firearms/index.html#evidence-standards-2",
+    "href": "10-Harvard-Hopkins-Firearms/index.html#evidence-standards-2",
+    "title": "Firearms Studies and Error Rates",
+    "section": "Evidence Standards",
+    "text": "Evidence Standards\nImportant factors for scientific methodology:\n\n\ngeneral acceptance by the community\nmethod has been through peer review and publication\nmethod can be tested\nthe known or potential error rate is acceptable\nthe research was conducted by unbiased individuals (e.g. the testing wasn’t just for the specific court case)\n\n\n\nAnother factor is the known error rate for a technique. It’s important to note here that common law courts work on precedent, so it is very hard for them to change course and say “this isn’t scientifically valid, so you can’t use it” when there is precedent. So change is very, very slow, but it is starting to happen.\nSo lets take a look at these error rate studies that are used to justify admission of forensic examinations of firearms into evidence."
+  },
+  {
+    "objectID": "10-Harvard-Hopkins-Firearms/index.html#the-good-keisler-2018",
+    "href": "10-Harvard-Hopkins-Firearms/index.html#the-good-keisler-2018",
+    "title": "Firearms Studies and Error Rates",
+    "section": "The Good: Keisler (2018)",
+    "text": "The Good: Keisler (2018)\nKeisler et al. (2018) Isolated Pairs Research Study, AFTE Journal\n\n4 Glocks, 4 Smith & Wesson, 1 HK\n20 pairs of one known and one unknown cartridge\n\n12 same-source, 8 different-source\n\n126 participants\n\n\n\n\n\nIdentification\nInconclusive\nElimination\n\n\nSame Source\n1508\n4\n0\n\n\nDifferent Source\n0\n203\n805\n\n\n\n\nThis study was one of two with a halfway decent experimental design. Participants evaluated 20 pairs of cartridge cases, where one was from a known source, and one was from an unknown source. In each set of 20 pairs, 12 were from the same source, 8 were from a different source.\nThe nice thing about this study design is that we can say for sure that there were 20 comparisons done - the design doesn’t allow for any logical reasoning to cut down on comparisons."
+  },
+  {
+    "objectID": "10-Harvard-Hopkins-Firearms/index.html#the-good-keisler-2018-1",
+    "href": "10-Harvard-Hopkins-Firearms/index.html#the-good-keisler-2018-1",
+    "title": "Firearms Studies and Error Rates",
+    "section": "The Good: Keisler (2018)",
+    "text": "The Good: Keisler (2018)\n\n\n\n\n\nIdentification\nInconclusive\nElimination\n\n\nSame Source\n1508\n4\n0\n\n\nDifferent Source\n0\n203\n805\n\n\n\n\nNot blind\nFixed proportion of same-source comparisons\nExaminers used lab rules for classification (more variability)\n\n\nThe problems are pretty minor - examiners used lab rules for classification, so some examiners could not make eliminations at all. The study wasn’t blind, and there was no variation in the proportion of same and different source comparisons, so examiners could talk to each other (or just assume that the split was a nice, round number).\n\n\nKeisler et al. (2018) Isolated Pairs Research Study, AFTE Journal"
+  },
+  {
+    "objectID": "10-Harvard-Hopkins-Firearms/index.html#the-good-baldwin-2014",
+    "href": "10-Harvard-Hopkins-Firearms/index.html#the-good-baldwin-2014",
+    "title": "Firearms Studies and Error Rates",
+    "section": "The Good: Baldwin (2014)",
+    "text": "The Good: Baldwin (2014)\n\n\n25 Ruger SR9s\nEach participant evaluated 15 comparison sets of 3 knowns and 1 unknown\n\n5 same-source, 10 different-source\n\n218 participants\n\n\n\n\n\nIdentification\nInconclusive\nElimination\n\n\nSame Source\n1075\n11\n4\n\n\nDifferent Source\n22\n735+2*\n1421\n\n\n\n\nThis study used a more convoluted design, but is essentially the same as the Keisler study. There are a couple of changes - they included 3 cartridges for each “known” source to allow examiners to evaluate how well the gun “marks” - so examiners got more information. Also, they managed to design this so that you couldn’t get any information by comparing across sets.\nThe other big plus of this study is that they included more different-source comparisons than same-source comparisons, which mimics case work and allows them to more precisely pin down the probability of false positive errors.\n\n\nBaldwin et al. (2014) A Study of False-Positive and False-Negative Error Rates in Cartridge Case Comparisons. Ames Laboratory report"
+  },
+  {
+    "objectID": "10-Harvard-Hopkins-Firearms/index.html#the-good-baldwin-2014-1",
+    "href": "10-Harvard-Hopkins-Firearms/index.html#the-good-baldwin-2014-1",
+    "title": "Firearms Studies and Error Rates",
+    "section": "The Good: Baldwin (2014)",
+    "text": "The Good: Baldwin (2014)\n\n\n\n\n\nIdentification\nInconclusive\nElimination\n\n\nSame Source\n1075\n11\n4\n\n\nDifferent Source\n22\n735+2*\n1421\n\n\n\n\nNot blind\nFixed proportion of same-source comparisons\nLab rules used contrary to the test instructions\nNot peer reviewed\n\n\nThe downsides of this study are the same as in Keisler. You may be wondering why examiners are allowed to use lab rules, and the answer is that they have to follow the lab procedure for everything they do. Also, the number of examiners isn’t huge and they won’t participate in studies that force the use of a specific evaluation criteria. Examiners deal with huge case backlogs, and while they recognize that proficiency tests and error rate studies are important, they are able to be selective about which ones they do.\n\n\nBaldwin et al. (2014) A Study of False-Positive and False-Negative Error Rates in Cartridge Case Comparisons. Ames Laboratory report"
+  },
+  {
+    "objectID": "10-Harvard-Hopkins-Firearms/index.html#the-bad-brundage-hamby",
+    "href": "10-Harvard-Hopkins-Firearms/index.html#the-bad-brundage-hamby",
+    "title": "Firearms Studies and Error Rates",
+    "section": "The Bad: Brundage-Hamby",
+    "text": "The Bad: Brundage-Hamby\n\n\n10 consecutively manufactured Ruger P95 barrels\nClosed set study: 2 x 10 knowns, 15 unknowns\n697 participants\n\n\n\n\n\nIdentification\nInconclusive\nElimination\n\n\nSame Source\n10447\n8\n0\n\n\nDifferent Source\n0*\n???\n???\n\n\n\n\nOk, so the first thing to know is that this study has been going on for about 40 years at this point. It predates any of the major critiques of forensics by a lot. And that’s probably the last nice thing I can say about it.\nThe Hamby studies include 2 known samples from each of 10 barrels, with 15 unknowns that are also from those 10 barrels. The barrels are consecutively manufactured, so as similar as possible. The study is what’s known as a “closed set” - you know ahead of time that each of the unknowns matches a known.\n\n\nHamby et al. (2019) A Worldwide Study of Bullets Fired From 10 Consecutively Rifled 9MM RUGER Pistol Barrels. Journal of Forensic Sciences. (and other similar studies published starting in 1998)"
+  },
+  {
+    "objectID": "10-Harvard-Hopkins-Firearms/index.html#the-bad-brundage-hamby-1",
+    "href": "10-Harvard-Hopkins-Firearms/index.html#the-bad-brundage-hamby-1",
+    "title": "Firearms Studies and Error Rates",
+    "section": "The Bad: Brundage-Hamby",
+    "text": "The Bad: Brundage-Hamby\n\n\n\n\n\nIdentification\nInconclusive\nElimination\n\n\nSame Source\n10447\n8\n0\n\n\nDifferent Source\n0*\n???\n???\n\n\n\n\nNot blind\nClosed set study (logic puzzle + examination)\nFocus is only on identification, not elimination\nIndeterminate number of different source comparisons\n\n\nAs a result, there’s no way to estimate how many comparisons were done. Unlike in Keisler or Baldwin, you could have up to n choose 2 unique pairwise comparisons (treating the duplicate knowns as if they were a single unit), but as soon as one of those comparisons results in a match, you know the unknown bullet isn’t going to match anything else. As a result, you can only estimate the distribution of the number of comparisons.\nIn addition, there’s no way to estimate the number of correct different-source comparisons, nor the number of inconclusive different source comparisons. The study design is systematically biased to only estimate the false positive rate. When they report errors, they only look at the false positive rate – which means they aren’t reporting something that would be helpful to the defense in any way. It’s a systematic bias that’s pervasive enough that the study design itself reinforces it.\nThis design is one of the most common designs emulated when examiners do their own studies. Thus, examiners generally know what’s coming and what the study structure is going to be ahead of time.\n\n\nHamby et al. (2019) A Worldwide Study of Bullets Fired From 10 Consecutively Rifled 9MM RUGER Pistol Barrels. Journal of Forensic Sciences. (and other similar studies published starting in 1998)"
+  },
+  {
+    "objectID": "10-Harvard-Hopkins-Firearms/index.html#error-rate-estimates-the-ugly",
+    "href": "10-Harvard-Hopkins-Firearms/index.html#error-rate-estimates-the-ugly",
+    "title": "Firearms Studies and Error Rates",
+    "section": "Error Rate Estimates: (The Ugly)",
+    "text": "Error Rate Estimates: (The Ugly)\n\n\n\n\nPaper screenshot from Lyons (2009) indicating that some examiners got a do-over\n\n\n\nFinally, there are some studies out there that are just completely useless. Lyons has the same structure as Hamby, but looks at extractor marks on cartridges. This study is the study that is used to establish extractor marks as a valid comparison… and one of the most glaring methodological issues is that they actually gave someone who misunderstood the instructions a second pass. There are a couple of other issues with this study, but when you read something like that in a published paper that has been cited in court, you just have to stop reading to protect your own sanity.\nSo did anyone spot the other issue? What did you see?\n\n\nLyons (2009) The Identification of Consecutively Manufactured Extractors, AFTE Journal."
+  },
+  {
+    "objectID": "10-Harvard-Hopkins-Firearms/index.html#a-different-strategy-euuk-studies",
+    "href": "10-Harvard-Hopkins-Firearms/index.html#a-different-strategy-euuk-studies",
+    "title": "Firearms Studies and Error Rates",
+    "section": "A Different Strategy: EU/UK studies",
+    "text": "A Different Strategy: EU/UK studies\n\nEU and UK labs have a different take on proficiency testing - much harder tests, everyone not expected to pass (overall lab pass rate)\nExaminer training is different\nTestimony is different - may use likelihood ratios instead of AFTE-like categorical system (this carries over into the experimental design)\nIn one study (Mattijssen 2020), comparisons were evaluated by an algorithm as well as examiners – this provides an objective measure of difficulty"
+  },
+  {
+    "objectID": "10-Harvard-Hopkins-Firearms/index.html#hfsc-blind-qc-program",
+    "href": "10-Harvard-Hopkins-Firearms/index.html#hfsc-blind-qc-program",
+    "title": "Firearms Studies and Error Rates",
+    "section": "HFSC Blind QC Program",
+    "text": "HFSC Blind QC Program\n\n\nHouston Forensic Science Center has implemented the first blind testing program for firearms\nFake cases submitted to evidence management system with comparisons\nExaminers don’t know they’re being tested (in theory)\nPreliminary study:\n\n51 cases with varying numbers of comparisons and evidence quality\n570 comparisons reported with no “hard errors”\n\nNot generalizable to other labs, but has a wider range of types of conditions\n\nexternal vs. internal validity tradeoff\n\n\n\nNeuman, M. et al. (2022). Blind testing in firearms: Preliminary results from a blind quality control program. Journal of Forensic Sciences, 67(3), 964–974. https://doi.org/10.1111/1556-4029.15031"
+  },
+  {
+    "objectID": "10-Harvard-Hopkins-Firearms/index.html#summary",
+    "href": "10-Harvard-Hopkins-Firearms/index.html#summary",
+    "title": "Firearms Studies and Error Rates",
+    "section": "Summary",
+    "text": "Summary\n\nAttention on the issue of bad study design is slowly improving error rate studies\n(most error rates are now estimable)"
+  },
+  {
+    "objectID": "10-Harvard-Hopkins-Firearms/index.html#summary-1",
+    "href": "10-Harvard-Hopkins-Firearms/index.html#summary-1",
+    "title": "Firearms Studies and Error Rates",
+    "section": "Summary",
+    "text": "Summary\n\nAll US error rate studies have issues with\n\nself-selected participants\nnot blind (at least by statistical definitions)\nreporting of response rates and selection biases"
+  },
+  {
+    "objectID": "10-Harvard-Hopkins-Firearms/index.html#summary-2",
+    "href": "10-Harvard-Hopkins-Firearms/index.html#summary-2",
+    "title": "Firearms Studies and Error Rates",
+    "section": "Summary",
+    "text": "Summary\n\nFundamental problem: fragmentation in the system\n\nfederal, state, & city labs with overlapping jurisdictions\nno centralized certification authority for examiners\nno centralized registry of people who do firearms evidence evaluation\n\nIssues with database searches used to “screen” results for human evaluation"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#outline",
+    "href": "10-Graphics-Cognition/index.html#outline",
+    "title": "Graphics and Cognition",
+    "section": "Outline",
+    "text": "Outline\n\nA quick cognitive psychology primer\nApplications to Charts\nModels of graph cognition"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#attention",
+    "href": "10-Graphics-Cognition/index.html#attention",
+    "title": "Graphics and Cognition",
+    "section": "Attention",
+    "text": "Attention\n\n\n\nFocused vs. Divided attention\n\nDivided = multiple input streams must be processed (e.g. driving a car)\nFocused = single input stream\n\nAttention shifts with gaze systematically throughout a visual stimulus\nInformation which is extraneous to the task may not be stored or remembered"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#memory",
+    "href": "10-Graphics-Cognition/index.html#memory",
+    "title": "Graphics and Cognition",
+    "section": "Memory",
+    "text": "Memory\nLong Term Memory\n\nLong Term Memory Information Retrieval\nunlimited storage capacity (theoretically)\nmaintained for long periods\ntwo types:\n\ndeclarative/explicit - you can consciously evoke this\nnon-declarative/implicit - procedural memories, such as ‘how to ride a bike’"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#memory-1",
+    "href": "10-Graphics-Cognition/index.html#memory-1",
+    "title": "Graphics and Cognition",
+    "section": "Memory",
+    "text": "Memory\nShort Term Memory\n\nNot a term used any more. Replaced by “Working Memory”"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#memory-2",
+    "href": "10-Graphics-Cognition/index.html#memory-2",
+    "title": "Graphics and Cognition",
+    "section": "Memory",
+    "text": "Memory\nWorking Memory\n\nImage from https://www.simplypsychology.org/working-memory.html\nProposed by Baddeley and Hitch (1974)\nLimited capacity\nComponents are thought to be relatively independent of each other"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#perception",
+    "href": "10-Graphics-Cognition/index.html#perception",
+    "title": "Graphics and Cognition",
+    "section": "Perception",
+    "text": "Perception\n\n\n\nSensory input\nRecognition of type of chart\nTakes place very quickly - preattentively"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#gestalt-grouping",
+    "href": "10-Graphics-Cognition/index.html#gestalt-grouping",
+    "title": "Graphics and Cognition",
+    "section": "Gestalt Grouping",
+    "text": "Gestalt Grouping\n\n\n\nGestalt heuristics used to group points into clusters/trends"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#integration-with-domain-knowledge",
+    "href": "10-Graphics-Cognition/index.html#integration-with-domain-knowledge",
+    "title": "Graphics and Cognition",
+    "section": "Integration with Domain Knowledge",
+    "text": "Integration with Domain Knowledge\n\n\n\nBegin to assign meaning to the relationship between the data and the chart labels/titles\nRetrieve knowledge from long term memory and make that available in working memory"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#integration-with-domain-knowledge-1",
+    "href": "10-Graphics-Cognition/index.html#integration-with-domain-knowledge-1",
+    "title": "Graphics and Cognition",
+    "section": "Integration with Domain Knowledge",
+    "text": "Integration with Domain Knowledge\n\n\nDomain knowledge includes:\n\nHow graphs are usually structured (e.g. y-axis increases from bottom to top)\nConventions for use of filled vs. empty space\nKnowledge of relationships, events, etc. that might be impactful\n\n\n\nFigure from Padilla et al. Cognitive Research: Principles and Implications (2018) 3:29"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#storytelling",
+    "href": "10-Graphics-Cognition/index.html#storytelling",
+    "title": "Graphics and Cognition",
+    "section": "Storytelling",
+    "text": "Storytelling\n\n\n\nAssign meaning to relationships\nFit visual statistics\nLook for things that do and don’t fit a rough working hypothesis about the data"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#inference",
+    "href": "10-Graphics-Cognition/index.html#inference",
+    "title": "Graphics and Cognition",
+    "section": "Inference",
+    "text": "Inference\n\n\n\nNumerical estimation from the chart with uncertainty\nVisual search, followed by estimation, calculation, and inference."
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#prediction-and-application",
+    "href": "10-Graphics-Cognition/index.html#prediction-and-application",
+    "title": "Graphics and Cognition",
+    "section": "Prediction and Application",
+    "text": "Prediction and Application\n\n\n\nMoving beyond the data shown to interpret and apply meaning\nDraw conclusions\nMake predictions about the future"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#general-process",
+    "href": "10-Graphics-Cognition/index.html#general-process",
+    "title": "Graphics and Cognition",
+    "section": "General Process",
+    "text": "General Process\n\nFrom Padilla et al (2018), an adaptation of Pinker (1990)"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#adding-in-working-memory",
+    "href": "10-Graphics-Cognition/index.html#adding-in-working-memory",
+    "title": "Graphics and Cognition",
+    "section": "Adding in Working Memory",
+    "text": "Adding in Working Memory\n\nFrom Padilla et al (2018)"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#fast-and-slow-decisions",
+    "href": "10-Graphics-Cognition/index.html#fast-and-slow-decisions",
+    "title": "Graphics and Cognition",
+    "section": "Fast and Slow Decisions",
+    "text": "Fast and Slow Decisions\n\nFrom Padilla et al (2018)"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#fast-decisions",
+    "href": "10-Graphics-Cognition/index.html#fast-decisions",
+    "title": "Graphics and Cognition",
+    "section": "Fast Decisions",
+    "text": "Fast Decisions\nVisual heuristics replace calculations, requiring very little working memory"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#slow-decisions",
+    "href": "10-Graphics-Cognition/index.html#slow-decisions",
+    "title": "Graphics and Cognition",
+    "section": "Slow Decisions",
+    "text": "Slow Decisions\nWorking memory required for each estimation and calculation step"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#cross-domain-findings",
+    "href": "10-Graphics-Cognition/index.html#cross-domain-findings",
+    "title": "Graphics and Cognition",
+    "section": "Cross-domain Findings",
+    "text": "Cross-domain Findings\nMajor takeaways from different experiments across domains and application areas:\n\nVisualizations direct viewers bottom-up attention, which can both help and hinder decision making\nThe visual encoding technique gives rise to visuospatial biases\nVisualizations that have greater cognitive fit produce faster and more effective decisions\nKnowledge-driven processes can interact with the effects of the encoding technique."
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#directing-bottom-up-attention",
+    "href": "10-Graphics-Cognition/index.html#directing-bottom-up-attention",
+    "title": "Graphics and Cognition",
+    "section": "Directing bottom-up attention",
+    "text": "Directing bottom-up attention\n\nFrom Padilla et al. (2018)"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#directing-bottom-up-attention-1",
+    "href": "10-Graphics-Cognition/index.html#directing-bottom-up-attention-1",
+    "title": "Graphics and Cognition",
+    "section": "Directing bottom-up attention",
+    "text": "Directing bottom-up attention\nAttention focused on the pictogram instead of the base rate, leading to decisions that are suboptimal.\n\nFrom Padilla et al. (2018)"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#directing-bottom-up-attention-2",
+    "href": "10-Graphics-Cognition/index.html#directing-bottom-up-attention-2",
+    "title": "Graphics and Cognition",
+    "section": "Directing bottom-up attention",
+    "text": "Directing bottom-up attention\nIf a path intersects with a point of interest, resulting decisions tend to be biased.\n\nFrom Padilla et al. (2018)"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#visual-spatial-biases",
+    "href": "10-Graphics-Cognition/index.html#visual-spatial-biases",
+    "title": "Graphics and Cognition",
+    "section": "Visual-spatial Biases",
+    "text": "Visual-spatial Biases\n\nFrom Padilla et al. (2018), rearranged to fit on slidesBiases:\n\nAnchoring\nAnecdotal evidence\nContainment - what is in the container is different from what is outside the container. Ex: Binning continuous data\nDeterministic construal - what is shown is deterministic instead of probabilistic\nQuality bias - high quality image = high quality science"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#cognitive-fit",
+    "href": "10-Graphics-Cognition/index.html#cognitive-fit",
+    "title": "Graphics and Cognition",
+    "section": "Cognitive Fit",
+    "text": "Cognitive Fit\nIf there is a mismatch between the visualization type and the decision making component, working memory must be used to compensate\n\nFrom Padilla et al. (2018), reproduced from Hegarty et al. (2012)"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#knowledge-driven-processing",
+    "href": "10-Graphics-Cognition/index.html#knowledge-driven-processing",
+    "title": "Graphics and Cognition",
+    "section": "Knowledge-Driven Processing",
+    "text": "Knowledge-Driven Processing\n\n\n\nInstructions/training (short term knowledge)\nIndividual differences (e.g. math skills, background knowledge, interests)\nKnowledge can be used to overcome e.g. familiarity bias (preference for familiar but ineffective visualizations)\nSubject-matter expertise\n\n\n\n\n\nFrom Padilla et al. (2018), a reproduction of stimuli used by Galesic et al (2009)."
+  },
+  {
+    "objectID": "03-C3B/index.html#why-do-we-use-visualizations",
+    "href": "03-C3B/index.html#why-do-we-use-visualizations",
+    "title": "What Makes a Good Graph?",
+    "section": "Why do we use Visualizations?",
+    "text": "Why do we use Visualizations?"
+  },
+  {
+    "objectID": "03-C3B/index.html#the-good",
+    "href": "03-C3B/index.html#the-good",
+    "title": "What Makes a Good Graph?",
+    "section": "The Good",
+    "text": "The Good\n\n\nWhen drawn well, statistical graphics help us understand our data and see things that we didn’t know were there. The relationship between star magnitude, star color, and spectral class wasn’t well understood until someone created a chart like this that showed the color index (or spectral class) against the absolute brightness. Then, it was much easier to see that the chart described a life-cycle - stars start out in the main sequence, and then become giants, dwarfs, or slowly change spectral class over time as they cool down in temperature.\nWell designed graphs can help us understand the natural phenomenon behind the raw numerical data we’ve collected.\nThrough the rest of this talk, we’ll explore some of the features that make the HR diagram (and other good charts) effective."
+  },
+  {
+    "objectID": "03-C3B/index.html#the-bad",
+    "href": "03-C3B/index.html#the-bad",
+    "title": "What Makes a Good Graph?",
+    "section": "The Bad",
+    "text": "The Bad\n\nThere are also a lot of global versions of this map showing traffic to English-language websites which are indistinguishable from maps of the location of internet users who are native English speakers.\nOf course, even decent visualizations can’t compensate for lousy data…"
+  },
+  {
+    "objectID": "03-C3B/index.html#the-ugly",
+    "href": "03-C3B/index.html#the-ugly",
+    "title": "What Makes a Good Graph?",
+    "section": "The Ugly",
+    "text": "The Ugly\n\nTop 500 Supercomputers by Processor Family. Moxfyre, CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0, via Wikimedia Commons\nAs with anything, graphics require a combination of “art” and “science” - you not only have to use the best method to display the data (which this isn’t, necessarily), you also have to use some judgment as to how to show what you’re hoping to show… and this is a good example of what happens when that doesn’t happen."
+  },
+  {
+    "objectID": "03-C3B/index.html#statistics-and-charts",
+    "href": "03-C3B/index.html#statistics-and-charts",
+    "title": "What Makes a Good Graph?",
+    "section": "Statistics and Charts",
+    "text": "Statistics and Charts\n\nA statistic is a quantity computed from values in a sample used for a statistical purpose\nSource: Wikipedia\n\\[\\overline{x} = \\frac{1}{n}\\sum_{i=1}^n x_i\\]\nA chart is a graphical representation for data visualization, in which the data is represented by symbols\nSource: Wikipedia\n\n\n\nBy DanielPenfield - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=9402369\n\n\n\n\n\nCharts are computed from values in a sample (usually) and used for a statistical purpose\n\n\n\nSo… charts are statistics!"
+  },
+  {
+    "objectID": "03-C3B/index.html#testing-statistics-example",
+    "href": "03-C3B/index.html#testing-statistics-example",
+    "title": "What Makes a Good Graph?",
+    "section": "Testing Statistics: Example",
+    "text": "Testing Statistics: Example\nData from Tidy Tuesday, 2020-09-01\n\n\nSuppose we have this data, and we want to determine whether there is a relationship between Maize production and time.\nIf we were testing this statistically, we’d fit a linear regression to the data, and test to see whether the slope is equal to 0, right?\nWe can do that graphically as well: if there is no relationship, then it doesn’t matter which Y value is assigned to which X value - we can just shuffle the production values independently of time."
+  },
+  {
+    "objectID": "03-C3B/index.html#testing-statistics",
+    "href": "03-C3B/index.html#testing-statistics",
+    "title": "What Makes a Good Graph?",
+    "section": "Testing Statistics",
+    "text": "Testing Statistics\n\nIf statistics are charts, then what is the reference distribution?\nWhat constitutes an “extreme” or “significant” chart?\n\n\n\nHypothesis testing:\n\ntake a sample\ncalculate a test statistic\ncompare test statistic to reference distribution\n(formed by \\(H_0\\))\nif it is unlikely, reject null hypothesis\n\n\n\nGraphical hypothesis testing:\n\ntake a sample\ncreate a test statistic/graph\ncompare graph to a reference distribution of other graphs generated under \\(H_0\\)\nif test graph “stands out” then reject null hypothesis\n\n\n\n\nUsing the hypothesis that there is no relationship between X and Y, we can create a reference distribution of other graphs generated by shuffling the Y values.\nDo you think you’ll be able to pick out the reference chart?"
+  },
+  {
+    "objectID": "03-C3B/index.html#testing-statistics-example-1",
+    "href": "03-C3B/index.html#testing-statistics-example-1",
+    "title": "What Makes a Good Graph?",
+    "section": "Testing Statistics: Example",
+    "text": "Testing Statistics: Example\n\n\nNow, this is a very easy example, because we all know there’s been a massive increase in crop yields over the last 50 years. But, you can see how this paradigm is powerful - you can easily tell which plot is “different”, and if I ask 20 different people to evaluate it, I’d wager at least 19 would say “plot 15 is different”.\nYou’ll also notice that we didn’t have to ask anything statistical in nature - all of our hypotheses are embedded into the statistical lineup through the generation of the other 19 plots. We call these lineups because they’re similar to the criminal procedure of the same name.\nThe powerful part of this is that we can test for statistical significance of data even in cases where the effect is very subtle, or not easily mathematically quantified, as long as we can generate realistic “null” data through a reasonable mechanism."
+  },
+  {
+    "objectID": "03-C3B/index.html#testing-statistics-1",
+    "href": "03-C3B/index.html#testing-statistics-1",
+    "title": "What Makes a Good Graph?",
+    "section": "Testing Statistics",
+    "text": "Testing Statistics\n\n\nThe plot is a statistical lineup\nThe method is visual inference\n(a graphical hypothesis test)\nMany factors influence the results\n\nthe data\nthe plot type\nthe plot aesthetics\n(color, shape, etc.)\nextra statistical features\ntrend lines, error bars"
+  },
+  {
+    "objectID": "03-C3B/index.html#which-plots-are-the-most-different",
+    "href": "03-C3B/index.html#which-plots-are-the-most-different",
+    "title": "What Makes a Good Graph?",
+    "section": "Which plot(s) are the most different?",
+    "text": "Which plot(s) are the most different?"
+  },
+  {
+    "objectID": "03-C3B/index.html#which-plots-are-the-most-different-1",
+    "href": "03-C3B/index.html#which-plots-are-the-most-different-1",
+    "title": "What Makes a Good Graph?",
+    "section": "Which plot(s) are the most different?",
+    "text": "Which plot(s) are the most different?"
+  },
+  {
+    "objectID": "03-C3B/index.html#which-plots-are-the-most-different-2",
+    "href": "03-C3B/index.html#which-plots-are-the-most-different-2",
+    "title": "What Makes a Good Graph?",
+    "section": "Which plots are the most different?",
+    "text": "Which plots are the most different?\n\n\n31 Evaluations\n\n\n\nPanel\n% selected\n\n\n\n\n12\n9.7%\n\n\n5\n29.0%\n\n\n18\n32.3%\n\n\nOther\n29.1%\n\n\n\n\n\n\n22 Evaluations\n\n\n\nPanel\n% selected\n\n\n\n\n12\n59.1%\n\n\n5\n9.1%\n\n\n18\n–\n\n\nOther\n31.7%\n\n\n\n\n\nThese plots are from the study I’m going to talk about, but just as a proof of concept - both of these plots contain the same data. However, which plot was selected as “interesting” varies massively.\nSo we can determine that the data isn’t the part that matters here - the way the plot is designed matters.\nI’ll talk about how we designed the study and then I’ll show you more conclusive results."
+  },
+  {
+    "objectID": "03-C3B/index.html#two-target-lineups",
+    "href": "03-C3B/index.html#two-target-lineups",
+    "title": "What Makes a Good Graph?",
+    "section": "Two-Target Lineups",
+    "text": "Two-Target Lineups\n\n\nModify lineup protocol for tests of\ncompeting hypotheses \\(H_1\\) and \\(H_2\\)\n\\(H_1\\) and \\(H_2\\) target plots\n18 null plots generated using a\nmixture model consistent with \\(H_0\\)\n\n\n\n\n\n\nTo generate this data, we used a mixture model - so we generated data from a cluster model, and data from a linear model, and then to create the null plots, we selected points randomly from each model type.\nI’m going to skip over how we designed the simulation model, because we don’t have time to get into the details, but it was a fun ride."
+  },
+  {
+    "objectID": "03-C3B/index.html#experimental-design---parameters",
+    "href": "03-C3B/index.html#experimental-design---parameters",
+    "title": "What Makes a Good Graph?",
+    "section": "Experimental Design - Parameters",
+    "text": "Experimental Design - Parameters\n\n\\(K = 3, 5\\) clusters\n\\(N = 15 K\\) points\n\\(\\sigma_T = 0.25, 0.35, 0.45\\) (variability around the trend line)\n\\(\\sigma_C = \\begin{array}{cc}0.25, 0.30, 0.35 (K = 3)\\\\0.20, 0.25, 0.30 (K = 5)\\end{array}\\) (variability around the cluster centers)\n\\(\\lambda = 0.5\\) (mixture parameter)\n\n\n\n18 combinations of plot parameters ( \\(2K \\times 3\\sigma_T \\times 3\\sigma_C\\) )\n3 replicates of each parameter set = 54 total lineup data sets"
+  },
+  {
+    "objectID": "03-C3B/index.html#experimental-design---aesthetics",
+    "href": "03-C3B/index.html#experimental-design---aesthetics",
+    "title": "What Makes a Good Graph?",
+    "section": "Experimental Design - Aesthetics",
+    "text": "Experimental Design - Aesthetics\n\n10 Aesthetics \\(\\times\\) 54 data sets = 540 plots"
+  },
+  {
+    "objectID": "03-C3B/index.html#experimental-design",
+    "href": "03-C3B/index.html#experimental-design",
+    "title": "What Makes a Good Graph?",
+    "section": "Experimental Design",
+    "text": "Experimental Design\n\n1201 participants from Mechanical Turk\nEach participant evaluates 10 plots (12010 evaluations)\n\nEach \\(\\sigma_C \\times \\sigma_T\\) value with one replicate, randomized across \\(K\\) values\nAll 10 aesthetic types\n\nParticipants select the plot or plots which are most different\n\nProvide a short explanation\nRate confidence level\n\n\n\nThe experiment is set up as a balanced incomplete block design, where each participant sees all 10 aesthetic types, and 9 distinct variability combinations, randomized across number of groups. Participants are instructed to select the plots which are most different, and then asked to briefly explain their reasoning and rate their confidence in their answer."
+  },
+  {
+    "objectID": "03-C3B/index.html#results",
+    "href": "03-C3B/index.html#results",
+    "title": "What Makes a Good Graph?",
+    "section": "Results",
+    "text": "Results\n\nMost participants identified a mix of cluster and trend targets\n\nWe expect that there will be more cluster plot identifications than trend plot identifications, as there are more aesthetic combinations which emphasize clustering. This plot shows that most participants identified some cluster and some trend target plots; that is, that participants were sensitive to the different aesthetics in the charts."
+  },
+  {
+    "objectID": "03-C3B/index.html#results-1",
+    "href": "03-C3B/index.html#results-1",
+    "title": "What Makes a Good Graph?",
+    "section": "Results",
+    "text": "Results\n\n\nThis plot shows the aesthetic types and proportion of target plot selections. Participants were more likely to choose cluster targets across plot aesthetic types. When ellipses were present, there were many more participants selecting null plots; we will discuss why this occurred at the end of the presentation."
+  },
+  {
+    "objectID": "03-C3B/index.html#faceoff-model",
+    "href": "03-C3B/index.html#faceoff-model",
+    "title": "What Makes a Good Graph?",
+    "section": "Faceoff Model",
+    "text": "Faceoff Model\n\nExamine trials in which participants identified at least one target: 9959 trials\nCompare P(select cluster target) to P(select trend target)\n\n\\[C_{ijk} := \\left\\{\\begin{array}{c}\\text{Participant }k\\text{ selects the cluster target }\\\\\n\\text{for dataset }j\\text{ with aesthetic }i\\end{array}\\right\\}\\]\n\nWe fit several models to the participant responses, but the most interesting of these models is a conditional model which analyzes only trials in which participants selected one of the target plots. We compare the probability that participants select the cluster target to the probability that participants select the trend target, modeling the implicit choice between the two competing data generating models."
+  },
+  {
+    "objectID": "03-C3B/index.html#faceoff-model-1",
+    "href": "03-C3B/index.html#faceoff-model-1",
+    "title": "What Makes a Good Graph?",
+    "section": "Faceoff Model",
+    "text": "Faceoff Model\n\\[\\text{logit} P(C_{ijk}|C_{ijk}\\cup T_{ijk}) = \\mathbf{W}\\alpha + \\mathbf{X}\\beta + \\mathbf{J}\\gamma + \\mathbf{K}\\eta\\]\n\n\\(\\alpha\\): vector of fixed effects describing data parameters \\(\\sigma_C,\\sigma_T, K\\)\n\\(\\beta\\): vector of fixed effects describing aesthetics \\(1 \\leq i \\leq 10\\)\n\\(\\gamma_j\\): random effect of dataset, \\(\\gamma_j\\sim N(0, \\sigma^2_{\\text{data}})\\)\n\\(\\eta_k\\): random effect of participant \\(\\eta_k\\sim N(0, \\sigma^2_{\\text{participant}})\\)\n\\(\\epsilon_{ijk}\\): error associated with single evaluation of plot \\(ij\\) by participant \\(k\\), \\(\\epsilon_{ijk}\\sim N(0, \\sigma^2_e)\\)\n\n\nThe faceoff model is a logistic mixed effects model, with fixed effects describing the effects of data parameters sigma C, sigma T, and K, as well as the effects of the aesthetics. We include random effects to describe dataset and participant variability, as well as the error associated with each plot identification by a single participant. All errors are orthogonal due to the study design and are assumed to be iid."
+  },
+  {
+    "objectID": "03-C3B/index.html#faceoff-model-2",
+    "href": "03-C3B/index.html#faceoff-model-2",
+    "title": "What Makes a Good Graph?",
+    "section": "Faceoff Model",
+    "text": "Faceoff Model\n\n\nOverall, when there are multiple aesthetics which emphasize point similarity over linear continuity, participants are more likely to identify the cluster target relative to the trend target. When viewing graphical displays, the Gestalt principal of similarity tends to dominate over the gestalt principal of\nInterestingly, the two conflict conditions produce opposite effects - with color, ellipse, trend, and error, participants are significantly more likely to select the trend target; with color and trend, participants are significantly more likely to select the cluster target. This may be because the ellipses in the linear target are all in a line, which, when combined with the error bands may serve to further highlight the continuity of the points. This effect is related to the gestalt principal of common region, which, when combined with the continuity effect would strengthen the likelihood of participant detection of the trend target plot. When the ellipses and error bands are not present, the principal of common region is not recruited and the similarity effect dominates over the continuity effect created by the trend line.\nIn addition, while not shown here, the estimates for parameters alpha_C and alpha_T are highly significant: as variability increases, the strength of the target’s signal decreases and the probability of detecting the corresponding target also decreases."
+  },
+  {
+    "objectID": "03-C3B/index.html#responses-plain-plots",
+    "href": "03-C3B/index.html#responses-plain-plots",
+    "title": "What Makes a Good Graph?",
+    "section": "Responses: Plain plots",
+    "text": "Responses: Plain plots\n\n\nWe asked participants to briefly describe their reasoning for choosing a specific plot or plots. We removed stopwords and “stemmed” answers so that “groups”, “group”, “grouping”, “grouped” are all the same word, then plotted the words used in the reasoning as wordclouds, where the size of the word is proportional to the frequency of its appearance in the participant explanations.\nThese 3 wordclouds show participant reasoning for participants who selected null plots, cluster targets, and trend targets, respectively, when shown a lineup with no additional aesthetics. Participants who selected cluster targets were clearly concerned with the clustered nature of the points; participants who selected the trend target were more concerned with the linear relationship between x and y. Participants who selected null plots were concerned with variability and outliers. As we didn’t give the participants guidance on what feature to judge “different” by, it is not surprising that some selected features other than clustering and linear trends."
+  },
+  {
+    "objectID": "03-C3B/index.html#responses-trend",
+    "href": "03-C3B/index.html#responses-trend",
+    "title": "What Makes a Good Graph?",
+    "section": "Responses: Trend",
+    "text": "Responses: Trend\n\n\nWhen a trend line aesthetic is added to the plots, the reasoning changes somewhat for participants identifying cluster target and null plots. Participants who selected cluster targets talk about the separation (presumably, the linear trend line separating the groups) between lines, points, and groups of points; participants who selected null plots talk about the outliers, angle of the trend line, and spread of points around the line."
+  },
+  {
+    "objectID": "03-C3B/index.html#responses-color",
+    "href": "03-C3B/index.html#responses-color",
+    "title": "What Makes a Good Graph?",
+    "section": "Responses: Color",
+    "text": "Responses: Color\n\n\nWhen points are colored by group, participants who select null plots use the color of the points to highlight the outliers which they are using as cues. The logic for selecting the cluster or trend target plots does not change much, but the reasoning of those who selected null plots demonstrates that the color aesthetic facilitates description of outlying points. Even though participants selected the wrong plot, in many cases they still used logic indicating that the gestalt organization of the plot through color cues is quite powerful."
+  },
+  {
+    "objectID": "03-C3B/index.html#responses-color-ellipse",
+    "href": "03-C3B/index.html#responses-color-ellipse",
+    "title": "What Makes a Good Graph?",
+    "section": "Responses: Color + Ellipse",
+    "text": "Responses: Color + Ellipse\n\n\nWhen Color and Ellipses are shown, it is clear that participants who selected the cluster targets did so because the clusters were “distinct” or “didn’t touch” or didn’t overlap. Separation and space, as well as cluster size/cohesion are also commonly expressed sentiments.\nThe addition of ellipses does also emphasize the linear trend target more than we had initially hoped - in many cases, a line of ellipses serves to create a sense of continuity due to the spatial arrangement of the ellipses. In most cases, though, this effect was minor compared to the visual weight of the small, compact clustered groups of points surrounded by an ellipse.\nAt the beginning of the results section, we talked about how plots with ellipse aesthetics were more likely to lead to null plot selection. Participant explanations provide some additional insight: Words like “one”, “two”, “oval”, and “missing” provide clues as to what exactly was so different about some of these plots. I’ve reproduced a plot on the next slide to demonstrate this effect."
+  },
+  {
+    "objectID": "03-C3B/index.html#participant-reasoning",
+    "href": "03-C3B/index.html#participant-reasoning",
+    "title": "What Makes a Good Graph?",
+    "section": "Participant Reasoning",
+    "text": "Participant Reasoning\n\n\n\n\nSome of the null plots were missing an ellipse - We failed to enforce group size constraints on k-means algorithm.\n\n\nThe addition of the ellipse aesthetic highlighted the fact that some groups had as few as one or two points. These groups were assigned using the k-means algorithm, which doesn’t by default have a constraint on the sizes of groups. With 540 plots and 10800 panels to proofread before running the experiment, we missed the fact that some null plots were missing an ellipse, as a group needs at least 3 points to have a valid bounding ellipse.\nIt’s safe to say that there was a strong effect of the ellipse aesthetic; however, that effect did not induce participants to act in the hypothesized manner by selecting the target plots. Working with humans is difficult sometimes.\nWe re-ran this experiment with more even null plot cluster allocation, but hit an additional snag: participants cued in on the odd cluster shapes generated from the mixture model. They were still using the ellipses, but once again, the features participants made their decision on weren’t the features we expected them to examine.\nTo me, this means that not only is visual inference incredibly powerful for assessing single plots, and when used in designed experiments like this one; it’s also a good way to test data when you aren’t entirely sure what effect is most important. By manipulating the plot, using the lineup procedure, and asking for feedback, you can crowdsource what features people cue onto and determine which features are most critical to model effectively."
+  },
+  {
+    "objectID": "03-C3B/index.html#making-good-charts",
+    "href": "03-C3B/index.html#making-good-charts",
+    "title": "What Makes a Good Graph?",
+    "section": "Making Good Charts",
+    "text": "Making Good Charts\n\n\nPlot aesthetics matter\n\nnon-additive effects\nwhat do you want to emphasize?\n\n\n\n\nMultiple encoding is useful -\n“show the data” in a way that makes it easy to understand\n\n\n\n\nLineups are powerful tools for understanding graphical perception\n\n\n\n\nOur perception is more complicated than most statistical models\n(and also, hard to trick/evade!)"
+  },
+  {
+    "objectID": "03-C3B/index.html#section-1",
+    "href": "03-C3B/index.html#section-1",
+    "title": "What Makes a Good Graph?",
+    "section": "",
+    "text": "If we return briefly to this question of why we use visualizations, I’m hoping that I’ve convinced you that there is one other way to use visualizations - as statistics (that are testable) to determine what we see and don’t see in a chart. I’ve shown you one way that I use statistical lineups, but there are others, including in a traditional hypothesis testing context. Visual inference is an incredibly powerful technique for examining statistical hypothesis that are sometimes not as well specified - if you don’t have a model that forces things to be normal and identically distributed, for instance, you may still be able to test that hypothesis visually, even if you can’t fit a full model to the data."
+  },
+  {
+    "objectID": "12-IASCARS/index.html#footwear-forensics",
+    "href": "12-IASCARS/index.html#footwear-forensics",
+    "title": "How Do You Define a Circle?",
+    "section": "Footwear Forensics",
+    "text": "Footwear Forensics\n\n\n\n\n\nShoe Scanner Outside Setup\n\n\n\n\nCollect images of shoe soles from the population using the scanner\nIdentify features in the tread patterns w/ computer vision\nGenerate a local database of common pattern features\nCharacterize frequency of a new shoe w/ random match probability computed from database\n\n\n\n\n\nQuantifying the frequency of shoes in a local population is an unsolveable problem - Leslie Hammer, Hammer Forensics, March 2018\n\n\n\nThis is the overall approach we’d planned to use for this project. We set out specifically to use features identifiable by examiners (so using the vocabulary they use to identify footwear features) with computer vision/deep learning algorithms. Our thought was that if we used features familiar to examiners, the model would be more usable by examiners – and thus, more likely to be adopted in practice. This is admittedly a different take on explainable AI but it is important in forensics that examiners understand what the algorithm is doing (at a basic level) so that they can explain its use in court, and that requires some familiarity. As the way these algorithms work is very foreign, we decided that it would be easier to work with features that were familiar. Sounds simple enough, right?"
+  },
+  {
+    "objectID": "12-IASCARS/index.html#footwear-forensics-1",
+    "href": "12-IASCARS/index.html#footwear-forensics-1",
+    "title": "How Do You Define a Circle?",
+    "section": "Footwear Forensics",
+    "text": "Footwear Forensics\n\nOther researchers use the output from the CNN\n(without a trained model head)\n\nhard to explain to practitioners\nhard to understand meaning\nfor models to be accepted in forensics, they need to be explainable!\n\n\n\n\nSpecifically, when we’re done with this whole project – the scanner and the model – we have to convince forensic examiners that it’s worth using. And forensic examiners are a great bunch of people - for the most part, they’re very dedicated, very smart, and have a lot of expertise in their field. But their field is definitively not math, and most of them are not what we’d call quantitatively oriented. So that is a big limitation on what we can do with neural networks.\nA lot of previous work with neural networks in forensic pattern analysis uses features directly from the model base, without a trained model head. These features don’t make sense to practitioners, so the entire research project is dead before it starts, because we have to get examiners to adopt this stuff before it makes any practical impact.\nWe want to avoid this process, so we specifically set up this model to spit out features that we can all describe – lines, circles, bowties, chevrons. We have to work within the confines of human language and our model has to spit out features that are explainable to examiners and can be generated by examiners."
+  },
+  {
+    "objectID": "12-IASCARS/index.html#our-assumption-in-2018",
+    "href": "12-IASCARS/index.html#our-assumption-in-2018",
+    "title": "How Do You Define a Circle?",
+    "section": "Our Assumption in 2018",
+    "text": "Our Assumption in 2018\n\n\n\n \n\n\n\n\nAfrican Elephant\n\n\n\n\n\nAsian Elephant\n\n\n\n \n\n\n\nIf models can differentiate between types of elephants, they can identify shapes… right?\n\n\n\n\n\n\n\nCircles\n\n\n\n\n\n\n\nQuads\n\n\n\n\n\n\n\n???\n\n\n\n\n\n\n:::\n\nNeural networks can differentiate between African and Asian elephants. I can’t even do that… They’ll be able to differentiate between a circle and a square easily."
+  },
+  {
+    "objectID": "12-IASCARS/index.html#xkcd-tasks",
+    "href": "12-IASCARS/index.html#xkcd-tasks",
+    "title": "How Do You Define a Circle?",
+    "section": "XKCD: Tasks",
+    "text": "XKCD: Tasks\n\nIn the 60s, Marvin Minsky assigned a couple of undergrads to spend the summer programming a computer to use a camera to identify objects in a scene. He figured they'd have the problem solved by the end of the summer. Half a century later, we're still working on it."
+  },
+  {
+    "objectID": "12-IASCARS/index.html#complication-different-cv-models",
+    "href": "12-IASCARS/index.html#complication-different-cv-models",
+    "title": "How Do You Define a Circle?",
+    "section": "Complication: Different CV Models",
+    "text": "Complication: Different CV Models\nWe can reasonably pose this problem in 3 different ways:\n\n\n\n\n\n\nClassification: same-size regions labeled with one or more classes\n\n\n\n\n\n\n\nObject Detection: Propose a bounding box and label for each object in an image\n\n\n\n\n\n\n\nImage segmentation: find regions of the image and label each region\n\n\n\n\n\nEach method requires a different labeling schema, annotation method, and data format"
+  },
+  {
+    "objectID": "12-IASCARS/index.html#initial-approach-2019",
+    "href": "12-IASCARS/index.html#initial-approach-2019",
+    "title": "How Do You Define a Circle?",
+    "section": "Initial Approach (~2019)",
+    "text": "Initial Approach (~2019)\n\nUse VGG16 to classify 256x256 px chunks of images\nGoal is to label the entire chunk with one or more classes\n\n\nVGG16 Shoe Example approach\nHard to integrate predictions into the main image"
+  },
+  {
+    "objectID": "12-IASCARS/index.html#initial-approach-2019-1",
+    "href": "12-IASCARS/index.html#initial-approach-2019-1",
+    "title": "How Do You Define a Circle?",
+    "section": "Initial Approach (~2019)",
+    "text": "Initial Approach (~2019)\n\nNot terrible but a lot of class confusion between e.g. Circles & Text, Quad & Polygon, Quad & Triangle"
+  },
+  {
+    "objectID": "12-IASCARS/index.html#synthetic-data-test-2020",
+    "href": "12-IASCARS/index.html#synthetic-data-test-2020",
+    "title": "How Do You Define a Circle?",
+    "section": "Synthetic Data Test (2020)",
+    "text": "Synthetic Data Test (2020)\n\nIf we create different shapes, can a neural network differentiate them?\n\n\nClass Examples"
+  },
+  {
+    "objectID": "12-IASCARS/index.html#synthetic-data-test-2020-1",
+    "href": "12-IASCARS/index.html#synthetic-data-test-2020-1",
+    "title": "How Do You Define a Circle?",
+    "section": "Synthetic Data Test (2020)",
+    "text": "Synthetic Data Test (2020)"
+  },
+  {
+    "objectID": "12-IASCARS/index.html#synthetic-data-test-2020-2",
+    "href": "12-IASCARS/index.html#synthetic-data-test-2020-2",
+    "title": "How Do You Define a Circle?",
+    "section": "Synthetic Data Test (2020)",
+    "text": "Synthetic Data Test (2020)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImage\nCircle\n3\n4\n5\n6\n7\n8\n9\nStar\n\n\n\n\n\n.9999\n0\n0\n0\n0\n0\n0\n0\n0\n\n\n\n.9999\n0\n0\n0\n0\n0\n0\n0\n0\n\n\n\n\n\nShoe data is complicated to label\nPredictions made on ambiguous data don’t work as well as we’d like"
+  },
+  {
+    "objectID": "12-IASCARS/index.html#object-detection-2021-2023",
+    "href": "12-IASCARS/index.html#object-detection-2021-2023",
+    "title": "How Do You Define a Circle?",
+    "section": "Object Detection (2021-2023)",
+    "text": "Object Detection (2021-2023)\n\nObject Detection: Propose a bounding box and label for each object in an image\nre-encode labels using a different data format\nToolkit:\n\nStarted with FastAI, but had terrible support/documentation\nEventually rewrote everything in PyTorch"
+  },
+  {
+    "objectID": "12-IASCARS/index.html#fundamental-problem",
+    "href": "12-IASCARS/index.html#fundamental-problem",
+    "title": "How Do You Define a Circle?",
+    "section": "Fundamental Problem",
+    "text": "Fundamental Problem\n\nWhat shape is in the box? Text? Circle? Triangle? Star?\n\nNeural networks are trained on millions of human-annotated photos\nEven shoe soles are artificial relative to a natural scene\nNetworks weren’t trained on the artificial patterns or layouts in shoe soles\nLabeling is fraught with errors and incomplete information\nLabeling schema are very complex & must account for human perception\n\n\n\nIf we look at the shape in the box, there is not actually a circle there - instead, there are triangles arranged inside an invisible circle, with text in the center inside another invisible circle made up of the points of the triangles. This is … hard to label. Our undergrad RAs (and even the researchers) aren’t sure how to deal with this.\nWe can get useful features out of existing NNs if we sacrifice interpretability/explainability, but examiners aren’t likely to use those tools in practice - they’re better used in database searches and other situations that don’t require examiners to apply them.\nIt seems like we don’t have sufficient data to adapt to the diverse patterns we see in real shoe treads: we need thousands or millions of perfectly labeled images to train or adapt a NN model. The only real solution to this problem is to do something somewhat different - we simply can’t generate that volume of data through human labeling alone (I don’t have Google’s budget)."
+  },
+  {
+    "objectID": "12-IASCARS/index.html#approaching-the-problem-backwards-1",
+    "href": "12-IASCARS/index.html#approaching-the-problem-backwards-1",
+    "title": "How Do You Define a Circle?",
+    "section": "Approaching the Problem Backwards",
+    "text": "Approaching the Problem Backwards\n\nGenerate a large library of synthetic data\n\npre-labeled\ncomplex characteristics\nTrain preliminary model\n\nRun 2D patterns through an existing network to generate more realistic 3D images\n\nTrain 2nd-gen model"
+  },
+  {
+    "objectID": "12-IASCARS/index.html#approaching-the-problem-backwards-2",
+    "href": "12-IASCARS/index.html#approaching-the-problem-backwards-2",
+    "title": "How Do You Define a Circle?",
+    "section": "Approaching the Problem Backwards",
+    "text": "Approaching the Problem Backwards\n\nRun 2D patterns through an existing network to generate more realistic 3D images\n\nTrain 2nd-gen model\n\nTrain on marketing-quality pictures labeled by humans\n\nUpdate 2nd gen model (transfer learning)"
+  },
+  {
+    "objectID": "12-IASCARS/index.html#approaching-the-problem-backwards-3",
+    "href": "12-IASCARS/index.html#approaching-the-problem-backwards-3",
+    "title": "How Do You Define a Circle?",
+    "section": "Approaching the Problem Backwards",
+    "text": "Approaching the Problem Backwards\n\nTrain on marketing-quality pictures labeled by humans\n\nUpdate 2nd gen model (transfer learning)\n\nTrain on Scanner Photos\n\nUpdate 3rd gen model weights\n(account for lower-quality photos)\n\n\n\nMeasure performance/accuracy changes over time on a consistent set of stimuli created from real shoes"
+  },
+  {
+    "objectID": "12-IASCARS/index.html#synthetic-pattern-generation",
+    "href": "12-IASCARS/index.html#synthetic-pattern-generation",
+    "title": "How Do You Define a Circle?",
+    "section": "Synthetic Pattern Generation",
+    "text": "Synthetic Pattern Generation\n\nUse SoleMate style labeling for examiner familiarity\n(Much more complex coding scheme)"
+  },
+  {
+    "objectID": "12-IASCARS/index.html#synthetic-pattern-generation-1",
+    "href": "12-IASCARS/index.html#synthetic-pattern-generation-1",
+    "title": "How Do You Define a Circle?",
+    "section": "Synthetic Pattern Generation",
+    "text": "Synthetic Pattern Generation\nRegions of distinct patterns\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe basic idea I have is to use real shoes to generate rough “layouts” that are common across different shoe types."
+  },
+  {
+    "objectID": "12-IASCARS/index.html#synthetic-data-generation",
+    "href": "12-IASCARS/index.html#synthetic-data-generation",
+    "title": "How Do You Define a Circle?",
+    "section": "Synthetic Data Generation",
+    "text": "Synthetic Data Generation\nDifferent Patterns\n\n\n\n\n\n\nSnowflake\n\n\n\n\n\n\n\nHexagon Open Circle\n\n\n\n\n\n\n\nStud\n\n\n\n\n\n\n\nTarget Solid Circle\n\n\n\n\n\n\n\n\n\nCircle Bar Across\n\n\n\n\n\n\n\nSolid Circle Array\n\n\n\n\n\n\n\nTargets with Arcs\n\n\n\n\n\n\n\n6-pointed star\n\n\n\n\n\n\nThen, for each layout region, we can choose a pattern and intersect the pattern with that region to produce a layout that covers the whole area. We can of course apply transforms (skew, stretch, rotate, etc.) to this to provide more options as necessary."
+  },
+  {
+    "objectID": "12-IASCARS/index.html#synthetic-data-generation-1",
+    "href": "12-IASCARS/index.html#synthetic-data-generation-1",
+    "title": "How Do You Define a Circle?",
+    "section": "Synthetic Data Generation",
+    "text": "Synthetic Data Generation\nShoe Outlines\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThen, at the end, we can crop to the outline of the shoe; these are traced from real shoes and simplified.\nThis should give us a very large library of training data that we can then manipulate."
+  },
+  {
+    "objectID": "12-IASCARS/index.html#synthetic-data-generation-2",
+    "href": "12-IASCARS/index.html#synthetic-data-generation-2",
+    "title": "How Do You Define a Circle?",
+    "section": "Synthetic Data Generation",
+    "text": "Synthetic Data Generation"
+  },
+  {
+    "objectID": "12-IASCARS/index.html#synthetic-data-generation-3",
+    "href": "12-IASCARS/index.html#synthetic-data-generation-3",
+    "title": "How Do You Define a Circle?",
+    "section": "Synthetic Data Generation",
+    "text": "Synthetic Data Generation\n\n\nAdvantages\n\nSVGs can include metadata\nEasy scaling\nSVG intersection operations will automatically mark partial objects\nFlexible data format:\n\nRegion segmentation\nObject Detection\nObject Classification\nall generated from same source data\n\n\n\n\n\nDisadvantages\n\nManual SVG creation\n(52 images \\(\\approx\\) 8h )\nCreating a library to generate data\n3D rendering after 2D stage:\n\ndigital via OpenSCAD + SVG?\nCan apply different surface colors\n\nLots of work required before we start in on photos\n\n\n\n\nAnd as each one of these layers is an SVG, we will have pre-labeled data (because we can label the SVG objects as we create them) and we’ll be able to figure out if the object is occluded, partially included, or fully included. So we’ll have pre-existing region segmentation and object labels… and hopefully we’ll have less variability in these object labels than we would get having an undergrad manually label data.\nExaminers told us in the 2021 IAI workshop that they tended to use multiple labels to describe a feature that was ambiguous… that is hard to train a network on, so we have decided to approach this from a bottom-up rather than top-down approach."
+  },
+  {
+    "objectID": "12-IASCARS/index.html#end-goal",
+    "href": "12-IASCARS/index.html#end-goal",
+    "title": "How Do You Define a Circle?",
+    "section": "End Goal",
+    "text": "End Goal\nHuman Friendly Model Outputs\n\nFamiliar features for database search\nData quality flexibility:\n\nMessy photos for database creationi\nNeat images for search\n\nGoal: reliable estimates of random match probability RMP: the probability that someone in the area has a shoe with similar characteristics."
+  },
+  {
+    "objectID": "12-IASCARS/abstract.html",
+    "href": "12-IASCARS/abstract.html",
+    "title": "How Do You Define a Circle? Perception and Computer Vision Diagnostics",
+    "section": "",
+    "text": "Neural Networks are very complicated and very useful models for image recognition, but they are generally used to recognize very complex and multifaceted stimuli, like cars or people. When neural networks are used to recognize simpler objects with overlapping feature sets, things can go a bit haywire. In this talk, we’ll discuss a model built for applications in statistical forensics which uncovered some very interesting problems between model-based perception and human perception. I will show visual diagnostics which provide insight into the model, and talk about ways we might address the discrepancy between human perception and model perception to produce more accurate and useful model predictions."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Presentations in 2023",
+    "section": "",
+    "text": "CAREER Award Chalk Talk\n\n\n\nSusan Vanderplas\n\n\nMar 8, 2023\n\n\n\n\n\n\nLocation\n\n\nOnline\n\n\n\n\nTopics\n\n\ngraphics,cognition,user-experiments\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat Makes a Good Graph?\n\n\n\nSusan Vanderplas\n\n\nMar 27, 2023\n\n\n\n\n\n\nLocation\n\n\nCenter for Brain, Biology, and Behavior, University of Nebraska - Lincoln\n\n\n\n\nTopics\n\n\ngraphics,cognition,user-experiments\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTesting Statistical Graphics\n\n\n\nSusan Vanderplas\n\n\nAug 8, 2023\n\n\n\n\n\n\nLocation\n\n\n2023 Joint Statistical Meetings, Toronto, Canada\n\n\n\n\nTopics\n\n\ngraphics,cognition,user-experiments\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGraphics and Cognition\n\n\n\nSusan Vanderplas\n\n\nOct 12, 2023\n\n\n\n\n\n\nLocation\n\n\nGraphics Group\n\n\n\n\nTopics\n\n\ngraphics,cognition,user-experiments\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirearms Studies and Error Rates\n\n\n\nSusan Vanderplas\n\n\nOct 27, 2023\n\n\n\n\n\n\nLocation\n\n\nHarvard and Johns Hopkins joint seminar on causal inference\n\n\n\n\nTopics\n\n\nforensics,firearms\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFWIII: Characteristics in Local Populations\n\n\n\nSusan Vanderplas & Muxin Hua\n\n\nNov 6, 2023\n\n\n\n\n\n\nLocation\n\n\nOnline CSAFE shoe research seminar\n\n\n\n\nTopics\n\n\nforensics,shoes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMultimodal Graphical Testing\n\n\n\nSusan Vanderplas\n\n\nNov 9, 2023\n\n\n\n\n\n\nLocation\n\n\nInternational Conference on Data Science, Universidad Diego Portales, Chile\n\n\n\n\nTopics\n\n\ngraphics,user-studies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow Do You Define a Circle?\n\n\n\nSusan Vanderplas & Muxin Hua\n\n\nDec 6, 2023\n\n\n\n\n\n\nLocation\n\n\nInternational Association of Statistical Computing, Asian Regional Chapter meeting, Macquarie, NSW, Australia\n\n\n\n\nTopics\n\n\nforensics,shoes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFWIII: Characteristics in Local Populations\n\n\n\nSusan Vanderplas & Muxin Hua\n\n\nDec 8, 2023\n\n\n\n\n\n\nLocation\n\n\nOnline\n\n\n\n\nTopics\n\n\nforensics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMultimodal Graphical Testing\n\n\n\nSusan Vanderplas\n\n\nDec 14, 2023\n\n\n\n\n\n\nLocation\n\n\nAustralian Statistical Conference, Wollongong, NSW, Australia\n\n\n\n\nTopics\n\n\ngraphics,user-studies\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]

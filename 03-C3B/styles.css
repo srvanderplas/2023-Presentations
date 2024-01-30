@@ -65,7 +65,7 @@ $theme-colors: (
 
 .reveal section#title-slide {
 	data-background-color: #fefdfa;
-  data-background-image:  url(../images/UNL.svg), url(../images/N.svg);
+  data-background-image:  url(../libs/unl/UNL.svg), url(../libs/unl/N.svg);
 	data-background-position: 10px 10px, right 10px 10px;
 	data-background-size: 25%, 10%;
 }
