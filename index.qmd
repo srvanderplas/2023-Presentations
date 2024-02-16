@@ -6,6 +6,12 @@ format:
 listing: 
   contents: 
     - "*/index.qmd"
+    - path: 02-Hopkins-Inconclusives/index.html"
+      title: "Inconclusive Conclusions: Biases and Consequences"
+      date: February 15, 2023
+      location: online
+      keywords: [inconclusives, firearms, error rates, forensics]
+      image: 02-Hopkins-Inconclusives/images/Combined-cross-section.png
   sort: "date"
   exclude:
     location: "TBD"

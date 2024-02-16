@@ -3,6 +3,8 @@ project:
   # post-render: 
   #   - code/webshot_img.R
   output-dir: docs
+  render:
+    - "*.qmd"
 
 website:
   title: "2023 Presentations"

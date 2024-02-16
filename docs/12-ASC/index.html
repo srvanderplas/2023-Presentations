@@ -8,7 +8,7 @@
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.3.340">
+  <meta name="generator" content="quarto-1.4.489">
 
   <meta name="author" content="Susan Vanderplas">
   <meta name="dcterms.date" content="2023-12-14">
@@ -35,6 +35,7 @@
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
+      margin-bottom: 0em;
     }
     .hanging-indent div.csl-entry {
       margin-left:2em;
@@ -51,7 +52,7 @@
     div.csl-indent {
       margin-left: 2em;
     }  </style>
-  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto.css" id="theme">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto.css">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -177,7 +178,8 @@
   }
 
   .callout.callout-titled .callout-body > .callout-content > :last-child {
-    margin-bottom: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0;
   }
 
   .callout.callout-titled .callout-icon::before {
@@ -360,7 +362,7 @@ Susan Vanderplas
 </section>
 <section id="outline" class="title-slide slide level1 center">
 <h1>Outline</h1>
-<div class="cell" data-hash="index_cache/revealjs/unnamed-chunk-1_9bd279f1d08d0f7d5012a12b23915bd0">
+<div class="cell" data-hash="index_cache/revealjs/unnamed-chunk-1_d46a3a13dba0b943457b1db8f5d1b6fa">
 <style type="text/css">
 @import url('https://fonts.googleapis.com/css2?family=Handlee&family=Montserrat:ital,wght@0,400;0,500;1,400;1,500&family=Roboto:ital,wght@0,500;1,500&display=swap');
 </style>
@@ -373,13 +375,9 @@ Susan Vanderplas
 <li><p><a href="#/challenges">Challenges of Multimodal Testing</a></p></li>
 </ol>
 </div><div class="column" style="width:40%;">
-<div class="cell" data-layout-align="center" data-hash="index_cache/revealjs/unnamed-chunk-2_32e074b1dd7d8576795ab9d5ccb30732">
+<div class="cell" data-layout-align="center" data-hash="index_cache/revealjs/unnamed-chunk-2_86822f8048cfe69070c368aff36793f3">
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="index_files/figure-revealjs/unnamed-chunk-2-1.png" width="1500"></p>
-</figure>
-</div>
+<p><img data-src="index_files/figure-revealjs/unnamed-chunk-2-1.png" class="quarto-figure-center" width="1500"></p>
 </div>
 </div>
 </div>
@@ -600,23 +598,19 @@ Susan Vanderplas
 </section>
 <section id="q1-perception-of-differences-1" class="slide level2">
 <h2>Q1: Perception of Differences</h2>
-<div class="quarto-layout-panel">
+<div class="quarto-layout-panel" data-layout-ncol="2">
 <div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
+<div class="quarto-figure quarto-figure-center quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <figure>
 <p><img data-src="fig/log-lineup-example.png"></p>
 <figcaption>Log Scale</figcaption>
 </figure>
 </div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
+<div class="quarto-figure quarto-figure-center quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <figure>
 <p><img data-src="fig/linear-lineup-example.png"></p>
 <figcaption>Linear Scale</figcaption>
 </figure>
-</div>
 </div>
 </div>
 </div>
@@ -760,23 +754,19 @@ Susan Vanderplas
 </section>
 <section id="q2-forecasting-you-draw-it" class="slide level2">
 <h2>Q2: Forecasting (You-Draw-It)</h2>
-<div class="quarto-layout-panel">
+<div class="quarto-layout-panel" data-layout-ncol="2">
 <div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
+<div class="quarto-figure quarto-figure-center quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <figure>
 <p><img data-src="fig/linear1-orig.gif"></p>
 <figcaption>Data from Mosteller et al.&nbsp;(1981)</figcaption>
 </figure>
 </div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
+<div class="quarto-figure quarto-figure-center quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <figure>
 <p><img data-src="fig/exponential-orig.gif"></p>
 <figcaption>Exp data, linear scale, 50% complete</figcaption>
 </figure>
-</div>
 </div>
 </div>
 </div>
@@ -879,29 +869,25 @@ Susan Vanderplas
 <section id="q3-numerical-estimation-3" class="slide level2">
 <h2>Q3: Numerical Estimation</h2>
 <p>Free response: Between <span class="math inline">\(t_1\)</span> and <span class="math inline">\(t_2\)</span>, how does the population of <span class="math inline">\(X\)</span> change?</p>
-<div class="quarto-layout-panel">
+<div class="quarto-layout-panel" data-layout="[-5, 40, -10, 40, -5]">
 <div class="quarto-layout-row quarto-layout-valign-top">
 <div class="quarto-figure-spacer quarto-layout-cell" style="flex-basis: 5.0%;justify-content: center;">
 <p>&nbsp;</p>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
+<div class="quarto-figure quarto-figure-center quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
 <figure>
 <p><img data-src="fig/03-01-linear.png"></p>
 <figcaption>Linear Scale</figcaption>
 </figure>
 </div>
-</div>
 <div class="quarto-figure-spacer quarto-layout-cell" style="flex-basis: 10.0%;justify-content: center;">
 <p>&nbsp;</p>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
+<div class="quarto-figure quarto-figure-center quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
 <figure>
 <p><img data-src="fig/03-01-log.png"></p>
 <figcaption>Log Scale</figcaption>
 </figure>
-</div>
 </div>
 <div class="quarto-figure-spacer quarto-layout-cell" style="flex-basis: 5.0%;justify-content: center;">
 <p>&nbsp;</p>
@@ -913,23 +899,19 @@ Susan Vanderplas
 <h2>Q3: Numerical Estimation</h2>
 <p>Estimating Population given a year</p>
 <p><span class="emph cerulean">Process Sketch</span></p>
-<div class="quarto-layout-panel">
+<div class="quarto-layout-panel" data-layout-ncol="2">
 <div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
+<div class="quarto-figure quarto-figure-center quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <figure>
 <p><img data-src="fig/03-01-linear-sketch.png"></p>
 <figcaption>Linear scale</figcaption>
 </figure>
 </div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
+<div class="quarto-figure quarto-figure-center quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <figure>
 <p><img data-src="fig/03-01-log-sketch.png"></p>
 <figcaption>Log scale</figcaption>
 </figure>
-</div>
 </div>
 </div>
 </div>
@@ -959,23 +941,19 @@ Susan Vanderplas
 <h2>Q3: Numerical Estimation</h2>
 <p>From <code>Year1</code> to <code>Year2</code>, the population increases by ____ individuals</p>
 <p><span class="emph cerulean">Process Sketch</span></p>
-<div class="quarto-layout-panel">
+<div class="quarto-layout-panel" data-layout-ncol="2">
 <div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
+<div class="quarto-figure quarto-figure-center quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <figure>
 <p><img data-src="fig/03-04-sketch-linear.png"></p>
 <figcaption>Linear scale</figcaption>
 </figure>
 </div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
+<div class="quarto-figure quarto-figure-center quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <figure>
 <p><img data-src="fig/03-04-sketch-log.png"></p>
 <figcaption>Log scale</figcaption>
 </figure>
-</div>
 </div>
 </div>
 </div>
@@ -1006,23 +984,19 @@ Susan Vanderplas
 <h2>Q3: Numerical Estimation</h2>
 <p>How many times more creatures are there in <code>Year2</code> than <code>Year1</code>?</p>
 <p><span class="emph cerulean">Process Sketch</span></p>
-<div class="quarto-layout-panel">
+<div class="quarto-layout-panel" data-layout-ncol="2">
 <div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
+<div class="quarto-figure quarto-figure-center quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <figure>
 <p><img data-src="fig/03-05-sketch-linear.png"></p>
 <figcaption>Linear scale</figcaption>
 </figure>
 </div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
+<div class="quarto-figure quarto-figure-center quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <figure>
 <p><img data-src="fig/03-05-sketch-log.png"></p>
 <figcaption>Log scale</figcaption>
 </figure>
-</div>
 </div>
 </div>
 </div>
@@ -1092,23 +1066,19 @@ Susan Vanderplas
 <h2>Q3: Numerical Estimation</h2>
 <p>How long does it take for the population in <code>Year 1</code> to double?</p>
 <p><span class="emph cerulean">Process Sketch</span></p>
-<div class="quarto-layout-panel">
+<div class="quarto-layout-panel" data-layout-ncol="2">
 <div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
+<div class="quarto-figure quarto-figure-center quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <figure>
 <p><img data-src="fig/03-06-linear-sketch.png"></p>
 <figcaption>Linear scale</figcaption>
 </figure>
 </div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
+<div class="quarto-figure quarto-figure-center quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <figure>
 <p><img data-src="fig/03-06-log-sketch.png"></p>
 <figcaption>Log scale</figcaption>
 </figure>
-</div>
 </div>
 </div>
 </div>
@@ -1165,7 +1135,7 @@ Susan Vanderplas
 <img data-src="fig/pkgs.png" class="r-stretch"></section>
 <section id="references" class="slide level2 microscopic smaller scrollable">
 <h2>References</h2>
-<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
 <div id="ref-bajgierVisualFitsTeaching1989" class="csl-entry" role="listitem">
 Bajgier, Steve M., Maryanne Atkinson, and Victor R. Prybutok. 1989. <span>“Visual Fits in the Teaching of Regression Concepts.”</span> <em>The American Statistician</em> 43 (4): 229–34. <a href="https://doi.org/10.1080/00031305.1989.10475664">https://doi.org/10.1080/00031305.1989.10475664</a>.
 </div>
@@ -1286,7 +1256,6 @@ Zhao, Yifan, Dianne Cook, Heike Hofmann, Mahbubul Majumder, and Niladri Roy Chow
       Reveal.initialize({
 'controlsAuto': true,
 'previewLinksAuto': false,
-'smaller': false,
 'pdfSeparateFragments': false,
 'autoAnimateEasing': "ease",
 'autoAnimateDuration': 1,
@@ -1585,10 +1554,9 @@ Zhao, Yifan, Dianne Cook, Heike Hofmann, Mahbubul Majumder, and Niladri Roy Chow
         // clear code selection
         e.clearSelection();
       });
-      function tippyHover(el, contentFn) {
+      function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
         const config = {
           allowHTML: true,
-          content: contentFn,
           maxWidth: 500,
           delay: 100,
           arrow: false,
@@ -1598,8 +1566,17 @@ Zhao, Yifan, Dianne Cook, Heike Hofmann, Mahbubul Majumder, and Niladri Roy Chow
           interactive: true,
           interactiveBorder: 10,
           theme: 'light-border',
-          placement: 'bottom-start'
+          placement: 'bottom-start',
         };
+        if (contentFn) {
+          config.content = contentFn;
+        }
+        if (onTriggerFn) {
+          config.onTrigger = onTriggerFn;
+        }
+        if (onUntriggerFn) {
+          config.onUntrigger = onUntriggerFn;
+        }
           config['offset'] = [0,0];
           config['maxWidth'] = 700;
         window.tippy(el, config); 

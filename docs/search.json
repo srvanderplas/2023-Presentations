@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Presentations in 2023",
+    "section": "",
+    "text": "Inconclusive Conclusions: Biases and Consequences\n\n\n\nFeb 15, 2023\n\n\n\n\n\nLocation\n\n\nonline\n\n\n\n\nTopics\n\n\ninconclusives,firearms,error rates,forensics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCAREER Award Chalk Talk\n\n\n\nSusan Vanderplas\n\n\nMar 8, 2023\n\n\n\n\n\nLocation\n\n\nOnline\n\n\n\n\nTopics\n\n\ngraphics,cognition,user-experiments\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat Makes a Good Graph?\n\n\n\nSusan Vanderplas\n\n\nMar 27, 2023\n\n\n\n\n\nLocation\n\n\nCenter for Brain, Biology, and Behavior, University of Nebraska - Lincoln\n\n\n\n\nTopics\n\n\ngraphics,cognition,user-experiments\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTesting Statistical Graphics\n\n\n\nSusan Vanderplas\n\n\nAug 8, 2023\n\n\n\n\n\nLocation\n\n\n2023 Joint Statistical Meetings, Toronto, Canada\n\n\n\n\nTopics\n\n\ngraphics,cognition,user-experiments\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGraphics and Cognition\n\n\n\nSusan Vanderplas\n\n\nOct 12, 2023\n\n\n\n\n\nLocation\n\n\nGraphics Group\n\n\n\n\nTopics\n\n\ngraphics,cognition,user-experiments\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirearms Studies and Error Rates\n\n\n\nSusan Vanderplas\n\n\nOct 27, 2023\n\n\n\n\n\nLocation\n\n\nHarvard and Johns Hopkins joint seminar on causal inference\n\n\n\n\nTopics\n\n\nforensics,firearms\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFWIII: Characteristics in Local Populations\n\n\n\nSusan Vanderplas & Muxin Hua\n\n\nNov 6, 2023\n\n\n\n\n\nLocation\n\n\nOnline CSAFE shoe research seminar\n\n\n\n\nTopics\n\n\nforensics,shoes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMultimodal Graphical Testing\n\n\n\nSusan Vanderplas\n\n\nNov 9, 2023\n\n\n\n\n\nLocation\n\n\nInternational Conference on Data Science, Universidad Diego Portales, Chile\n\n\n\n\nTopics\n\n\ngraphics,user-studies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow Do You Define a Circle?\n\n\n\nSusan Vanderplas & Muxin Hua\n\n\nDec 6, 2023\n\n\n\n\n\nLocation\n\n\nInternational Association of Statistical Computing, Asian Regional Chapter meeting, Macquarie, NSW, Australia\n\n\n\n\nTopics\n\n\nforensics,shoes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFWIII: Characteristics in Local Populations\n\n\n\nSusan Vanderplas & Muxin Hua\n\n\nDec 8, 2023\n\n\n\n\n\nLocation\n\n\nOnline\n\n\n\n\nTopics\n\n\nforensics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMultimodal Graphical Testing\n\n\n\nSusan Vanderplas\n\n\nDec 14, 2023\n\n\n\n\n\nLocation\n\n\nAustralian Statistical Conference, Wollongong, NSW, Australia\n\n\n\n\nTopics\n\n\ngraphics,user-studies\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "12-IASCARS/abstract.html",
+    "href": "12-IASCARS/abstract.html",
+    "title": "How Do You Define a Circle? Perception and Computer Vision Diagnostics",
+    "section": "",
+    "text": "Neural Networks are very complicated and very useful models for image recognition, but they are generally used to recognize very complex and multifaceted stimuli, like cars or people. When neural networks are used to recognize simpler objects with overlapping feature sets, things can go a bit haywire. In this talk, we’ll discuss a model built for applications in statistical forensics which uncovered some very interesting problems between model-based perception and human perception. I will show visual diagnostics which provide insight into the model, and talk about ways we might address the discrepancy between human perception and model perception to produce more accurate and useful model predictions."
+  },
+  {
     "objectID": "12-ASC/index.html#lineups",
     "href": "12-ASC/index.html#lineups",
     "title": "Multimodal Graphical Testing",
@@ -67,7 +81,7 @@
     "href": "12-ASC/index.html#q1-perception-of-differences-1",
     "title": "Multimodal Graphical Testing",
     "section": "Q1: Perception of Differences",
-    "text": "Q1: Perception of Differences\n\n\n\n\n\n\nLog Scale\n\n\n\n\n\n\n\nLinear Scale\n\n\n\n\n\n\nOur first level of engagement is basic perception - can we actually distinguish different growth rates/levels of curvature on a linear and log scale. This is the most basic thing – if we can’t do this, then we probably won’t be able to predict things well or read information off the graph well (though, that last point is arguable).\n\nFactorial Experiment:\n\nLog/linear scale (2 levels)\nLineup composition: (6 levels)\n\nTarget plot - high, medium, low curvature\nNull plots - high, medium, low curvature\nExclude combinations where target/null are the same\n\nLow/High variability (2 levels)\n\nIncluded 6 Rorschach plots (3 curvature levels x log or linear scale)\n\n12 lineups + 1 Rorshcach plots = 13 evaluations per person\nHere are a couple of example lineups from this experiment - the first is on a linear scale, the 2nd is on a log scale. While I generally tried throughout these experiments to make it clear that we were on a log scale, it is a very subtle difference in these lineups, and fixing that wasn’t necessarily relevant to the question at hand – since all sub-panels have the same axis breaks, we’re actually testing whether we can distinguish the data, not the scales."
+    "text": "Q1: Perception of Differences\n\n\n\n\n\nLog Scale\n\n\n\n\n\nLinear Scale\n\n\n\n\n\nOur first level of engagement is basic perception - can we actually distinguish different growth rates/levels of curvature on a linear and log scale. This is the most basic thing – if we can’t do this, then we probably won’t be able to predict things well or read information off the graph well (though, that last point is arguable).\n\nFactorial Experiment:\n\nLog/linear scale (2 levels)\nLineup composition: (6 levels)\n\nTarget plot - high, medium, low curvature\nNull plots - high, medium, low curvature\nExclude combinations where target/null are the same\n\nLow/High variability (2 levels)\n\nIncluded 6 Rorschach plots (3 curvature levels x log or linear scale)\n\n12 lineups + 1 Rorshcach plots = 13 evaluations per person\nHere are a couple of example lineups from this experiment - the first is on a linear scale, the 2nd is on a log scale. While I generally tried throughout these experiments to make it clear that we were on a log scale, it is a very subtle difference in these lineups, and fixing that wasn’t necessarily relevant to the question at hand – since all sub-panels have the same axis breaks, we’re actually testing whether we can distinguish the data, not the scales."
   },
   {
     "objectID": "12-ASC/index.html#q1-perception-of-differences-2",
@@ -102,7 +116,7 @@
     "href": "12-ASC/index.html#q2-forecasting-you-draw-it",
     "title": "Multimodal Graphical Testing",
     "section": "Q2: Forecasting (You-Draw-It)",
-    "text": "Q2: Forecasting (You-Draw-It)\n\n\n\n\n\n\nData from Mosteller et al. (1981)\n\n\n\n\n\n\n\nExp data, linear scale, 50% complete"
+    "text": "Q2: Forecasting (You-Draw-It)\n\n\n\n\n\nData from Mosteller et al. (1981)\n\n\n\n\n\nExp data, linear scale, 50% complete"
   },
   {
     "objectID": "12-ASC/index.html#q2-forecasting-you-draw-it-1",
@@ -151,14 +165,14 @@
     "href": "12-ASC/index.html#q3-numerical-estimation-3",
     "title": "Multimodal Graphical Testing",
     "section": "Q3: Numerical Estimation",
-    "text": "Q3: Numerical Estimation\nFree response: Between \\(t_1\\) and \\(t_2\\), how does the population of \\(X\\) change?\n\n\n\n \n\n\n\n\n\nLinear Scale\n\n\n\n\n \n\n\n\n\n\nLog Scale"
+    "text": "Q3: Numerical Estimation\nFree response: Between \\(t_1\\) and \\(t_2\\), how does the population of \\(X\\) change?\n\n\n\n \n\n\n\n\nLinear Scale\n\n\n\n \n\n\n\n\nLog Scale"
   },
   {
     "objectID": "12-ASC/index.html#q3-numerical-estimation-4",
     "href": "12-ASC/index.html#q3-numerical-estimation-4",
     "title": "Multimodal Graphical Testing",
     "section": "Q3: Numerical Estimation",
-    "text": "Q3: Numerical Estimation\nEstimating Population given a year\nProcess Sketch\n\n\n\n\n\n\nLinear scale\n\n\n\n\n\n\n\nLog scale"
+    "text": "Q3: Numerical Estimation\nEstimating Population given a year\nProcess Sketch\n\n\n\n\n\nLinear scale\n\n\n\n\n\nLog scale"
   },
   {
     "objectID": "12-ASC/index.html#q3-numerical-estimation-5",
@@ -172,7 +186,7 @@
     "href": "12-ASC/index.html#q3-numerical-estimation-6",
     "title": "Multimodal Graphical Testing",
     "section": "Q3: Numerical Estimation",
-    "text": "Q3: Numerical Estimation\nFrom Year1 to Year2, the population increases by ____ individuals\nProcess Sketch\n\n\n\n\n\n\nLinear scale\n\n\n\n\n\n\n\nLog scale"
+    "text": "Q3: Numerical Estimation\nFrom Year1 to Year2, the population increases by ____ individuals\nProcess Sketch\n\n\n\n\n\nLinear scale\n\n\n\n\n\nLog scale"
   },
   {
     "objectID": "12-ASC/index.html#q3-numerical-estimation-7",
@@ -186,7 +200,7 @@
     "href": "12-ASC/index.html#q3-numerical-estimation-8",
     "title": "Multimodal Graphical Testing",
     "section": "Q3: Numerical Estimation",
-    "text": "Q3: Numerical Estimation\nHow many times more creatures are there in Year2 than Year1?\nProcess Sketch\n\n\n\n\n\n\nLinear scale\n\n\n\n\n\n\n\nLog scale"
+    "text": "Q3: Numerical Estimation\nHow many times more creatures are there in Year2 than Year1?\nProcess Sketch\n\n\n\n\n\nLinear scale\n\n\n\n\n\nLog scale"
   },
   {
     "objectID": "12-ASC/index.html#q3-numerical-estimation-9",
@@ -214,7 +228,7 @@
     "href": "12-ASC/index.html#q3-numerical-estimation-12",
     "title": "Multimodal Graphical Testing",
     "section": "Q3: Numerical Estimation",
-    "text": "Q3: Numerical Estimation\nHow long does it take for the population in Year 1 to double?\nProcess Sketch\n\n\n\n\n\n\nLinear scale\n\n\n\n\n\n\n\nLog scale"
+    "text": "Q3: Numerical Estimation\nHow long does it take for the population in Year 1 to double?\nProcess Sketch\n\n\n\n\n\nLinear scale\n\n\n\n\n\nLog scale"
   },
   {
     "objectID": "12-ASC/index.html#q3-numerical-estimation-13",
@@ -257,20 +271,6 @@
     "title": "Multimodal Graphical Testing",
     "section": "Questions?",
     "text": "Questions?"
-  },
-  {
-    "objectID": "12-ASC/abstract.html",
-    "href": "12-ASC/abstract.html",
-    "title": "Abstract",
-    "section": "",
-    "text": "Multimodal User Testing: Producing comprehensive, task-focused guidelines for chart design\nFor at least the last 100 years, researchers have been testing statistical graphics and arguing about which chart designs are better. Many of these studies produce conflicting recommendations: should we use pie charts to display data about the relative proportions of a whole, or are stacked bar charts better? Much of the time, user testing statistical graphics takes a back seat to aesthetic preferences and gut feelings, but even when we test graphics, we often only use one methodology that is focused on a specific use case. For instance, visual inference is often used to determine whether someone can detect an effect, but it does not allow us to easily examine whether users can extrapolate from the data shown, or can draw logical conclusions from a chart. In this presentation, I’ll discuss ongoing research examining chart design choices using multiple testing methods. Each of these methods has been designed to measure the usability of charts for a specific task: perception, estimation, and forecasting. We’ll consider the benefits and drawbacks to this type of user testing and discuss the nuances of design decisions on chart usability."
-  },
-  {
-    "objectID": "11-ICDS/abstract.html",
-    "href": "11-ICDS/abstract.html",
-    "title": "Multimodal User Testing: Producing comprehensive, task-focused guidelines for chart design",
-    "section": "",
-    "text": "Multimodal User Testing: Producing comprehensive, task-focused guidelines for chart design\nFor at least the last 100 years, researchers have been testing statistical graphics and arguing about which chart designs are better. Many of these studies produce conflicting recommendations: should we use pie charts to display data about the relative proportions of a whole, or are stacked bar charts better? Much of the time, user testing statistical graphics takes a back seat to aesthetic preferences and gut feelings, but even when we test graphics, we often only use one methodology that is focused on a specific use case. For instance, visual inference is often used to determine whether someone can detect an effect, but it does not allow us to easily examine whether users can extrapolate from the data shown, or can draw logical conclusions from a chart. In this presentation, I’ll discuss ongoing research examining chart design choices using multiple testing methods. Each of these methods has been designed to measure the usability of charts for a specific task: perception, estimation, and forecasting. We’ll consider the benefits and drawbacks to this type of user testing and discuss the nuances of design decisions on chart usability."
   },
   {
     "objectID": "11-ICDS/index.html#lineups",
@@ -340,7 +340,7 @@
     "href": "11-ICDS/index.html#q1-perception-of-differences-1",
     "title": "Multimodal Graphical Testing",
     "section": "Q1: Perception of Differences",
-    "text": "Q1: Perception of Differences\n\n\n\n\n\n\nLog Scale\n\n\n\n\n\n\n\nLinear Scale\n\n\n\n\n\n\nOur first level of engagement is basic perception - can we actually distinguish different growth rates/levels of curvature on a linear and log scale. This is the most basic thing – if we can’t do this, then we probably won’t be able to predict things well or read information off the graph well (though, that last point is arguable).\n\nFactorial Experiment:\n\nLog/linear scale (2 levels)\nLineup composition: (6 levels)\n\nTarget plot - high, medium, low curvature\nNull plots - high, medium, low curvature\nExclude combinations where target/null are the same\n\nLow/High variability (2 levels)\n\nIncluded 6 Rorschach plots (3 curvature levels x log or linear scale)\n\n12 lineups + 1 Rorshcach plots = 13 evaluations per person\nHere are a couple of example lineups from this experiment - the first is on a linear scale, the 2nd is on a log scale. While I generally tried throughout these experiments to make it clear that we were on a log scale, it is a very subtle difference in these lineups, and fixing that wasn’t necessarily relevant to the question at hand – since all sub-panels have the same axis breaks, we’re actually testing whether we can distinguish the data, not the scales."
+    "text": "Q1: Perception of Differences\n\n\n\n\n\nLog Scale\n\n\n\n\n\nLinear Scale\n\n\n\n\n\nOur first level of engagement is basic perception - can we actually distinguish different growth rates/levels of curvature on a linear and log scale. This is the most basic thing – if we can’t do this, then we probably won’t be able to predict things well or read information off the graph well (though, that last point is arguable).\n\nFactorial Experiment:\n\nLog/linear scale (2 levels)\nLineup composition: (6 levels)\n\nTarget plot - high, medium, low curvature\nNull plots - high, medium, low curvature\nExclude combinations where target/null are the same\n\nLow/High variability (2 levels)\n\nIncluded 6 Rorschach plots (3 curvature levels x log or linear scale)\n\n12 lineups + 1 Rorshcach plots = 13 evaluations per person\nHere are a couple of example lineups from this experiment - the first is on a linear scale, the 2nd is on a log scale. While I generally tried throughout these experiments to make it clear that we were on a log scale, it is a very subtle difference in these lineups, and fixing that wasn’t necessarily relevant to the question at hand – since all sub-panels have the same axis breaks, we’re actually testing whether we can distinguish the data, not the scales."
   },
   {
     "objectID": "11-ICDS/index.html#q1-perception-of-differences-2",
@@ -375,7 +375,7 @@
     "href": "11-ICDS/index.html#q2-forecasting-you-draw-it",
     "title": "Multimodal Graphical Testing",
     "section": "Q2: Forecasting (You-Draw-It)",
-    "text": "Q2: Forecasting (You-Draw-It)\n\n\n\n\n\n\nData from Mosteller et al. (1981)\n\n\n\n\n\n\n\nExp data, linear scale, 50% complete"
+    "text": "Q2: Forecasting (You-Draw-It)\n\n\n\n\n\nData from Mosteller et al. (1981)\n\n\n\n\n\nExp data, linear scale, 50% complete"
   },
   {
     "objectID": "11-ICDS/index.html#q2-forecasting-you-draw-it-1",
@@ -424,14 +424,14 @@
     "href": "11-ICDS/index.html#q3-numerical-estimation-3",
     "title": "Multimodal Graphical Testing",
     "section": "Q3: Numerical Estimation",
-    "text": "Q3: Numerical Estimation\nFree response: Between \\(t_1\\) and \\(t_2\\), how does the population of \\(X\\) change?\n\n\n\n \n\n\n\n\n\nLinear Scale\n\n\n\n\n \n\n\n\n\n\nLog Scale"
+    "text": "Q3: Numerical Estimation\nFree response: Between \\(t_1\\) and \\(t_2\\), how does the population of \\(X\\) change?\n\n\n\n \n\n\n\n\nLinear Scale\n\n\n\n \n\n\n\n\nLog Scale"
   },
   {
     "objectID": "11-ICDS/index.html#q3-numerical-estimation-4",
     "href": "11-ICDS/index.html#q3-numerical-estimation-4",
     "title": "Multimodal Graphical Testing",
     "section": "Q3: Numerical Estimation",
-    "text": "Q3: Numerical Estimation\nEstimating Population given a year\nProcess Sketch\n\n\n\n\n\n\nLinear scale\n\n\n\n\n\n\n\nLog scale"
+    "text": "Q3: Numerical Estimation\nEstimating Population given a year\nProcess Sketch\n\n\n\n\n\nLinear scale\n\n\n\n\n\nLog scale"
   },
   {
     "objectID": "11-ICDS/index.html#q3-numerical-estimation-5",
@@ -445,7 +445,7 @@
     "href": "11-ICDS/index.html#q3-numerical-estimation-6",
     "title": "Multimodal Graphical Testing",
     "section": "Q3: Numerical Estimation",
-    "text": "Q3: Numerical Estimation\nFrom Year1 to Year2, the population increases by ____ individuals\nProcess Sketch\n\n\n\n\n\n\nLinear scale\n\n\n\n\n\n\n\nLog scale"
+    "text": "Q3: Numerical Estimation\nFrom Year1 to Year2, the population increases by ____ individuals\nProcess Sketch\n\n\n\n\n\nLinear scale\n\n\n\n\n\nLog scale"
   },
   {
     "objectID": "11-ICDS/index.html#q3-numerical-estimation-7",
@@ -459,7 +459,7 @@
     "href": "11-ICDS/index.html#q3-numerical-estimation-8",
     "title": "Multimodal Graphical Testing",
     "section": "Q3: Numerical Estimation",
-    "text": "Q3: Numerical Estimation\nHow many times more creatures are there in Year2 than Year1?\nProcess Sketch\n\n\n\n\n\n\nLinear scale\n\n\n\n\n\n\n\nLog scale"
+    "text": "Q3: Numerical Estimation\nHow many times more creatures are there in Year2 than Year1?\nProcess Sketch\n\n\n\n\n\nLinear scale\n\n\n\n\n\nLog scale"
   },
   {
     "objectID": "11-ICDS/index.html#q3-numerical-estimation-9",
@@ -487,7 +487,7 @@
     "href": "11-ICDS/index.html#q3-numerical-estimation-12",
     "title": "Multimodal Graphical Testing",
     "section": "Q3: Numerical Estimation",
-    "text": "Q3: Numerical Estimation\nHow long does it take for the population in Year 1 to double?\nProcess Sketch\n\n\n\n\n\n\nLinear scale\n\n\n\n\n\n\n\nLog scale"
+    "text": "Q3: Numerical Estimation\nHow long does it take for the population in Year 1 to double?\nProcess Sketch\n\n\n\n\n\nLinear scale\n\n\n\n\n\nLog scale"
   },
   {
     "objectID": "11-ICDS/index.html#q3-numerical-estimation-13",
@@ -530,209 +530,6 @@
     "title": "Multimodal Graphical Testing",
     "section": "Questions?",
     "text": "Questions?"
-  },
-  {
-    "objectID": "11-CSAFE-Shoe/index.html#general-overview",
-    "href": "11-CSAFE-Shoe/index.html#general-overview",
-    "title": "FWIII: Characteristics in Local Populations",
-    "section": "General Overview",
-    "text": "General Overview\n\nCreate a scanner which can collect local population data outdoors ✅ and indoors 🚧\n\nGet people to walk across the scanner 😬\nCollect large amounts of shoe pictures w/ time, date, location data 🥿👠👞\n\nCreate an algorithm which can identify human-recognizable characteristics from scanner images\nGenerate a local database of common footwear features\nUse local database to characterize frequency of similar shoes in local population\n\n\nThis is the overall approach we’d planned to use for this project. I’m going to use today to conduct a post-mortem of previous modeling approaches (so I’m focusing on step 2) and explain how we’re going to be approaching this problem from now on."
-  },
-  {
-    "objectID": "11-CSAFE-Shoe/index.html#tasks",
-    "href": "11-CSAFE-Shoe/index.html#tasks",
-    "title": "FWIII: Characteristics in Local Populations",
-    "section": "Tasks",
-    "text": "Tasks\n\nIn the 60s, Marvin Minsky assigned a couple of undergrads to spend the summer programming a computer to use a camera to identify objects in a scene. He figured they’d have the problem solved by the end of the summer. Half a century later, we’re still working on it."
-  },
-  {
-    "objectID": "11-CSAFE-Shoe/index.html#our-assumption-in-2018",
-    "href": "11-CSAFE-Shoe/index.html#our-assumption-in-2018",
-    "title": "FWIII: Characteristics in Local Populations",
-    "section": "Our Assumption in 2018",
-    "text": "Our Assumption in 2018\n\n\n\n\n\n\n\nAfrican Elephant\n\n\n\n\n\nAsian Elephant\n\n\n\n\nIf models can differentiate between types of elephants, they can identify shapes… right?\n\n\n\n\n\n\n\nCircles\n\n\n\n\n\n\n\nQuads\n\n\n\n\n\n\n\n???\n\n\n\n\n\n\n\n\nNeural networks can differentiate between African and Asian elephants. I can’t even do that… They’ll be able to differentiate between a circle and a square easily."
-  },
-  {
-    "objectID": "11-CSAFE-Shoe/index.html#types-of-computer-vision-tasks",
-    "href": "11-CSAFE-Shoe/index.html#types-of-computer-vision-tasks",
-    "title": "FWIII: Characteristics in Local Populations",
-    "section": "Types of Computer Vision Tasks",
-    "text": "Types of Computer Vision Tasks\nWe can reasonably pose this problem in 3 different ways:\n\n\n\n\n\n\nClassification: same-size regions labeled with one or more classes\n\n\n\n\n\n\n\nObject Detection: Propose a bounding box and label for each object in an image\n\n\n\n\n\n\n\nImage segmentation: find regions of the image and label each region\n\n\n\n\n\nEach method requires a different type of labeling schema, data format, etc.\nSome are more tedious to generate than others"
-  },
-  {
-    "objectID": "11-CSAFE-Shoe/index.html#initial-approach-2019",
-    "href": "11-CSAFE-Shoe/index.html#initial-approach-2019",
-    "title": "FWIII: Characteristics in Local Populations",
-    "section": "Initial Approach (~2019)",
-    "text": "Initial Approach (~2019)\n\nUse VGG16 to classify 256x256 px chunks of images\nGoal is to label the entire chunk with one or more classes\n\n\nVGG16 Shoe Example approach\nHard to integrate predictions from each chunk back into the main image reliably"
-  },
-  {
-    "objectID": "11-CSAFE-Shoe/index.html#next-approach-2021-2023",
-    "href": "11-CSAFE-Shoe/index.html#next-approach-2021-2023",
-    "title": "FWIII: Characteristics in Local Populations",
-    "section": "Next Approach (2021-2023)",
-    "text": "Next Approach (2021-2023)\n\nTry to use object detection\n\nStarted with FastAI, but had terrible ongoing support\nMoved to PyTorch, which is a lower level framework\n(Side note: Muxin is amazing at Python)\n\nNew developments:\n\nStructured model so that the underlying network was replacable: can swap VGG16 for Resnet50\nImplementing better metrics, e.g. Intersection over Union for assessing predictions vs. ground truth"
-  },
-  {
-    "objectID": "11-CSAFE-Shoe/index.html#fundamental-problem",
-    "href": "11-CSAFE-Shoe/index.html#fundamental-problem",
-    "title": "FWIII: Characteristics in Local Populations",
-    "section": "Fundamental Problem",
-    "text": "Fundamental Problem\n\nNeural networks are trained on millions of human-annotated real-world photos\nEven shoe soles are artificial relative to a natural scene\nNetworks weren’t trained on the artificial patterns or layouts that are used to generate shoes\n\nPretrained NNs can still generate useful information that is computer-friendly (e.g. Charless’s method)\nTo work with artificial patterns and get human-like labels, we have to do something different."
-  },
-  {
-    "objectID": "11-CSAFE-Shoe/index.html#solution",
-    "href": "11-CSAFE-Shoe/index.html#solution",
-    "title": "FWIII: Characteristics in Local Populations",
-    "section": "Solution?",
-    "text": "Solution?\n\nSystematically generate a large library of synthetic data\n\npre-labeled\ncomplex characteristics\nwill require several iterations to get right\nUse to train preliminary model\n\nRun 2D patterns through Charless’s network to generate more realistic 3D images\n\nUse to train a second-gen model"
-  },
-  {
-    "objectID": "11-CSAFE-Shoe/index.html#solution-1",
-    "href": "11-CSAFE-Shoe/index.html#solution-1",
-    "title": "FWIII: Characteristics in Local Populations",
-    "section": "Solution?",
-    "text": "Solution?\n\nRun 2D patterns through Charless’s network to generate more realistic 3D images\n\nUse to train a second-gen model\n\nTrain on Zappos pictures labeled by humans\n\nUpdate 2nd gen model weights (transfer learning)\n\nTrain on Scanner Photos\n\nUpdate 3rd gen model weights (messy data)"
-  },
-  {
-    "objectID": "11-CSAFE-Shoe/index.html#solution-2",
-    "href": "11-CSAFE-Shoe/index.html#solution-2",
-    "title": "FWIII: Characteristics in Local Populations",
-    "section": "Solution?",
-    "text": "Solution?\nMeasure performance/accuracy changes over time on a consistent set of stimuli manually derived from real shoes"
-  },
-  {
-    "objectID": "11-CSAFE-Shoe/index.html#synthetic-pattern-generation",
-    "href": "11-CSAFE-Shoe/index.html#synthetic-pattern-generation",
-    "title": "FWIII: Characteristics in Local Populations",
-    "section": "Synthetic Pattern Generation",
-    "text": "Synthetic Pattern Generation\n\nUse SoleMate style labeling for examiner familiarity"
-  },
-  {
-    "objectID": "11-CSAFE-Shoe/index.html#synthetic-data-generation",
-    "href": "11-CSAFE-Shoe/index.html#synthetic-data-generation",
-    "title": "FWIII: Characteristics in Local Populations",
-    "section": "Synthetic Data Generation",
-    "text": "Synthetic Data Generation\nRegion Layout\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe basic idea I have is to use real shoes to generate rough “layouts” that are common across different shoe types."
-  },
-  {
-    "objectID": "11-CSAFE-Shoe/index.html#synthetic-data-generation-1",
-    "href": "11-CSAFE-Shoe/index.html#synthetic-data-generation-1",
-    "title": "FWIII: Characteristics in Local Populations",
-    "section": "Synthetic Data Generation",
-    "text": "Synthetic Data Generation\nPatterns\n\n\n\n\n\n\nSnowflake\n\n\n\n\n\n\n\nHexagon Open Circle\n\n\n\n\n\n\n\nStud\n\n\n\n\n\n\n\nTarget Solid Circle\n\n\n\n\n\n\n\n\n\nCircle Bar Across\n\n\n\n\n\n\n\nSolid Circle Array\n\n\n\n\n\n\n\nTargets with Arcs\n\n\n\n\n\n\n\n6-pointed star\n\n\n\n\n\n\nThen, for each layout region, we can choose a pattern and intersect the pattern with that region to produce a layout that covers the whole area. We can of course apply transforms (skew, stretch, rotate, etc.) to this to provide more options as necessary."
-  },
-  {
-    "objectID": "11-CSAFE-Shoe/index.html#synthetic-data-generation-2",
-    "href": "11-CSAFE-Shoe/index.html#synthetic-data-generation-2",
-    "title": "FWIII: Characteristics in Local Populations",
-    "section": "Synthetic Data Generation",
-    "text": "Synthetic Data Generation\nOutlines\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThen, at the end, we can crop to the outline of the shoe; these are traced from real shoes and simplified.\nThis should give us a very large library of training data that we can then manipulate."
-  },
-  {
-    "objectID": "11-CSAFE-Shoe/index.html#synthetic-data-generation-3",
-    "href": "11-CSAFE-Shoe/index.html#synthetic-data-generation-3",
-    "title": "FWIII: Characteristics in Local Populations",
-    "section": "Synthetic Data Generation",
-    "text": "Synthetic Data Generation"
-  },
-  {
-    "objectID": "11-CSAFE-Shoe/index.html#synthetic-data-generation-4",
-    "href": "11-CSAFE-Shoe/index.html#synthetic-data-generation-4",
-    "title": "FWIII: Characteristics in Local Populations",
-    "section": "Synthetic Data Generation",
-    "text": "Synthetic Data Generation\n\n\nAdvantages\n\nSVGs can include metadata\nEasy scaling\nSVG intersection will allow marking partial objects\nRegion segmentation + image labels\n\n\n\n\nDisadvantages\n\nManual SVG creation (8h \\(\\approx\\) 52 images)\nNew R/python library to generate data\n3D rendering after 2D stage:\n\ndigital via OpenSCAD + SVG?\nCan apply different surface colors\n\nLots of work required before we start in on photos\n\n\n\n\nAnd as each one of these layers is an SVG, we will have pre-labeled data (because we can label the SVG objects as we create them) and we’ll be able to figure out if the object is occluded, partially included, or fully included. So we’ll have pre-existing region segmentation and object labels… and hopefully we’ll have less variability in these object labels than we would get having an undergrad manually label data.\nExaminers told us in the 2021 IAI workshop that they tended to use multiple labels to describe a feature that was ambiguous… that is hard to train a network on, so we have decided to approach this from a bottom-up rather than top-down approach."
-  },
-  {
-    "objectID": "11-CSAFE-Shoe/index.html#questions",
-    "href": "11-CSAFE-Shoe/index.html#questions",
-    "title": "FWIII: Characteristics in Local Populations",
-    "section": "Questions?",
-    "text": "Questions?"
-  },
-  {
-    "objectID": "08-JSM-Testing-Graphics/index.html#why-test-graphics",
-    "href": "08-JSM-Testing-Graphics/index.html#why-test-graphics",
-    "title": "Testing Statistical Graphics",
-    "section": "Why Test Graphics?",
-    "text": "Why Test Graphics?"
-  },
-  {
-    "objectID": "08-JSM-Testing-Graphics/index.html#testing-graphics-to-communicate-well",
-    "href": "08-JSM-Testing-Graphics/index.html#testing-graphics-to-communicate-well",
-    "title": "Testing Statistical Graphics",
-    "section": "Testing Graphics to Communicate Well",
-    "text": "Testing Graphics to Communicate Well\n\nSome graphics “just work” - why do you need to test them?\n\nDo they work for everyone?\nWhat insights do people gain from the chart? How much variability is there?\nWhat background knowledge is required?\nWhat areas of the chart contribute to its’ function?"
-  },
-  {
-    "objectID": "08-JSM-Testing-Graphics/index.html#testing-graphics-to-understand-data",
-    "href": "08-JSM-Testing-Graphics/index.html#testing-graphics-to-understand-data",
-    "title": "Testing Statistical Graphics",
-    "section": "Testing Graphics to Understand Data",
-    "text": "Testing Graphics to Understand Data\n\nTesting graphics provides insight into the interaction between humans and data\n\nGraphical hypothesis testing with lineups\nVisual Statistics\nEffective Science Communication:\n\nRisk (public health, hurricanes, climate)\nLegal Evidence weight\nInformation dissemination"
-  },
-  {
-    "objectID": "08-JSM-Testing-Graphics/index.html#testing-graphics-to-understand-statistics",
-    "href": "08-JSM-Testing-Graphics/index.html#testing-graphics-to-understand-statistics",
-    "title": "Testing Statistical Graphics",
-    "section": "Testing Graphics to Understand Statistics",
-    "text": "Testing Graphics to Understand Statistics\n\nTesting graphics can lead to improved methods\n\nvisualizations for method diagnostics\nfeed back into numerical diagnostics\ndesigning algorithms that mimic human perception\nexamining how people understand statistics\nexplain new methods in better ways"
-  },
-  {
-    "objectID": "08-JSM-Testing-Graphics/index.html#why-not-test-graphics",
-    "href": "08-JSM-Testing-Graphics/index.html#why-not-test-graphics",
-    "title": "Testing Statistical Graphics",
-    "section": "Why Not Test Graphics?",
-    "text": "Why Not Test Graphics?\n\n\nPeople are a PITA (💥➡️🍑)\nData collection takes time/energy/money\nAnalyzing (usually very messy) human data is hard\n\nAll of these are true, but it’s still worth doing."
-  },
-  {
-    "objectID": "08-JSM-Testing-Graphics/index.html#biggest-challenges-in-testing-graphics",
-    "href": "08-JSM-Testing-Graphics/index.html#biggest-challenges-in-testing-graphics",
-    "title": "Testing Statistical Graphics",
-    "section": "Biggest Challenges In Testing Graphics",
-    "text": "Biggest Challenges In Testing Graphics"
-  },
-  {
-    "objectID": "08-JSM-Testing-Graphics/index.html#most-interesting-unexpected-findings",
-    "href": "08-JSM-Testing-Graphics/index.html#most-interesting-unexpected-findings",
-    "title": "Testing Statistical Graphics",
-    "section": "Most Interesting (Unexpected) Findings",
-    "text": "Most Interesting (Unexpected) Findings"
-  },
-  {
-    "objectID": "08-JSM-Testing-Graphics/index.html#things-you-wish-you-knew-when-you-started",
-    "href": "08-JSM-Testing-Graphics/index.html#things-you-wish-you-knew-when-you-started",
-    "title": "Testing Statistical Graphics",
-    "section": "Things You Wish You Knew When You Started",
-    "text": "Things You Wish You Knew When You Started"
-  },
-  {
-    "objectID": "08-JSM-Testing-Graphics/index.html#favorite-tools-for-graphics-experiments",
-    "href": "08-JSM-Testing-Graphics/index.html#favorite-tools-for-graphics-experiments",
-    "title": "Testing Statistical Graphics",
-    "section": "Favorite Tools for Graphics Experiments",
-    "text": "Favorite Tools for Graphics Experiments"
-  },
-  {
-    "objectID": "08-JSM-Testing-Graphics/index.html#things-you-want-to-test-next",
-    "href": "08-JSM-Testing-Graphics/index.html#things-you-want-to-test-next",
-    "title": "Testing Statistical Graphics",
-    "section": "Things You Want To Test Next?",
-    "text": "Things You Want To Test Next?"
-  },
-  {
-    "objectID": "12-CSAFE-RTAB/index.html#general-overview",
-    "href": "12-CSAFE-RTAB/index.html#general-overview",
-    "title": "FWIII: Characteristics in Local Populations",
-    "section": "General Overview",
-    "text": "General Overview\n\nCreate a scanner which can collect local population data outdoors and indoors\n\nIndoor scanner work still ongoing\nIRB project closed - will reopen at UNL this Spring\n\nCreate an algorithm to identify familiar class characteristics\n\nNew approach with synthetic data\n\nGenerate a local database of common footwear features\nUse local database to characterize frequency of similar shoes in local population"
-  },
-  {
-    "objectID": "12-CSAFE-RTAB/index.html#synthetic-pattern-generation",
-    "href": "12-CSAFE-RTAB/index.html#synthetic-pattern-generation",
-    "title": "FWIII: Characteristics in Local Populations",
-    "section": "Synthetic Pattern Generation",
-    "text": "Synthetic Pattern Generation\n\nUse SoleMate style labeling for examiner familiarity\nGenerate data in multiple formats: maximum model flexibility\n\n\n\nPatterns\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRegions\n  \n\nOutlines\n  \n\nResult"
   },
   {
     "objectID": "10-Harvard-Hopkins-Firearms/index.html#evidence-standards",
@@ -840,172 +637,74 @@
     "text": "Summary\n\nFundamental problem: fragmentation in the system\n\nfederal, state, & city labs with overlapping jurisdictions\nno centralized certification authority for examiners\nno centralized registry of people who do firearms evidence evaluation\n\nIssues with database searches used to “screen” results for human evaluation"
   },
   {
-    "objectID": "10-Graphics-Cognition/index.html#outline",
-    "href": "10-Graphics-Cognition/index.html#outline",
-    "title": "Graphics and Cognition",
-    "section": "Outline",
-    "text": "Outline\n\nA quick cognitive psychology primer\nApplications to Charts\nModels of graph cognition"
+    "objectID": "08-JSM-Testing-Graphics/index.html#why-test-graphics",
+    "href": "08-JSM-Testing-Graphics/index.html#why-test-graphics",
+    "title": "Testing Statistical Graphics",
+    "section": "Why Test Graphics?",
+    "text": "Why Test Graphics?"
   },
   {
-    "objectID": "10-Graphics-Cognition/index.html#attention",
-    "href": "10-Graphics-Cognition/index.html#attention",
-    "title": "Graphics and Cognition",
-    "section": "Attention",
-    "text": "Attention\n\n\n\nFocused vs. Divided attention\n\nDivided = multiple input streams must be processed (e.g. driving a car)\nFocused = single input stream\n\nAttention shifts with gaze systematically throughout a visual stimulus\nInformation which is extraneous to the task may not be stored or remembered"
+    "objectID": "08-JSM-Testing-Graphics/index.html#testing-graphics-to-communicate-well",
+    "href": "08-JSM-Testing-Graphics/index.html#testing-graphics-to-communicate-well",
+    "title": "Testing Statistical Graphics",
+    "section": "Testing Graphics to Communicate Well",
+    "text": "Testing Graphics to Communicate Well\n\nSome graphics “just work” - why do you need to test them?\n\nDo they work for everyone?\nWhat insights do people gain from the chart? How much variability is there?\nWhat background knowledge is required?\nWhat areas of the chart contribute to its’ function?"
   },
   {
-    "objectID": "10-Graphics-Cognition/index.html#memory",
-    "href": "10-Graphics-Cognition/index.html#memory",
-    "title": "Graphics and Cognition",
-    "section": "Memory",
-    "text": "Memory\nLong Term Memory\n\nLong Term Memory Information Retrieval\nunlimited storage capacity (theoretically)\nmaintained for long periods\ntwo types:\n\ndeclarative/explicit - you can consciously evoke this\nnon-declarative/implicit - procedural memories, such as ‘how to ride a bike’"
+    "objectID": "08-JSM-Testing-Graphics/index.html#testing-graphics-to-understand-data",
+    "href": "08-JSM-Testing-Graphics/index.html#testing-graphics-to-understand-data",
+    "title": "Testing Statistical Graphics",
+    "section": "Testing Graphics to Understand Data",
+    "text": "Testing Graphics to Understand Data\n\nTesting graphics provides insight into the interaction between humans and data\n\nGraphical hypothesis testing with lineups\nVisual Statistics\nEffective Science Communication:\n\nRisk (public health, hurricanes, climate)\nLegal Evidence weight\nInformation dissemination"
   },
   {
-    "objectID": "10-Graphics-Cognition/index.html#memory-1",
-    "href": "10-Graphics-Cognition/index.html#memory-1",
-    "title": "Graphics and Cognition",
-    "section": "Memory",
-    "text": "Memory\nShort Term Memory\n\nNot a term used any more. Replaced by “Working Memory”"
+    "objectID": "08-JSM-Testing-Graphics/index.html#testing-graphics-to-understand-statistics",
+    "href": "08-JSM-Testing-Graphics/index.html#testing-graphics-to-understand-statistics",
+    "title": "Testing Statistical Graphics",
+    "section": "Testing Graphics to Understand Statistics",
+    "text": "Testing Graphics to Understand Statistics\n\nTesting graphics can lead to improved methods\n\nvisualizations for method diagnostics\nfeed back into numerical diagnostics\ndesigning algorithms that mimic human perception\nexamining how people understand statistics\nexplain new methods in better ways"
   },
   {
-    "objectID": "10-Graphics-Cognition/index.html#memory-2",
-    "href": "10-Graphics-Cognition/index.html#memory-2",
-    "title": "Graphics and Cognition",
-    "section": "Memory",
-    "text": "Memory\nWorking Memory\n\nImage from https://www.simplypsychology.org/working-memory.html\nProposed by Baddeley and Hitch (1974)\nLimited capacity\nComponents are thought to be relatively independent of each other"
+    "objectID": "08-JSM-Testing-Graphics/index.html#why-not-test-graphics",
+    "href": "08-JSM-Testing-Graphics/index.html#why-not-test-graphics",
+    "title": "Testing Statistical Graphics",
+    "section": "Why Not Test Graphics?",
+    "text": "Why Not Test Graphics?\n\n\nPeople are a PITA (💥➡️🍑)\nData collection takes time/energy/money\nAnalyzing (usually very messy) human data is hard\n\nAll of these are true, but it’s still worth doing."
   },
   {
-    "objectID": "10-Graphics-Cognition/index.html#perception",
-    "href": "10-Graphics-Cognition/index.html#perception",
-    "title": "Graphics and Cognition",
-    "section": "Perception",
-    "text": "Perception\n\n\n\nSensory input\nRecognition of type of chart\nTakes place very quickly - preattentively"
+    "objectID": "08-JSM-Testing-Graphics/index.html#biggest-challenges-in-testing-graphics",
+    "href": "08-JSM-Testing-Graphics/index.html#biggest-challenges-in-testing-graphics",
+    "title": "Testing Statistical Graphics",
+    "section": "Biggest Challenges In Testing Graphics",
+    "text": "Biggest Challenges In Testing Graphics"
   },
   {
-    "objectID": "10-Graphics-Cognition/index.html#gestalt-grouping",
-    "href": "10-Graphics-Cognition/index.html#gestalt-grouping",
-    "title": "Graphics and Cognition",
-    "section": "Gestalt Grouping",
-    "text": "Gestalt Grouping\n\n\n\nGestalt heuristics used to group points into clusters/trends"
+    "objectID": "08-JSM-Testing-Graphics/index.html#most-interesting-unexpected-findings",
+    "href": "08-JSM-Testing-Graphics/index.html#most-interesting-unexpected-findings",
+    "title": "Testing Statistical Graphics",
+    "section": "Most Interesting (Unexpected) Findings",
+    "text": "Most Interesting (Unexpected) Findings"
   },
   {
-    "objectID": "10-Graphics-Cognition/index.html#integration-with-domain-knowledge",
-    "href": "10-Graphics-Cognition/index.html#integration-with-domain-knowledge",
-    "title": "Graphics and Cognition",
-    "section": "Integration with Domain Knowledge",
-    "text": "Integration with Domain Knowledge\n\n\n\nBegin to assign meaning to the relationship between the data and the chart labels/titles\nRetrieve knowledge from long term memory and make that available in working memory"
+    "objectID": "08-JSM-Testing-Graphics/index.html#things-you-wish-you-knew-when-you-started",
+    "href": "08-JSM-Testing-Graphics/index.html#things-you-wish-you-knew-when-you-started",
+    "title": "Testing Statistical Graphics",
+    "section": "Things You Wish You Knew When You Started",
+    "text": "Things You Wish You Knew When You Started"
   },
   {
-    "objectID": "10-Graphics-Cognition/index.html#integration-with-domain-knowledge-1",
-    "href": "10-Graphics-Cognition/index.html#integration-with-domain-knowledge-1",
-    "title": "Graphics and Cognition",
-    "section": "Integration with Domain Knowledge",
-    "text": "Integration with Domain Knowledge\n\n\nDomain knowledge includes:\n\nHow graphs are usually structured (e.g. y-axis increases from bottom to top)\nConventions for use of filled vs. empty space\nKnowledge of relationships, events, etc. that might be impactful\n\n\n\nFigure from Padilla et al. Cognitive Research: Principles and Implications (2018) 3:29"
+    "objectID": "08-JSM-Testing-Graphics/index.html#favorite-tools-for-graphics-experiments",
+    "href": "08-JSM-Testing-Graphics/index.html#favorite-tools-for-graphics-experiments",
+    "title": "Testing Statistical Graphics",
+    "section": "Favorite Tools for Graphics Experiments",
+    "text": "Favorite Tools for Graphics Experiments"
   },
   {
-    "objectID": "10-Graphics-Cognition/index.html#storytelling",
-    "href": "10-Graphics-Cognition/index.html#storytelling",
-    "title": "Graphics and Cognition",
-    "section": "Storytelling",
-    "text": "Storytelling\n\n\n\nAssign meaning to relationships\nFit visual statistics\nLook for things that do and don’t fit a rough working hypothesis about the data"
-  },
-  {
-    "objectID": "10-Graphics-Cognition/index.html#inference",
-    "href": "10-Graphics-Cognition/index.html#inference",
-    "title": "Graphics and Cognition",
-    "section": "Inference",
-    "text": "Inference\n\n\n\nNumerical estimation from the chart with uncertainty\nVisual search, followed by estimation, calculation, and inference."
-  },
-  {
-    "objectID": "10-Graphics-Cognition/index.html#prediction-and-application",
-    "href": "10-Graphics-Cognition/index.html#prediction-and-application",
-    "title": "Graphics and Cognition",
-    "section": "Prediction and Application",
-    "text": "Prediction and Application\n\n\n\nMoving beyond the data shown to interpret and apply meaning\nDraw conclusions\nMake predictions about the future"
-  },
-  {
-    "objectID": "10-Graphics-Cognition/index.html#general-process",
-    "href": "10-Graphics-Cognition/index.html#general-process",
-    "title": "Graphics and Cognition",
-    "section": "General Process",
-    "text": "General Process\n\nFrom Padilla et al (2018), an adaptation of Pinker (1990)"
-  },
-  {
-    "objectID": "10-Graphics-Cognition/index.html#adding-in-working-memory",
-    "href": "10-Graphics-Cognition/index.html#adding-in-working-memory",
-    "title": "Graphics and Cognition",
-    "section": "Adding in Working Memory",
-    "text": "Adding in Working Memory\n\nFrom Padilla et al (2018)"
-  },
-  {
-    "objectID": "10-Graphics-Cognition/index.html#fast-and-slow-decisions",
-    "href": "10-Graphics-Cognition/index.html#fast-and-slow-decisions",
-    "title": "Graphics and Cognition",
-    "section": "Fast and Slow Decisions",
-    "text": "Fast and Slow Decisions\n\nFrom Padilla et al (2018)"
-  },
-  {
-    "objectID": "10-Graphics-Cognition/index.html#fast-decisions",
-    "href": "10-Graphics-Cognition/index.html#fast-decisions",
-    "title": "Graphics and Cognition",
-    "section": "Fast Decisions",
-    "text": "Fast Decisions\nVisual heuristics replace calculations, requiring very little working memory"
-  },
-  {
-    "objectID": "10-Graphics-Cognition/index.html#slow-decisions",
-    "href": "10-Graphics-Cognition/index.html#slow-decisions",
-    "title": "Graphics and Cognition",
-    "section": "Slow Decisions",
-    "text": "Slow Decisions\nWorking memory required for each estimation and calculation step"
-  },
-  {
-    "objectID": "10-Graphics-Cognition/index.html#cross-domain-findings",
-    "href": "10-Graphics-Cognition/index.html#cross-domain-findings",
-    "title": "Graphics and Cognition",
-    "section": "Cross-domain Findings",
-    "text": "Cross-domain Findings\nMajor takeaways from different experiments across domains and application areas:\n\nVisualizations direct viewers bottom-up attention, which can both help and hinder decision making\nThe visual encoding technique gives rise to visuospatial biases\nVisualizations that have greater cognitive fit produce faster and more effective decisions\nKnowledge-driven processes can interact with the effects of the encoding technique."
-  },
-  {
-    "objectID": "10-Graphics-Cognition/index.html#directing-bottom-up-attention",
-    "href": "10-Graphics-Cognition/index.html#directing-bottom-up-attention",
-    "title": "Graphics and Cognition",
-    "section": "Directing bottom-up attention",
-    "text": "Directing bottom-up attention\n\nFrom Padilla et al. (2018)"
-  },
-  {
-    "objectID": "10-Graphics-Cognition/index.html#directing-bottom-up-attention-1",
-    "href": "10-Graphics-Cognition/index.html#directing-bottom-up-attention-1",
-    "title": "Graphics and Cognition",
-    "section": "Directing bottom-up attention",
-    "text": "Directing bottom-up attention\nAttention focused on the pictogram instead of the base rate, leading to decisions that are suboptimal.\n\nFrom Padilla et al. (2018)"
-  },
-  {
-    "objectID": "10-Graphics-Cognition/index.html#directing-bottom-up-attention-2",
-    "href": "10-Graphics-Cognition/index.html#directing-bottom-up-attention-2",
-    "title": "Graphics and Cognition",
-    "section": "Directing bottom-up attention",
-    "text": "Directing bottom-up attention\nIf a path intersects with a point of interest, resulting decisions tend to be biased.\n\nFrom Padilla et al. (2018)"
-  },
-  {
-    "objectID": "10-Graphics-Cognition/index.html#visual-spatial-biases",
-    "href": "10-Graphics-Cognition/index.html#visual-spatial-biases",
-    "title": "Graphics and Cognition",
-    "section": "Visual-spatial Biases",
-    "text": "Visual-spatial Biases\n\nFrom Padilla et al. (2018), rearranged to fit on slidesBiases:\n\nAnchoring\nAnecdotal evidence\nContainment - what is in the container is different from what is outside the container. Ex: Binning continuous data\nDeterministic construal - what is shown is deterministic instead of probabilistic\nQuality bias - high quality image = high quality science"
-  },
-  {
-    "objectID": "10-Graphics-Cognition/index.html#cognitive-fit",
-    "href": "10-Graphics-Cognition/index.html#cognitive-fit",
-    "title": "Graphics and Cognition",
-    "section": "Cognitive Fit",
-    "text": "Cognitive Fit\nIf there is a mismatch between the visualization type and the decision making component, working memory must be used to compensate\n\nFrom Padilla et al. (2018), reproduced from Hegarty et al. (2012)"
-  },
-  {
-    "objectID": "10-Graphics-Cognition/index.html#knowledge-driven-processing",
-    "href": "10-Graphics-Cognition/index.html#knowledge-driven-processing",
-    "title": "Graphics and Cognition",
-    "section": "Knowledge-Driven Processing",
-    "text": "Knowledge-Driven Processing\n\n\n\nInstructions/training (short term knowledge)\nIndividual differences (e.g. math skills, background knowledge, interests)\nKnowledge can be used to overcome e.g. familiarity bias (preference for familiar but ineffective visualizations)\nSubject-matter expertise\n\n\n\n\n\nFrom Padilla et al. (2018), a reproduction of stimuli used by Galesic et al (2009)."
+    "objectID": "08-JSM-Testing-Graphics/index.html#things-you-want-to-test-next",
+    "href": "08-JSM-Testing-Graphics/index.html#things-you-want-to-test-next",
+    "title": "Testing Statistical Graphics",
+    "section": "Things You Want To Test Next?",
+    "text": "Things You Want To Test Next?"
   },
   {
     "objectID": "03-C3B/index.html#why-do-we-use-visualizations",
@@ -1204,6 +903,314 @@
     "text": "If we return briefly to this question of why we use visualizations, I’m hoping that I’ve convinced you that there is one other way to use visualizations - as statistics (that are testable) to determine what we see and don’t see in a chart. I’ve shown you one way that I use statistical lineups, but there are others, including in a traditional hypothesis testing context. Visual inference is an incredibly powerful technique for examining statistical hypothesis that are sometimes not as well specified - if you don’t have a model that forces things to be normal and identically distributed, for instance, you may still be able to test that hypothesis visually, even if you can’t fit a full model to the data."
   },
   {
+    "objectID": "10-Graphics-Cognition/index.html#outline",
+    "href": "10-Graphics-Cognition/index.html#outline",
+    "title": "Graphics and Cognition",
+    "section": "Outline",
+    "text": "Outline\n\nA quick cognitive psychology primer\nApplications to Charts\nModels of graph cognition"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#attention",
+    "href": "10-Graphics-Cognition/index.html#attention",
+    "title": "Graphics and Cognition",
+    "section": "Attention",
+    "text": "Attention\n\n\n\nFocused vs. Divided attention\n\nDivided = multiple input streams must be processed (e.g. driving a car)\nFocused = single input stream\n\nAttention shifts with gaze systematically throughout a visual stimulus\nInformation which is extraneous to the task may not be stored or remembered"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#memory",
+    "href": "10-Graphics-Cognition/index.html#memory",
+    "title": "Graphics and Cognition",
+    "section": "Memory",
+    "text": "Memory\nLong Term Memory\n\nLong Term Memory Information Retrieval\nunlimited storage capacity (theoretically)\nmaintained for long periods\ntwo types:\n\ndeclarative/explicit - you can consciously evoke this\nnon-declarative/implicit - procedural memories, such as ‘how to ride a bike’"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#memory-1",
+    "href": "10-Graphics-Cognition/index.html#memory-1",
+    "title": "Graphics and Cognition",
+    "section": "Memory",
+    "text": "Memory\nShort Term Memory\n\nNot a term used any more. Replaced by “Working Memory”"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#memory-2",
+    "href": "10-Graphics-Cognition/index.html#memory-2",
+    "title": "Graphics and Cognition",
+    "section": "Memory",
+    "text": "Memory\nWorking Memory\n\n\nProposed by Baddeley and Hitch (1974)\nLimited capacity\nComponents are thought to be relatively independent of each other"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#perception",
+    "href": "10-Graphics-Cognition/index.html#perception",
+    "title": "Graphics and Cognition",
+    "section": "Perception",
+    "text": "Perception\n\n\n\nSensory input\nRecognition of type of chart\nTakes place very quickly - preattentively\n\n\n\n  \n  \n  \n    \n      \n        \n          \n          \n        \n        \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n        \n      \n      \n        \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n        \n        \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n        \n        \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n        \n      \n      perception"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#gestalt-grouping",
+    "href": "10-Graphics-Cognition/index.html#gestalt-grouping",
+    "title": "Graphics and Cognition",
+    "section": "Gestalt Grouping",
+    "text": "Gestalt Grouping\n\n\n\nGestalt heuristics used to group points into clusters/trends\n\n\n \n  \n   \n  \n  \n   \n  \n \n \n  \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n  \n \n \n  \n \n \n  \n   \n  \n  \n   \n  \n  \n   \n  \n  \n   \n  \n  \n   \n  \n  \n   \n  \n  \n   \n  \n  \n   \n  \n  \n   \n  \n  \n   \n  \n \n \n \n  \n   \n   \n  \n \n \n  \n   \n    \n     \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        \n       \n      \n      \n       \n        \n        Figure/Ground Segregation\n       \n      \n      \n       \n        \n        Closure\n       \n      \n      \n       \n        \n        Proximity\n       \n      \n      \n       \n        \n        Good Continuation\n       \n      \n      \n       \n        \n        Law of Simplicity\n       \n      \n      \n       \n        \n        Similarity\n       \n      \n      \n       \n        \n        CommonRegion\n       \n      \n     \n    \n   \n  \n \n\n\n\n  \n  \n  \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      gestaltgrouping"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#integration-with-domain-knowledge",
+    "href": "10-Graphics-Cognition/index.html#integration-with-domain-knowledge",
+    "title": "Graphics and Cognition",
+    "section": "Integration with Domain Knowledge",
+    "text": "Integration with Domain Knowledge\n\n\n\nBegin to assign meaning to the relationship between the data and the chart labels/titles\nRetrieve knowledge from long term memory and make that available in working memory\n\n\n\n  \n  \n  \n    \n      \n        \n          \n        \n        \n        \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n        \n      \n      \n        \n        \n          \n            \n            \n          \n          \n            \n            \n          \n          \n          \n          \n            \n            \n            \n          \n          \n            \n              \n              \n            \n            \n          \n          \n            \n            \n          \n        \n      \n      \n        \n        \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n        \n      \n      \n      \n        \n          \n        \n        \n          \n        \n        \n          \n        \n        \n          \n        \n        \n          \n        \n        \n          \n        \n        \n          \n        \n        \n          \n        \n        \n          \n        \n      \n      \n        \n        \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n        \n      \n      integrationwith domainknowledge"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#integration-with-domain-knowledge-1",
+    "href": "10-Graphics-Cognition/index.html#integration-with-domain-knowledge-1",
+    "title": "Graphics and Cognition",
+    "section": "Integration with Domain Knowledge",
+    "text": "Integration with Domain Knowledge\n\n\nDomain knowledge includes:\n\nHow graphs are usually structured (e.g. y-axis increases from bottom to top)\nConventions for use of filled vs. empty space\nKnowledge of relationships, events, etc. that might be impactful\n\n\n\nFigure from Padilla et al. Cognitive Research: Principles and Implications (2018) 3:29"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#storytelling",
+    "href": "10-Graphics-Cognition/index.html#storytelling",
+    "title": "Graphics and Cognition",
+    "section": "Storytelling",
+    "text": "Storytelling\n\n\n\nAssign meaning to relationships\nFit visual statistics\nLook for things that do and don’t fit a rough working hypothesis about the data\n\n\n\n  \n  \n  \n    \n      \n      \n        \n        \n      \n      \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n          \n          \n          \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n      \n      \n        \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n        \n        \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n        \n        \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n        \n      \n      visualstatistics\n      storytelling\n      \n      \n      \n      \n        outlierassessment"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#inference",
+    "href": "10-Graphics-Cognition/index.html#inference",
+    "title": "Graphics and Cognition",
+    "section": "Inference",
+    "text": "Inference\n\n\n\nNumerical estimation from the chart with uncertainty\nVisual search, followed by estimation, calculation, and inference.\n\n\n\n  \n  \n    \n      \n    \n    \n      \n    \n    \n      \n    \n    \n      \n    \n  \n  \n    \n      \n        \n        \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n        \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n        \n        \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n        \n        \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n        \n      \n      \n      \n      \n      \n        y(x)\n        \n        y(x)\n      \n      \n      x\n      \n      \n      \n        \n        \n          \n          \n        \n      \n      inference\n      \n      \n      \n      \n      \n      \n      \n      \n        \n        estimation\n      \n      visual search\n      \n      \n      \n      \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n      \n      \n      calculation"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#prediction-and-application",
+    "href": "10-Graphics-Cognition/index.html#prediction-and-application",
+    "title": "Graphics and Cognition",
+    "section": "Prediction and Application",
+    "text": "Prediction and Application\n\n\n\nMoving beyond the data shown to interpret and apply meaning\nDraw conclusions\nMake predictions about the future\n\n\n\n  \n  \n    \n      \n    \n    \n  \n  \n    \n      \n        \n        \n      \n      \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n      \n      \n        \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n        \n        \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n        \n        \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n          \n            \n          \n        \n      \n      prediction\n      \n      \n      \n        \n          \n            \n            \n              \n              \n              \n              \n              \n              \n            \n          \n        \n      \n      \n      application"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#general-process",
+    "href": "10-Graphics-Cognition/index.html#general-process",
+    "title": "Graphics and Cognition",
+    "section": "General Process",
+    "text": "General Process\n\nFrom Padilla et al (2018), an adaptation of Pinker (1990)"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#adding-in-working-memory",
+    "href": "10-Graphics-Cognition/index.html#adding-in-working-memory",
+    "title": "Graphics and Cognition",
+    "section": "Adding in Working Memory",
+    "text": "Adding in Working Memory\n\nFrom Padilla et al (2018)"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#fast-and-slow-decisions",
+    "href": "10-Graphics-Cognition/index.html#fast-and-slow-decisions",
+    "title": "Graphics and Cognition",
+    "section": "Fast and Slow Decisions",
+    "text": "Fast and Slow Decisions\n\nFrom Padilla et al (2018)"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#fast-decisions",
+    "href": "10-Graphics-Cognition/index.html#fast-decisions",
+    "title": "Graphics and Cognition",
+    "section": "Fast Decisions",
+    "text": "Fast Decisions\nVisual heuristics replace calculations, requiring very little working memory"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#slow-decisions",
+    "href": "10-Graphics-Cognition/index.html#slow-decisions",
+    "title": "Graphics and Cognition",
+    "section": "Slow Decisions",
+    "text": "Slow Decisions\nWorking memory required for each estimation and calculation step"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#cross-domain-findings",
+    "href": "10-Graphics-Cognition/index.html#cross-domain-findings",
+    "title": "Graphics and Cognition",
+    "section": "Cross-domain Findings",
+    "text": "Cross-domain Findings\nMajor takeaways from different experiments across domains and application areas:\n\nVisualizations direct viewers bottom-up attention, which can both help and hinder decision making\nThe visual encoding technique gives rise to visuospatial biases\nVisualizations that have greater cognitive fit produce faster and more effective decisions\nKnowledge-driven processes can interact with the effects of the encoding technique."
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#directing-bottom-up-attention",
+    "href": "10-Graphics-Cognition/index.html#directing-bottom-up-attention",
+    "title": "Graphics and Cognition",
+    "section": "Directing bottom-up attention",
+    "text": "Directing bottom-up attention\n\nFrom Padilla et al. (2018)"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#directing-bottom-up-attention-1",
+    "href": "10-Graphics-Cognition/index.html#directing-bottom-up-attention-1",
+    "title": "Graphics and Cognition",
+    "section": "Directing bottom-up attention",
+    "text": "Directing bottom-up attention\nAttention focused on the pictogram instead of the base rate, leading to decisions that are suboptimal.\n\nFrom Padilla et al. (2018)"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#directing-bottom-up-attention-2",
+    "href": "10-Graphics-Cognition/index.html#directing-bottom-up-attention-2",
+    "title": "Graphics and Cognition",
+    "section": "Directing bottom-up attention",
+    "text": "Directing bottom-up attention\nIf a path intersects with a point of interest, resulting decisions tend to be biased.\n\nFrom Padilla et al. (2018)"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#visual-spatial-biases",
+    "href": "10-Graphics-Cognition/index.html#visual-spatial-biases",
+    "title": "Graphics and Cognition",
+    "section": "Visual-spatial Biases",
+    "text": "Visual-spatial Biases\n\nFrom Padilla et al. (2018), rearranged to fit on slidesBiases:\n\nAnchoring\nAnecdotal evidence\nContainment - what is in the container is different from what is outside the container. Ex: Binning continuous data\nDeterministic construal - what is shown is deterministic instead of probabilistic\nQuality bias - high quality image = high quality science"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#cognitive-fit",
+    "href": "10-Graphics-Cognition/index.html#cognitive-fit",
+    "title": "Graphics and Cognition",
+    "section": "Cognitive Fit",
+    "text": "Cognitive Fit\nIf there is a mismatch between the visualization type and the decision making component, working memory must be used to compensate\n\nFrom Padilla et al. (2018), reproduced from Hegarty et al. (2012)"
+  },
+  {
+    "objectID": "10-Graphics-Cognition/index.html#knowledge-driven-processing",
+    "href": "10-Graphics-Cognition/index.html#knowledge-driven-processing",
+    "title": "Graphics and Cognition",
+    "section": "Knowledge-Driven Processing",
+    "text": "Knowledge-Driven Processing\n\n\n\nInstructions/training (short term knowledge)\nIndividual differences (e.g. math skills, background knowledge, interests)\nKnowledge can be used to overcome e.g. familiarity bias (preference for familiar but ineffective visualizations)\nSubject-matter expertise\n\n\n\n\n\nFrom Padilla et al. (2018), a reproduction of stimuli used by Galesic et al (2009)."
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#general-overview",
+    "href": "11-CSAFE-Shoe/index.html#general-overview",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "General Overview",
+    "text": "General Overview\n\nCreate a scanner which can collect local population data outdoors ✅ and indoors 🚧\n\nGet people to walk across the scanner 😬\nCollect large amounts of shoe pictures w/ time, date, location data 🥿👠👞\n\nCreate an algorithm which can identify human-recognizable characteristics from scanner images\nGenerate a local database of common footwear features\nUse local database to characterize frequency of similar shoes in local population\n\n\nThis is the overall approach we’d planned to use for this project. I’m going to use today to conduct a post-mortem of previous modeling approaches (so I’m focusing on step 2) and explain how we’re going to be approaching this problem from now on."
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#tasks",
+    "href": "11-CSAFE-Shoe/index.html#tasks",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Tasks",
+    "text": "Tasks"
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#our-assumption-in-2018",
+    "href": "11-CSAFE-Shoe/index.html#our-assumption-in-2018",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Our Assumption in 2018",
+    "text": "Our Assumption in 2018\n\n\n\n\n\n\n\n\n\n\n\n\nIf models can differentiate between types of elephants, they can identify shapes… right?\n\n\n\n\n\n\nCircles\n\n\n\n\n\nQuads\n\n\n\n\n\n???\n\n\n\n\n\n\n\nNeural networks can differentiate between African and Asian elephants. I can’t even do that… They’ll be able to differentiate between a circle and a square easily."
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#types-of-computer-vision-tasks",
+    "href": "11-CSAFE-Shoe/index.html#types-of-computer-vision-tasks",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Types of Computer Vision Tasks",
+    "text": "Types of Computer Vision Tasks\nWe can reasonably pose this problem in 3 different ways:\n\n\n\n\n\nClassification: same-size regions labeled with one or more classes\n\n\n\n\n\nObject Detection: Propose a bounding box and label for each object in an image\n\n\n\n\n\nImage segmentation: find regions of the image and label each region\n\n\n\n\nEach method requires a different type of labeling schema, data format, etc.\nSome are more tedious to generate than others"
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#initial-approach-2019",
+    "href": "11-CSAFE-Shoe/index.html#initial-approach-2019",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Initial Approach (~2019)",
+    "text": "Initial Approach (~2019)\n\nUse VGG16 to classify 256x256 px chunks of images\nGoal is to label the entire chunk with one or more classes\n\n\nVGG16 Shoe Example approach\nHard to integrate predictions from each chunk back into the main image reliably"
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#next-approach-2021-2023",
+    "href": "11-CSAFE-Shoe/index.html#next-approach-2021-2023",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Next Approach (2021-2023)",
+    "text": "Next Approach (2021-2023)\n\nTry to use object detection\n\nStarted with FastAI, but had terrible ongoing support\nMoved to PyTorch, which is a lower level framework\n(Side note: Muxin is amazing at Python)\n\nNew developments:\n\nStructured model so that the underlying network was replacable: can swap VGG16 for Resnet50\nImplementing better metrics, e.g. Intersection over Union for assessing predictions vs. ground truth"
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#fundamental-problem",
+    "href": "11-CSAFE-Shoe/index.html#fundamental-problem",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Fundamental Problem",
+    "text": "Fundamental Problem\n\nNeural networks are trained on millions of human-annotated real-world photos\nEven shoe soles are artificial relative to a natural scene\nNetworks weren’t trained on the artificial patterns or layouts that are used to generate shoes\n\nPretrained NNs can still generate useful information that is computer-friendly (e.g. Charless’s method)\nTo work with artificial patterns and get human-like labels, we have to do something different."
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#solution",
+    "href": "11-CSAFE-Shoe/index.html#solution",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Solution?",
+    "text": "Solution?\n\nSystematically generate a large library of synthetic data\n\npre-labeled\ncomplex characteristics\nwill require several iterations to get right\nUse to train preliminary model\n\nRun 2D patterns through Charless’s network to generate more realistic 3D images\n\nUse to train a second-gen model"
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#solution-1",
+    "href": "11-CSAFE-Shoe/index.html#solution-1",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Solution?",
+    "text": "Solution?\n\nRun 2D patterns through Charless’s network to generate more realistic 3D images\n\nUse to train a second-gen model\n\nTrain on Zappos pictures labeled by humans\n\nUpdate 2nd gen model weights (transfer learning)\n\nTrain on Scanner Photos\n\nUpdate 3rd gen model weights (messy data)"
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#solution-2",
+    "href": "11-CSAFE-Shoe/index.html#solution-2",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Solution?",
+    "text": "Solution?\nMeasure performance/accuracy changes over time on a consistent set of stimuli manually derived from real shoes"
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#synthetic-pattern-generation",
+    "href": "11-CSAFE-Shoe/index.html#synthetic-pattern-generation",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Synthetic Pattern Generation",
+    "text": "Synthetic Pattern Generation\n\nUse SoleMate style labeling for examiner familiarity"
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#synthetic-data-generation",
+    "href": "11-CSAFE-Shoe/index.html#synthetic-data-generation",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Synthetic Data Generation",
+    "text": "Synthetic Data Generation\nRegion Layout\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe basic idea I have is to use real shoes to generate rough “layouts” that are common across different shoe types."
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#synthetic-data-generation-1",
+    "href": "11-CSAFE-Shoe/index.html#synthetic-data-generation-1",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Synthetic Data Generation",
+    "text": "Synthetic Data Generation\nPatterns\n\n\n\n\n\nSnowflake\n\n\n\n\n\n  \n    \n  \n  \n    \n  \n  \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n    \n      \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n      \n    \n    \n      \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n      \n    \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n\nHexagon Open Circle\n\n\n\n\n\nStud\n\n\n\n\n\n  \n    \n  \n  \n    \n  \n  \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n  \n\nTarget Solid Circle\n\n\n\n\n\n\n\n  \n    \n  \n  \n    \n  \n  \n    \n      \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n      \n      \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n      \n      \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n      \n      \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n      \n      \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n      \n      \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n      \n      \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n      \n    \n  \n\nCircle Bar Across\n\n\n\n\n\n  \n    \n  \n  \n  \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n\nSolid Circle Array\n\n\n\n\n\n  \n    \n  \n  \n    \n  \n  \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n        \n        \n        \n        \n      \n      \n        \n        \n        \n        \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n  \n\nTargets with Arcs\n\n\n\n\n\n6-pointed star\n\n\n\n\n\nThen, for each layout region, we can choose a pattern and intersect the pattern with that region to produce a layout that covers the whole area. We can of course apply transforms (skew, stretch, rotate, etc.) to this to provide more options as necessary."
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#synthetic-data-generation-2",
+    "href": "11-CSAFE-Shoe/index.html#synthetic-data-generation-2",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Synthetic Data Generation",
+    "text": "Synthetic Data Generation\nOutlines\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThen, at the end, we can crop to the outline of the shoe; these are traced from real shoes and simplified.\nThis should give us a very large library of training data that we can then manipulate."
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#synthetic-data-generation-3",
+    "href": "11-CSAFE-Shoe/index.html#synthetic-data-generation-3",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Synthetic Data Generation",
+    "text": "Synthetic Data Generation"
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#synthetic-data-generation-4",
+    "href": "11-CSAFE-Shoe/index.html#synthetic-data-generation-4",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Synthetic Data Generation",
+    "text": "Synthetic Data Generation\n\n\nAdvantages\n\nSVGs can include metadata\nEasy scaling\nSVG intersection will allow marking partial objects\nRegion segmentation + image labels\n\n\n\n\nDisadvantages\n\nManual SVG creation (8h \\(\\approx\\) 52 images)\nNew R/python library to generate data\n3D rendering after 2D stage:\n\ndigital via OpenSCAD + SVG?\nCan apply different surface colors\n\nLots of work required before we start in on photos\n\n\n\n\nAnd as each one of these layers is an SVG, we will have pre-labeled data (because we can label the SVG objects as we create them) and we’ll be able to figure out if the object is occluded, partially included, or fully included. So we’ll have pre-existing region segmentation and object labels… and hopefully we’ll have less variability in these object labels than we would get having an undergrad manually label data.\nExaminers told us in the 2021 IAI workshop that they tended to use multiple labels to describe a feature that was ambiguous… that is hard to train a network on, so we have decided to approach this from a bottom-up rather than top-down approach."
+  },
+  {
+    "objectID": "11-CSAFE-Shoe/index.html#questions",
+    "href": "11-CSAFE-Shoe/index.html#questions",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Questions?",
+    "text": "Questions?"
+  },
+  {
+    "objectID": "12-ASC/abstract.html",
+    "href": "12-ASC/abstract.html",
+    "title": "Abstract",
+    "section": "",
+    "text": "Multimodal User Testing: Producing comprehensive, task-focused guidelines for chart design\nFor at least the last 100 years, researchers have been testing statistical graphics and arguing about which chart designs are better. Many of these studies produce conflicting recommendations: should we use pie charts to display data about the relative proportions of a whole, or are stacked bar charts better? Much of the time, user testing statistical graphics takes a back seat to aesthetic preferences and gut feelings, but even when we test graphics, we often only use one methodology that is focused on a specific use case. For instance, visual inference is often used to determine whether someone can detect an effect, but it does not allow us to easily examine whether users can extrapolate from the data shown, or can draw logical conclusions from a chart. In this presentation, I’ll discuss ongoing research examining chart design choices using multiple testing methods. Each of these methods has been designed to measure the usability of charts for a specific task: perception, estimation, and forecasting. We’ll consider the benefits and drawbacks to this type of user testing and discuss the nuances of design decisions on chart usability."
+  },
+  {
+    "objectID": "12-CSAFE-RTAB/index.html#general-overview",
+    "href": "12-CSAFE-RTAB/index.html#general-overview",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "General Overview",
+    "text": "General Overview\n\nCreate a scanner which can collect local population data outdoors and indoors\n\nIndoor scanner work still ongoing\nIRB project closed - will reopen at UNL this Spring\n\nCreate an algorithm to identify familiar class characteristics\n\nNew approach with synthetic data\n\nGenerate a local database of common footwear features\nUse local database to characterize frequency of similar shoes in local population"
+  },
+  {
+    "objectID": "12-CSAFE-RTAB/index.html#synthetic-pattern-generation",
+    "href": "12-CSAFE-RTAB/index.html#synthetic-pattern-generation",
+    "title": "FWIII: Characteristics in Local Populations",
+    "section": "Synthetic Pattern Generation",
+    "text": "Synthetic Pattern Generation\n\nUse SoleMate style labeling for examiner familiarity\nGenerate data in multiple formats: maximum model flexibility\n\n\n\nPatterns\n\n\n\n\n  \n    \n  \n  \n    \n  \n  \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n        \n        \n        \n        \n      \n      \n        \n        \n        \n        \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n  \n\n\n\n\n\n\n\n\n\n\n\n\n  \n    \n  \n  \n    \n  \n  \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n    \n      \n      \n      \n    \n  \n\n\n\n\n\n\n  \n    \n  \n  \n    \n  \n  \n    \n      \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n      \n      \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n      \n      \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n      \n      \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n      \n      \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n      \n      \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n      \n      \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n        \n          \n          \n        \n      \n    \n  \n\n\n\n\n  \n    \n  \n  \n    \n  \n  \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n    \n      \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n      \n    \n    \n      \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n      \n    \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\nRegions\n  \n\nOutlines\n  \n\nResult"
+  },
+  {
     "objectID": "12-IASCARS/index.html#footwear-forensics",
     "href": "12-IASCARS/index.html#footwear-forensics",
     "title": "How Do You Define a Circle?",
@@ -1222,21 +1229,21 @@
     "href": "12-IASCARS/index.html#our-assumption-in-2018",
     "title": "How Do You Define a Circle?",
     "section": "Our Assumption in 2018",
-    "text": "Our Assumption in 2018\n\n\n\n \n\n\n\n\nAfrican Elephant\n\n\n\n\n\nAsian Elephant\n\n\n\n \n\n\n\nIf models can differentiate between types of elephants, they can identify shapes… right?\n\n\n\n\n\n\n\nCircles\n\n\n\n\n\n\n\nQuads\n\n\n\n\n\n\n\n???\n\n\n\n\n\n\n:::\n\nNeural networks can differentiate between African and Asian elephants. I can’t even do that… They’ll be able to differentiate between a circle and a square easily."
+    "text": "Our Assumption in 2018\n\n\n\n \n\n\n\n\n\n\n\n\n \n\n\n\nIf models can differentiate between types of elephants, they can identify shapes… right?\n\n\n\n\n\n\nCircles\n\n\n\n\n\nQuads\n\n\n\n\n\n???\n\n\n\n\n\n:::\n\nNeural networks can differentiate between African and Asian elephants. I can’t even do that… They’ll be able to differentiate between a circle and a square easily."
   },
   {
     "objectID": "12-IASCARS/index.html#xkcd-tasks",
     "href": "12-IASCARS/index.html#xkcd-tasks",
     "title": "How Do You Define a Circle?",
     "section": "XKCD: Tasks",
-    "text": "XKCD: Tasks\n\nIn the 60s, Marvin Minsky assigned a couple of undergrads to spend the summer programming a computer to use a camera to identify objects in a scene. He figured they'd have the problem solved by the end of the summer. Half a century later, we're still working on it."
+    "text": "XKCD: Tasks"
   },
   {
     "objectID": "12-IASCARS/index.html#complication-different-cv-models",
     "href": "12-IASCARS/index.html#complication-different-cv-models",
     "title": "How Do You Define a Circle?",
     "section": "Complication: Different CV Models",
-    "text": "Complication: Different CV Models\nWe can reasonably pose this problem in 3 different ways:\n\n\n\n\n\n\nClassification: same-size regions labeled with one or more classes\n\n\n\n\n\n\n\nObject Detection: Propose a bounding box and label for each object in an image\n\n\n\n\n\n\n\nImage segmentation: find regions of the image and label each region\n\n\n\n\n\nEach method requires a different labeling schema, annotation method, and data format"
+    "text": "Complication: Different CV Models\nWe can reasonably pose this problem in 3 different ways:\n\n\n\n\n\nClassification: same-size regions labeled with one or more classes\n\n\n\n\n\nObject Detection: Propose a bounding box and label for each object in an image\n\n\n\n\n\nImage segmentation: find regions of the image and label each region\n\n\n\n\nEach method requires a different labeling schema, annotation method, and data format"
   },
   {
     "objectID": "12-IASCARS/index.html#initial-approach-2019",
@@ -1327,7 +1334,7 @@
     "href": "12-IASCARS/index.html#synthetic-data-generation",
     "title": "How Do You Define a Circle?",
     "section": "Synthetic Data Generation",
-    "text": "Synthetic Data Generation\nDifferent Patterns\n\n\n\n\n\n\nSnowflake\n\n\n\n\n\n\n\nHexagon Open Circle\n\n\n\n\n\n\n\nStud\n\n\n\n\n\n\n\nTarget Solid Circle\n\n\n\n\n\n\n\n\n\nCircle Bar Across\n\n\n\n\n\n\n\nSolid Circle Array\n\n\n\n\n\n\n\nTargets with Arcs\n\n\n\n\n\n\n\n6-pointed star\n\n\n\n\n\n\nThen, for each layout region, we can choose a pattern and intersect the pattern with that region to produce a layout that covers the whole area. We can of course apply transforms (skew, stretch, rotate, etc.) to this to provide more options as necessary."
+    "text": "Synthetic Data Generation\nDifferent Patterns\n\n\n\n\n\nSnowflake\n\n\n\n\n\nHexagon Open Circle\n\n\n\n\n\nStud\n\n\n\n\n\nTarget Solid Circle\n\n\n\n\n\n\n\nCircle Bar Across\n\n\n\n\n\nSolid Circle Array\n\n\n\n\n\nTargets with Arcs\n\n\n\n\n\n6-pointed star\n\n\n\n\n\nThen, for each layout region, we can choose a pattern and intersect the pattern with that region to produce a layout that covers the whole area. We can of course apply transforms (skew, stretch, rotate, etc.) to this to provide more options as necessary."
   },
   {
     "objectID": "12-IASCARS/index.html#synthetic-data-generation-1",
@@ -1356,19 +1363,5 @@
     "title": "How Do You Define a Circle?",
     "section": "End Goal",
     "text": "End Goal\nHuman Friendly Model Outputs\n\nFamiliar features for database search\nData quality flexibility:\n\nMessy photos for database creationi\nNeat images for search\n\nGoal: reliable estimates of random match probability RMP: the probability that someone in the area has a shoe with similar characteristics."
-  },
-  {
-    "objectID": "12-IASCARS/abstract.html",
-    "href": "12-IASCARS/abstract.html",
-    "title": "How Do You Define a Circle? Perception and Computer Vision Diagnostics",
-    "section": "",
-    "text": "Neural Networks are very complicated and very useful models for image recognition, but they are generally used to recognize very complex and multifaceted stimuli, like cars or people. When neural networks are used to recognize simpler objects with overlapping feature sets, things can go a bit haywire. In this talk, we’ll discuss a model built for applications in statistical forensics which uncovered some very interesting problems between model-based perception and human perception. I will show visual diagnostics which provide insight into the model, and talk about ways we might address the discrepancy between human perception and model perception to produce more accurate and useful model predictions."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Presentations in 2023",
-    "section": "",
-    "text": "CAREER Award Chalk Talk\n\n\n\nSusan Vanderplas\n\n\nMar 8, 2023\n\n\n\n\n\n\nLocation\n\n\nOnline\n\n\n\n\nTopics\n\n\ngraphics,cognition,user-experiments\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat Makes a Good Graph?\n\n\n\nSusan Vanderplas\n\n\nMar 27, 2023\n\n\n\n\n\n\nLocation\n\n\nCenter for Brain, Biology, and Behavior, University of Nebraska - Lincoln\n\n\n\n\nTopics\n\n\ngraphics,cognition,user-experiments\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTesting Statistical Graphics\n\n\n\nSusan Vanderplas\n\n\nAug 8, 2023\n\n\n\n\n\n\nLocation\n\n\n2023 Joint Statistical Meetings, Toronto, Canada\n\n\n\n\nTopics\n\n\ngraphics,cognition,user-experiments\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGraphics and Cognition\n\n\n\nSusan Vanderplas\n\n\nOct 12, 2023\n\n\n\n\n\n\nLocation\n\n\nGraphics Group\n\n\n\n\nTopics\n\n\ngraphics,cognition,user-experiments\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirearms Studies and Error Rates\n\n\n\nSusan Vanderplas\n\n\nOct 27, 2023\n\n\n\n\n\n\nLocation\n\n\nHarvard and Johns Hopkins joint seminar on causal inference\n\n\n\n\nTopics\n\n\nforensics,firearms\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFWIII: Characteristics in Local Populations\n\n\n\nSusan Vanderplas & Muxin Hua\n\n\nNov 6, 2023\n\n\n\n\n\n\nLocation\n\n\nOnline CSAFE shoe research seminar\n\n\n\n\nTopics\n\n\nforensics,shoes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMultimodal Graphical Testing\n\n\n\nSusan Vanderplas\n\n\nNov 9, 2023\n\n\n\n\n\n\nLocation\n\n\nInternational Conference on Data Science, Universidad Diego Portales, Chile\n\n\n\n\nTopics\n\n\ngraphics,user-studies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow Do You Define a Circle?\n\n\n\nSusan Vanderplas & Muxin Hua\n\n\nDec 6, 2023\n\n\n\n\n\n\nLocation\n\n\nInternational Association of Statistical Computing, Asian Regional Chapter meeting, Macquarie, NSW, Australia\n\n\n\n\nTopics\n\n\nforensics,shoes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFWIII: Characteristics in Local Populations\n\n\n\nSusan Vanderplas & Muxin Hua\n\n\nDec 8, 2023\n\n\n\n\n\n\nLocation\n\n\nOnline\n\n\n\n\nTopics\n\n\nforensics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMultimodal Graphical Testing\n\n\n\nSusan Vanderplas\n\n\nDec 14, 2023\n\n\n\n\n\n\nLocation\n\n\nAustralian Statistical Conference, Wollongong, NSW, Australia\n\n\n\n\nTopics\n\n\ngraphics,user-studies\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
