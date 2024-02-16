@@ -48,15 +48,15 @@ stars <- stars %>%
 
 ggplot(data = filter(stars, Distance < 500)) + 
   # annotate(x = -.25, xend = .75, y = -2, yend = -6.5, arrow = arrow(ends = "both", length = unit(.1, "cm")), geom = "segment", color = "grey") + 
-  annotate(x = 0.125, xend = 2, y = 4.25, yend = 4.25, arrow = arrow(ends = "both", length = unit(.1, "cm")), geom = "segment", color = "grey") + 
+  ggplot2::annotate(x = 0.125, xend = 2, y = 4.25, yend = 4.25, arrow = arrow(ends = "both", length = unit(.1, "cm")), geom = "segment", color = "grey") + 
   geom_point(aes(x = ColorIndex, y = -AbsMag, color = Spectral.Class), alpha = .5) + 
   scale_x_continuous("B-V Color Index", breaks = c(0, .5, 1, 1.5, 2), labels = c("Hot  0.0       ", "0.5", "1.0", "1.5", "           2.0  Cool")) + 
   scale_y_continuous("Absolute Magnitude (Brightness)", breaks = c(-8, -4, 0, 4), labels = c(8, 4, 0, -4)) + 
   scale_color_manual("Spectral\nClass", values = c("#2E478C", "#426DB9", "#B5D7E3", "white", "#FAF685", "#E79027", "#DA281F")) + 
-  annotate(x = .25, y = -5.5, label = "Dwarfs", geom = "text", angle = -25, color = "white") + 
-  annotate(x = .5, y = -3.75, label = "Main Sequence", geom = "text", angle = -28) + 
-  annotate(x = 1.125, y = 0, label = "Giants", geom = "text") + 
-  annotate(x = 1, y = 4.5, label = "Supergiants", geom = "text", color = "white") +
+  ggplot2::annotate(x = .25, y = -5.5, label = "Dwarfs", geom = "text", angle = -25, color = "white") + 
+  ggplot2::annotate(x = .5, y = -3.75, label = "Main Sequence", geom = "text", angle = -28) + 
+  ggplot2::annotate(x = 1.125, y = 0, label = "Giants", geom = "text") + 
+  ggplot2::annotate(x = 1, y = 4.5, label = "Supergiants", geom = "text", color = "white") +
   theme(panel.background = element_blank(), legend.key = element_blank(), 
         text = element_text(size = 18, color = "white"), 
         plot.background = element_blank()) + 
